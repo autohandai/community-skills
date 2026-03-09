@@ -1,21 +1,30 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2025-01-02T00:00:00Z",
+  "updatedAt": "2026-03-09T00:00:00Z",
   "skills": [
     {
       "id": "typescript-refactoring-patterns",
       "name": "typescript-refactoring-patterns",
       "description": "Expert TypeScript refactoring patterns for cleaner, type-safe code",
       "category": "languages",
-      "tags": ["typescript", "refactoring", "patterns", "best-practices"],
-      "languages": ["typescript"],
+      "tags": [
+        "typescript",
+        "refactoring",
+        "patterns",
+        "best-practices"
+      ],
+      "languages": [
+        "typescript"
+      ],
       "frameworks": [],
       "isFeatured": true,
       "isCurated": true,
       "rating": 4.9,
       "downloadCount": 1250,
       "directory": "typescript-refactoring-patterns",
-      "files": ["SKILL.md"],
+      "files": [
+        "SKILL.md"
+      ],
       "version": "1.0.0",
       "license": "MIT",
       "author": "autohandai"
@@ -25,15 +34,28 @@
       "name": "react-component-architecture",
       "description": "Modern React component patterns with hooks, composition, and TypeScript",
       "category": "frameworks",
-      "tags": ["react", "typescript", "hooks", "patterns", "architecture"],
-      "languages": ["typescript", "javascript"],
-      "frameworks": ["react"],
+      "tags": [
+        "react",
+        "typescript",
+        "hooks",
+        "patterns",
+        "architecture"
+      ],
+      "languages": [
+        "typescript",
+        "javascript"
+      ],
+      "frameworks": [
+        "react"
+      ],
       "isFeatured": true,
       "isCurated": true,
       "rating": 4.8,
       "downloadCount": 980,
       "directory": "react-component-architecture",
-      "files": ["SKILL.md"],
+      "files": [
+        "SKILL.md"
+      ],
       "version": "1.0.0",
       "license": "MIT",
       "author": "autohandai"
@@ -43,15 +65,28 @@
       "name": "nextjs-app-router-mastery",
       "description": "Next.js 14+ App Router patterns, server components, and data fetching",
       "category": "frameworks",
-      "tags": ["nextjs", "react", "app-router", "server-components", "typescript"],
-      "languages": ["typescript"],
-      "frameworks": ["nextjs", "react"],
+      "tags": [
+        "nextjs",
+        "react",
+        "app-router",
+        "server-components",
+        "typescript"
+      ],
+      "languages": [
+        "typescript"
+      ],
+      "frameworks": [
+        "nextjs",
+        "react"
+      ],
       "isFeatured": true,
       "isCurated": true,
       "rating": 4.9,
       "downloadCount": 1100,
       "directory": "nextjs-app-router-mastery",
-      "files": ["SKILL.md"],
+      "files": [
+        "SKILL.md"
+      ],
       "version": "1.0.0",
       "license": "MIT",
       "author": "autohandai"
@@ -61,15 +96,25 @@
       "name": "cli-tool-development",
       "description": "Build professional CLI tools with Node.js, commander, and Ink",
       "category": "workflows",
-      "tags": ["cli", "nodejs", "commander", "ink", "typescript"],
-      "languages": ["typescript"],
+      "tags": [
+        "cli",
+        "nodejs",
+        "commander",
+        "ink",
+        "typescript"
+      ],
+      "languages": [
+        "typescript"
+      ],
       "frameworks": [],
       "isFeatured": true,
       "isCurated": true,
       "rating": 4.7,
       "downloadCount": 720,
       "directory": "cli-tool-development",
-      "files": ["SKILL.md"],
+      "files": [
+        "SKILL.md"
+      ],
       "version": "1.0.0",
       "license": "MIT",
       "author": "autohandai"
@@ -79,15 +124,29 @@
       "name": "api-design-restful",
       "description": "RESTful API design patterns, error handling, and documentation",
       "category": "workflows",
-      "tags": ["api", "rest", "design", "nodejs", "express"],
-      "languages": ["typescript", "javascript"],
-      "frameworks": ["express", "fastify"],
+      "tags": [
+        "api",
+        "rest",
+        "design",
+        "nodejs",
+        "express"
+      ],
+      "languages": [
+        "typescript",
+        "javascript"
+      ],
+      "frameworks": [
+        "express",
+        "fastify"
+      ],
       "isFeatured": false,
       "isCurated": true,
       "rating": 4.6,
       "downloadCount": 650,
       "directory": "api-design-restful",
-      "files": ["SKILL.md"],
+      "files": [
+        "SKILL.md"
+      ],
       "version": "1.0.0",
       "license": "MIT",
       "author": "autohandai"
@@ -97,15 +156,30 @@
       "name": "testing-strategies",
       "description": "Comprehensive testing strategies with Vitest, Jest, and Testing Library",
       "category": "workflows",
-      "tags": ["testing", "vitest", "jest", "tdd", "unit-tests", "integration"],
-      "languages": ["typescript", "javascript"],
-      "frameworks": ["react", "nodejs"],
+      "tags": [
+        "testing",
+        "vitest",
+        "jest",
+        "tdd",
+        "unit-tests",
+        "integration"
+      ],
+      "languages": [
+        "typescript",
+        "javascript"
+      ],
+      "frameworks": [
+        "react",
+        "nodejs"
+      ],
       "isFeatured": true,
       "isCurated": true,
       "rating": 4.8,
       "downloadCount": 890,
       "directory": "testing-strategies",
-      "files": ["SKILL.md"],
+      "files": [
+        "SKILL.md"
+      ],
       "version": "1.0.0",
       "license": "MIT",
       "author": "autohandai"
@@ -115,7 +189,13 @@
       "name": "git-workflow-mastery",
       "description": "Advanced Git workflows, branching strategies, and commit conventions",
       "category": "workflows",
-      "tags": ["git", "workflow", "branching", "commits", "collaboration"],
+      "tags": [
+        "git",
+        "workflow",
+        "branching",
+        "commits",
+        "collaboration"
+      ],
       "languages": [],
       "frameworks": [],
       "isFeatured": false,
@@ -123,7 +203,9 @@
       "rating": 4.5,
       "downloadCount": 540,
       "directory": "git-workflow-mastery",
-      "files": ["SKILL.md"],
+      "files": [
+        "SKILL.md"
+      ],
       "version": "1.0.0",
       "license": "MIT",
       "author": "autohandai"
@@ -133,15 +215,27 @@
       "name": "python-fastapi-patterns",
       "description": "FastAPI best practices, async patterns, and Pydantic validation",
       "category": "frameworks",
-      "tags": ["python", "fastapi", "async", "pydantic", "api"],
-      "languages": ["python"],
-      "frameworks": ["fastapi"],
+      "tags": [
+        "python",
+        "fastapi",
+        "async",
+        "pydantic",
+        "api"
+      ],
+      "languages": [
+        "python"
+      ],
+      "frameworks": [
+        "fastapi"
+      ],
       "isFeatured": false,
       "isCurated": true,
       "rating": 4.7,
       "downloadCount": 480,
       "directory": "python-fastapi-patterns",
-      "files": ["SKILL.md"],
+      "files": [
+        "SKILL.md"
+      ],
       "version": "1.0.0",
       "license": "MIT",
       "author": "autohandai"
@@ -151,15 +245,28 @@
       "name": "database-schema-design",
       "description": "Database schema design patterns for SQL and NoSQL databases",
       "category": "workflows",
-      "tags": ["database", "sql", "postgresql", "schema", "design"],
-      "languages": ["sql"],
-      "frameworks": ["drizzle", "prisma"],
+      "tags": [
+        "database",
+        "sql",
+        "postgresql",
+        "schema",
+        "design"
+      ],
+      "languages": [
+        "sql"
+      ],
+      "frameworks": [
+        "drizzle",
+        "prisma"
+      ],
       "isFeatured": false,
       "isCurated": true,
       "rating": 4.6,
       "downloadCount": 420,
       "directory": "database-schema-design",
-      "files": ["SKILL.md"],
+      "files": [
+        "SKILL.md"
+      ],
       "version": "1.0.0",
       "license": "MIT",
       "author": "autohandai"
@@ -169,15 +276,27 @@
       "name": "tailwind-ui-patterns",
       "description": "Tailwind CSS v4 patterns, component styling, and responsive design",
       "category": "frameworks",
-      "tags": ["tailwind", "css", "ui", "responsive", "styling"],
-      "languages": ["css"],
-      "frameworks": ["tailwind"],
+      "tags": [
+        "tailwind",
+        "css",
+        "ui",
+        "responsive",
+        "styling"
+      ],
+      "languages": [
+        "css"
+      ],
+      "frameworks": [
+        "tailwind"
+      ],
       "isFeatured": true,
       "isCurated": true,
       "rating": 4.8,
       "downloadCount": 760,
       "directory": "tailwind-ui-patterns",
-      "files": ["SKILL.md"],
+      "files": [
+        "SKILL.md"
+      ],
       "version": "1.0.0",
       "license": "MIT",
       "author": "autohandai"
@@ -187,15 +306,24 @@
       "name": "error-handling-patterns",
       "description": "Robust error handling patterns for TypeScript applications",
       "category": "languages",
-      "tags": ["typescript", "error-handling", "patterns", "resilience"],
-      "languages": ["typescript"],
+      "tags": [
+        "typescript",
+        "error-handling",
+        "patterns",
+        "resilience"
+      ],
+      "languages": [
+        "typescript"
+      ],
       "frameworks": [],
       "isFeatured": false,
       "isCurated": true,
       "rating": 4.5,
       "downloadCount": 380,
       "directory": "error-handling-patterns",
-      "files": ["SKILL.md"],
+      "files": [
+        "SKILL.md"
+      ],
       "version": "1.0.0",
       "license": "MIT",
       "author": "autohandai"
@@ -205,7 +333,13 @@
       "name": "documentation-writing",
       "description": "Technical documentation best practices and API documentation",
       "category": "workflows",
-      "tags": ["documentation", "markdown", "api-docs", "jsdoc", "tsdoc"],
+      "tags": [
+        "documentation",
+        "markdown",
+        "api-docs",
+        "jsdoc",
+        "tsdoc"
+      ],
       "languages": [],
       "frameworks": [],
       "isFeatured": false,
@@ -213,16 +347,4166 @@
       "rating": 4.4,
       "downloadCount": 290,
       "directory": "documentation-writing",
-      "files": ["SKILL.md"],
+      "files": [
+        "SKILL.md"
+      ],
       "version": "1.0.0",
       "license": "MIT",
       "author": "autohandai"
+    },
+    {
+      "id": "find-skills",
+      "name": "find-skills",
+      "description": "Helps users discover and install agent skills when they ask questions like \"how do I do X\", \"find a skill for X\", \"is there a skill that can...\", or express interest in extending capabilities. This skill should be used when the user is looking for functionality that might exist as an installable skill.",
+      "category": "agent-skills",
+      "tags": [],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": true,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 454900,
+      "directory": "find-skills",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "vercel-labs",
+      "source": "vercel-labs/skills"
+    },
+    {
+      "id": "vercel-react-best-practices",
+      "name": "vercel-react-best-practices",
+      "description": "React and Next.js performance optimization guidelines from Vercel Engineering. This skill should be used when writing, reviewing, or refactoring React/Next.js code to ensure optimal performance patterns. Triggers on tasks involving React components, Next.js pages, data fetching, bundle optimization, or performance improvements.",
+      "category": "frameworks",
+      "tags": [],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": true,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 185700,
+      "directory": "vercel-react-best-practices",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "vercel-labs",
+      "source": "vercel-labs/agent-skills"
+    },
+    {
+      "id": "web-design-guidelines",
+      "name": "web-design-guidelines",
+      "description": "Review UI code for Web Interface Guidelines compliance. Use when asked to \"review my UI\", \"check accessibility\", \"audit design\", \"review UX\", or \"check my site against best practices\".",
+      "category": "design",
+      "tags": [],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": true,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 145200,
+      "directory": "web-design-guidelines",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "vercel-labs",
+      "source": "vercel-labs/agent-skills"
+    },
+    {
+      "id": "frontend-design",
+      "name": "frontend-design",
+      "description": "Create distinctive, production-grade frontend interfaces with high design quality. Use this skill when the user asks to build web components, pages, artifacts, posters, or applications (examples include websites, landing pages, dashboards, React components, HTML/CSS layouts, or when styling/beautifying any web UI). Generates creative, polished code and UI design that avoids generic AI aesthetics.",
+      "category": "design",
+      "tags": [],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": true,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 133300,
+      "directory": "frontend-design",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "Complete terms in LICENSE.txt",
+      "author": "anthropic",
+      "source": "anthropics/skills"
+    },
+    {
+      "id": "remotion-best-practices",
+      "name": "remotion-best-practices",
+      "description": "Best practices for Remotion - Video creation in React",
+      "category": "ai-tools",
+      "tags": [],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": true,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 131500,
+      "directory": "remotion-best-practices",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "remotion-dev",
+      "source": "remotion-dev/skills"
+    },
+    {
+      "id": "azure-ai",
+      "name": "azure-ai",
+      "description": "Use for Azure AI: Search, Speech, OpenAI, Document Intelligence. Helps with search, vector/hybrid search, speech-to-text, text-to-speech, transcription, OCR. WHEN: AI Search, query search, vector search, hybrid search, semantic search, speech-to-text, text-to-speech, transcribe, OCR, convert text to speech.",
+      "category": "cloud",
+      "tags": [],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": true,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 119700,
+      "directory": "azure-ai",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "microsoft",
+      "source": "microsoft/github-copilot-for-azure"
+    },
+    {
+      "id": "azure-cost-optimization",
+      "name": "azure-cost-optimization",
+      "description": "Identify and quantify cost savings across Azure subscriptions by analyzing actual costs, utilization metrics, and generating actionable optimization recommendations. USE FOR: optimize Azure costs, reduce Azure spending, reduce Azure expenses, analyze Azure costs, find cost savings, generate cost optimization report, find orphaned resources, rightsize VMs, cost analysis, reduce waste, Azure spending analysis, find unused resources, optimize Redis costs. DO NOT USE FOR: deploying resources (use azure-deploy), general Azure diagnostics (use azure-diagnostics), security issues (use azure-security)",
+      "category": "cloud",
+      "tags": [],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": true,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 119500,
+      "directory": "azure-cost-optimization",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "microsoft",
+      "source": "microsoft/github-copilot-for-azure"
+    },
+    {
+      "id": "azure-deploy",
+      "name": "azure-deploy",
+      "description": "Execute Azure deployments for ALREADY-PREPARED applications that have existing .azure/plan.md and infrastructure files. DO NOT use this skill when the user asks to CREATE a new application \u2014 use azure-prepare instead. This skill runs azd up, azd deploy, terraform apply, and az deployment commands with built-in error recovery. Requires .azure/plan.md from azure-prepare and validated status from azure-validate. WHEN: \\\"run azd up\\\", \\\"run azd deploy\\\", \\\"execute deployment\\\", \\\"push to production\\\", \\\"push to cloud\\\", \\\"go live\\\", \\\"ship it\\\", \\\"bicep deploy\\\", \\\"terraform apply\\\", \\\"publish to Azure\\\", \\\"launch on Azure\\\". DO NOT USE WHEN: \\\"create and deploy\\\", \\\"build and deploy\\\", \\\"create a new app\\\", \\\"set up infrastructure\\\", \\\"create and deploy to Azure using Terraform\\\" \u2014 use azure-prepare for these.",
+      "category": "cloud",
+      "tags": [],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": true,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 119500,
+      "directory": "azure-deploy",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "microsoft",
+      "source": "microsoft/github-copilot-for-azure"
+    },
+    {
+      "id": "azure-storage",
+      "name": "azure-storage",
+      "description": "Azure Storage Services including Blob Storage, File Shares, Queue Storage, Table Storage, and Data Lake. Provides object storage, SMB file shares, async messaging, NoSQL key-value, and big data analytics capabilities. Includes access tiers (hot, cool, archive) and lifecycle management. USE FOR: blob storage, file shares, queue storage, table storage, data lake, upload files, download blobs, storage accounts, access tiers, lifecycle management. DO NOT USE FOR: SQL databases, Cosmos DB (use azure-prepare), messaging with Event Hubs or Service Bus (use azure-messaging).",
+      "category": "cloud",
+      "tags": [],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": true,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 119500,
+      "directory": "azure-storage",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "microsoft",
+      "source": "microsoft/github-copilot-for-azure"
+    },
+    {
+      "id": "azure-diagnostics",
+      "name": "azure-diagnostics",
+      "description": "Debug and troubleshoot production issues on Azure. Covers Container Apps and Function Apps diagnostics, log analysis with KQL, health checks, and common issue resolution for image pulls, cold starts, health probes, and function invocation failures. USE FOR: debug production issues, troubleshoot container apps, troubleshoot function apps, troubleshoot Azure Functions, analyze logs with KQL, fix image pull failures, resolve cold start issues, investigate health probe failures, check resource health, view application logs, find root cause of errors, function app not working, function invocation failures DO NOT USE FOR: deploying applications (use azure-deploy), creating new resources (use azure-prepare), cost optimization (use azure-cost-optimization)",
+      "category": "cloud",
+      "tags": [],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": true,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 119400,
+      "directory": "azure-diagnostics",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "microsoft",
+      "source": "microsoft/github-copilot-for-azure"
+    },
+    {
+      "id": "entra-app-registration",
+      "name": "entra-app-registration",
+      "description": "Guides Microsoft Entra ID app registration, OAuth 2.0 authentication, and MSAL integration. USE FOR: create app registration, register Azure AD app, configure OAuth, set up authentication, add API permissions, generate service principal, MSAL example, console app auth, Entra ID setup, Azure AD authentication. DO NOT USE FOR: Azure RBAC or role assignments (use azure-rbac), Key Vault secrets (use azure-keyvault-expiration-audit), Azure resource security (use azure-security).",
+      "category": "cloud",
+      "tags": [],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": true,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 119400,
+      "directory": "entra-app-registration",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "microsoft",
+      "source": "microsoft/github-copilot-for-azure"
+    },
+    {
+      "id": "microsoft-foundry",
+      "name": "microsoft-foundry",
+      "description": "Deploy, evaluate, and manage Foundry agents end-to-end: Docker build, ACR push, hosted/prompt agent create, container start, batch eval, prompt optimization, agent.yaml, dataset curation from traces. USE FOR: deploy agent to Foundry, hosted agent, create agent, invoke agent, evaluate agent, run batch eval, optimize prompt, deploy model, Foundry project, RBAC, role assignment, permissions, quota, capacity, region, troubleshoot agent, deployment failure, create dataset from traces, dataset versioning, eval trending, create AI Services, Cognitive Services, create Foundry resource, provision resource, knowledge index, agent monitoring, customize deployment, onboard, availability, standard agent setup, capability host. DO NOT USE FOR: Azure Functions, App Service, general Azure deploy (use azure-deploy), general Azure prep (use azure-prepare).",
+      "category": "cloud",
+      "tags": [],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": true,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 119400,
+      "directory": "microsoft-foundry",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "microsoft",
+      "source": "microsoft/github-copilot-for-azure"
+    },
+    {
+      "id": "appinsights-instrumentation",
+      "name": "appinsights-instrumentation",
+      "description": "Guidance for instrumenting webapps with Azure Application Insights. Provides telemetry patterns, SDK setup, and configuration references. WHEN: how to instrument app, App Insights SDK, telemetry patterns, what is App Insights, Application Insights guidance, instrumentation examples, APM best practices.",
+      "category": "cloud",
+      "tags": [],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": true,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 119300,
+      "directory": "appinsights-instrumentation",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "microsoft",
+      "source": "microsoft/github-copilot-for-azure"
+    },
+    {
+      "id": "azure-aigateway",
+      "name": "azure-aigateway",
+      "description": "Configure Azure API Management as an AI Gateway for AI models, MCP tools, and agents. WHEN: semantic caching, token limit, content safety, load balancing, AI model governance, MCP rate limiting, jailbreak detection, add Azure OpenAI backend, add AI Foundry model, test AI gateway, LLM policies, configure AI backend, token metrics, AI cost control, convert API to MCP, import OpenAPI to gateway.",
+      "category": "cloud",
+      "tags": [],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": true,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 119300,
+      "directory": "azure-aigateway",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "microsoft",
+      "source": "microsoft/github-copilot-for-azure"
+    },
+    {
+      "id": "azure-compliance",
+      "name": "azure-compliance",
+      "description": "Comprehensive Azure compliance and security auditing capabilities including best practices assessment, Key Vault expiration monitoring, and resource configuration validation. WHEN: compliance scan, security audit, azqr, Azure best practices, Key Vault expiration check, compliance assessment, resource review, configuration validation, expired certificates, expiring secrets, orphaned resources, policy compliance, security posture evaluation.",
+      "category": "cloud",
+      "tags": [],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": true,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 119300,
+      "directory": "azure-compliance",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "microsoft",
+      "source": "microsoft/github-copilot-for-azure"
+    },
+    {
+      "id": "azure-kusto",
+      "name": "azure-kusto",
+      "description": "Query and analyze data in Azure Data Explorer (Kusto/ADX) using KQL for log analytics, telemetry, and time series analysis. USE FOR: KQL queries, Kusto database queries, Azure Data Explorer, ADX clusters, log analytics, time series data, IoT telemetry, anomaly detection DO NOT USE FOR: SQL databases, NoSQL queries (use azure-storage), Elasticsearch, AWS analytics tools",
+      "category": "cloud",
+      "tags": [],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": true,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 119300,
+      "directory": "azure-kusto",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "microsoft",
+      "source": "microsoft/github-copilot-for-azure"
+    },
+    {
+      "id": "azure-prepare",
+      "name": "azure-prepare",
+      "description": "Prepare Azure apps for deployment (infra Bicep/Terraform, azure.yaml, Dockerfiles). Use for create/modernize or create+deploy; not cross-cloud migration (use azure-cloud-migrate). WHEN: \\\"create app\\\", \\\"build web app\\\", \\\"create API\\\", \\\"create serverless HTTP API\\\", \\\"create frontend\\\", \\\"create back end\\\", \\\"build a service\\\", \\\"modernize application\\\", \\\"update application\\\", \\\"add authentication\\\", \\\"add caching\\\", \\\"host on Azure\\\", \\\"create and deploy\\\", \\\"deploy to Azure\\\", \\\"deploy to Azure using Terraform\\\", \\\"deploy to Azure App Service\\\", \\\"deploy to Azure App Service using Terraform\\\", \\\"deploy to Azure Container Apps\\\", \\\"deploy to Azure Container Apps using Terraform\\\", \\\"generate Terraform\\\", \\\"generate Bicep\\\", \\\"function app\\\", \\\"timer trigger\\\", \\\"service bus trigger\\\", \\\"event-driven function\\\", \\\"containerized Node.js app\\\", \\\"social media app\\\", \\\"static portfolio website\\\", \\\"todo list with frontend and API\\\", \\\"prepare my Azure application to use Key Vault\\\", \\\"managed identity\\\".",
+      "category": "cloud",
+      "tags": [],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": true,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 119300,
+      "directory": "azure-prepare",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "microsoft",
+      "source": "microsoft/github-copilot-for-azure"
+    },
+    {
+      "id": "azure-rbac",
+      "name": "azure-rbac",
+      "description": "Helps users find the right Azure RBAC role for an identity with least privilege access, then generate CLI commands and Bicep code to assign it. Also provides guidance on permissions required to grant roles. USE FOR: \\\"what role should I assign\\\", \\\"least privilege role\\\", \\\"RBAC role for\\\", \\\"role to read blobs\\\", \\\"role for managed identity\\\", \\\"custom role definition\\\", \\\"assign role to identity\\\", \\\"what role do I need to grant access\\\", \\\"permissions to assign roles\\\". DO NOT USE FOR: creating or configuring managed identities, or general Azure security hardening; those are out of scope for this role-selection skill.",
+      "category": "cloud",
+      "tags": [],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": true,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 119300,
+      "directory": "azure-rbac",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "microsoft",
+      "source": "microsoft/github-copilot-for-azure"
+    },
+    {
+      "id": "azure-resource-lookup",
+      "name": "azure-resource-lookup",
+      "description": "List, find, and show Azure resources. Answers \\\"list my VMs\\\", \\\"show my storage accounts\\\", \\\"list websites\\\", \\\"find container apps\\\", \\\"what resources do I have\\\", and similar queries for any Azure resource type. USE FOR: list resources, list virtual machines, list VMs, list storage accounts, list websites, list web apps, list container apps, show resources, find resources, what resources do I have, list resources in resource group, list resources in subscription, find resources by tag, find orphaned resources, resource inventory, count resources by type, cross-subscription resource query, Azure Resource Graph, resource discovery, list container registries, list SQL servers, list Key Vaults, show resource groups, list app services, find resources across subscriptions, find unattached disks, tag analysis. DO NOT USE FOR: deploying resources (use azure-deploy), creating or modifying resources, cost optimization (use azure-cost-optimization), writing application code, non-Azure clouds.",
+      "category": "cloud",
+      "tags": [],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": true,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 119300,
+      "directory": "azure-resource-lookup",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "microsoft",
+      "source": "microsoft/github-copilot-for-azure"
+    },
+    {
+      "id": "azure-resource-visualizer",
+      "name": "azure-resource-visualizer",
+      "description": "Analyze Azure resource groups and generate detailed Mermaid architecture diagrams showing the relationships between individual resources. USE FOR: create architecture diagram, visualize Azure resources, show resource relationships, generate Mermaid diagram, analyze resource group, diagram my resources, architecture visualization, resource topology, map Azure infrastructure DO NOT USE FOR: creating/modifying resources (use azure-deploy), security scanning (use azure-security), performance troubleshooting (use azure-diagnostics), code generation (use relevant service skill)",
+      "category": "cloud",
+      "tags": [],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": true,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 119300,
+      "directory": "azure-resource-visualizer",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "microsoft",
+      "source": "microsoft/github-copilot-for-azure"
+    },
+    {
+      "id": "azure-validate",
+      "name": "azure-validate",
+      "description": "Pre-deployment validation for Azure readiness. Run deep checks on configuration, infrastructure (Bicep or Terraform), permissions, and prerequisites before deploying. WHEN: validate my app, check deployment readiness, run preflight checks, verify configuration, check if ready to deploy, validate azure.yaml, validate Bicep, test before deploying, troubleshoot deployment errors, validate Azure Functions, validate function app, validate serverless deployment.",
+      "category": "cloud",
+      "tags": [],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": true,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 119300,
+      "directory": "azure-validate",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "microsoft",
+      "source": "microsoft/github-copilot-for-azure"
+    },
+    {
+      "id": "azure-messaging",
+      "name": "azure-messaging",
+      "description": "Troubleshoot and resolve issues with Azure Messaging SDKs for Event Hubs and Service Bus. Covers connection failures, authentication errors, message processing issues, and SDK configuration problems. USE FOR: event hub SDK error, service bus SDK issue, messaging connection failure, AMQP error, event processor host issue, message lock lost, send timeout, receiver disconnected, SDK troubleshooting, azure messaging SDK, event hub consumer, service bus queue issue, topic subscription error, enable logging event hub, service bus logging, eventhub python, servicebus java, eventhub javascript, servicebus dotnet, event hub checkpoint, event hub not receiving messages, service bus dead letter DO NOT USE FOR: creating Event Hub or Service Bus resources (use azure-prepare), cost analysis (use azure-cost-optimization)",
+      "category": "cloud",
+      "tags": [],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": true,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 108100,
+      "directory": "azure-messaging",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "microsoft",
+      "source": "microsoft/github-copilot-for-azure"
+    },
+    {
+      "id": "azure-hosted-copilot-sdk",
+      "name": "azure-hosted-copilot-sdk",
+      "description": "Build and deploy GitHub Copilot SDK apps to Azure. USE FOR: build copilot app, create copilot app, copilot SDK, @github/copilot-sdk, scaffold copilot project, copilot-powered app, deploy copilot app, host on azure, azure model, BYOM, bring your own model, use my own model, azure openai model, DefaultAzureCredential, self-hosted model, copilot SDK service, chat app with copilot, copilot-sdk-service template, azd init copilot, CopilotClient, createSession, sendAndWait, GitHub Models API. DO NOT USE FOR: using Copilot (not building with it), Copilot Extensions, Azure Functions without Copilot, general web apps without copilot SDK, Foundry agent hosting (use microsoft-foundry skill), agent evaluation (use microsoft-foundry skill).",
+      "category": "cloud",
+      "tags": [],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": true,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 90200,
+      "directory": "azure-hosted-copilot-sdk",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "microsoft",
+      "source": "microsoft/github-copilot-for-azure"
+    },
+    {
+      "id": "sleek-design-mobile-apps",
+      "name": "sleek-design-mobile-apps",
+      "description": "Use when the user wants to design a mobile app, create screens, build UI, or interact with their Sleek projects. Covers high-level requests (\"design an app that does X\") and specific ones (\"list my projects\", \"create a new project\", \"screenshot that screen\").",
+      "category": "design",
+      "tags": [],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": true,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 83400,
+      "directory": "sleek-design-mobile-apps",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "sleekdotdesign",
+      "source": "sleekdotdesign/agent-skills"
+    },
+    {
+      "id": "agent-browser",
+      "name": "agent-browser",
+      "description": "Browser automation CLI for AI agents. Use when the user needs to interact with websites, including navigating pages, filling forms, clicking buttons, taking screenshots, extracting data, testing web apps, or automating any browser task. Triggers include requests to \"open a website\", \"fill out a form\", \"click a button\", \"take a screenshot\", \"scrape data from a page\", \"test this web app\", \"login to a site\", \"automate browser actions\", or any task requiring programmatic web interaction.",
+      "category": "agent-skills",
+      "tags": [],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": true,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 81700,
+      "directory": "agent-browser",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "vercel-labs",
+      "source": "vercel-labs/agent-browser"
+    },
+    {
+      "id": "vercel-composition-patterns",
+      "name": "vercel-composition-patterns",
+      "description": "Composition patterns for building flexible, maintainable React components. Avoid",
+      "category": "frameworks",
+      "tags": [],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": true,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 74000,
+      "directory": "vercel-composition-patterns",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "vercel-labs",
+      "source": "vercel-labs/agent-skills"
+    },
+    {
+      "id": "skill-creator",
+      "name": "skill-creator",
+      "description": "Create new skills, modify and improve existing skills, and measure skill performance. Use when users want to create a skill from scratch, edit, or optimize an existing skill, run evals to test a skill, benchmark skill performance with variance analysis, or optimize a skill's description for better triggering accuracy.",
+      "category": "agent-skills",
+      "tags": [],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": true,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 68100,
+      "directory": "skill-creator",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "anthropic",
+      "source": "anthropics/skills"
+    },
+    {
+      "id": "azure-compute",
+      "name": "azure-compute",
+      "description": "Recommend Azure VM sizes, VM Scale Sets (VMSS), and configurations based on workload requirements, performance needs, and budget constraints. No Azure account required \u2014 uses public documentation and the Azure Retail Prices API. WHEN: recommend VM size, which VM should I use, choose Azure VM, VM for web/database/ML/batch/HPC, GPU VM, compare VM sizes, cheapest VM, best VM for workload, VM pricing, cost estimate, burstable/compute/memory/storage optimized VM, confidential computing, VM trade-offs, VM families, VMSS, scale set recommendation, autoscale VMs, load balanced VMs, VMSS vs VM, scale out, horizontal scaling, flexible orchestration.",
+      "category": "cloud",
+      "tags": [],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": true,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 59100,
+      "directory": "azure-compute",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "microsoft",
+      "source": "microsoft/github-copilot-for-azure"
+    },
+    {
+      "id": "vercel-react-native-skills",
+      "name": "vercel-react-native-skills",
+      "description": "Comprehensive best practices for React Native and Expo applications. Contains",
+      "category": "frameworks",
+      "tags": [],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": true,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 51900,
+      "directory": "vercel-react-native-skills",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "vercel-labs",
+      "source": "vercel-labs/agent-skills"
+    },
+    {
+      "id": "ui-ux-pro-max",
+      "name": "ui-ux-pro-max",
+      "description": "UI/UX design intelligence. 50 styles, 21 palettes, 50 font pairings, 20 charts, 9 stacks (React, Next.js, Vue, Svelte, SwiftUI, React Native, Flutter, Tailwind, shadcn/ui). Actions: plan, build, create, design, implement, review, fix, improve, optimize, enhance, refactor, check UI/UX code. Projects: website, landing page, dashboard, admin panel, e-commerce, SaaS, portfolio, blog, mobile app, .html, .tsx, .vue, .svelte. Elements: button, modal, navbar, sidebar, card, table, form, chart. Styles: glassmorphism, claymorphism, minimalism, brutalism, neumorphism, bento grid, dark mode, responsive, skeuomorphism, flat design. Topics: color palette, accessibility, animation, layout, typography, font pairing, spacing, hover, shadow, gradient. Integrations: shadcn/ui MCP for component search and examples.",
+      "category": "design",
+      "tags": [],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": true,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 51100,
+      "directory": "ui-ux-pro-max",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "nextlevelbuilder",
+      "source": "nextlevelbuilder/ui-ux-pro-max-skill"
+    },
+    {
+      "id": "azure-cloud-migrate",
+      "name": "azure-cloud-migrate",
+      "description": "Assess and migrate cross-cloud workloads to Azure. Generates assessment reports and converts code from AWS, GCP, or other providers to Azure services. WHEN: migrate Lambda to Azure Functions, migrate AWS to Azure, Lambda migration assessment, convert AWS serverless to Azure, migration readiness report, migrate from AWS, migrate from GCP, cross-cloud migration.",
+      "category": "cloud",
+      "tags": [],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 49000,
+      "directory": "azure-cloud-migrate",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "microsoft",
+      "source": "microsoft/github-copilot-for-azure"
+    },
+    {
+      "id": "browser-use",
+      "name": "browser-use",
+      "description": "Automates browser interactions for web testing, form filling, screenshots, and data extraction. Use when the user needs to navigate websites, interact with web pages, fill forms, take screenshots, or extract information from web pages.",
+      "category": "agent-skills",
+      "tags": [],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 46200,
+      "directory": "browser-use",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "browser-use",
+      "source": "browser-use/browser-use"
+    },
+    {
+      "id": "brainstorming",
+      "name": "brainstorming",
+      "description": "You MUST use this before any creative work - creating features, building components, adding functionality, or modifying behavior. Explores user intent, requirements and design before implementation.",
+      "category": "workflows",
+      "tags": [],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 44700,
+      "directory": "brainstorming",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "obra",
+      "source": "obra/superpowers"
+    },
+    {
+      "id": "seo-audit",
+      "name": "seo-audit",
+      "description": "When the user wants to audit, review, or diagnose SEO issues on their site. Also use when the user mentions \"SEO audit,\" \"technical SEO,\" \"why am I not ranking,\" \"SEO issues,\" \"on-page SEO,\" \"meta tags review,\" \"SEO health check,\" \"my traffic dropped,\" \"lost rankings,\" \"not showing up in Google,\" \"site isn't ranking,\" \"Google update hit me,\" \"page speed,\" \"core web vitals,\" \"crawl errors,\" or \"indexing issues.\" Use this even if the user just says something vague like \"my SEO is bad\" or \"help with SEO\" \u2014 start with an audit. For building pages at scale to target keywords, see programmatic-seo. For adding structured data, see schema-markup. For AI search optimization, see ai-seo.",
+      "category": "marketing",
+      "tags": [],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 36500,
+      "directory": "seo-audit",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "coreyhaines31",
+      "source": "coreyhaines31/marketingskills"
+    },
+    {
+      "id": "audit-website",
+      "name": "audit-website",
+      "description": "Audit websites for SEO, performance, security, technical, content, and 15 other issue cateories with 230+ rules using the squirrelscan CLI. Returns LLM-optimized reports with health scores, broken links, meta tag analysis, and actionable recommendations. Use to discover and asses website or webapp issues and health.",
+      "category": "community",
+      "tags": [],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 32900,
+      "directory": "audit-website",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "See LICENSE file in repository root",
+      "author": "squirrelscan",
+      "source": "squirrelscan/skills"
+    },
+    {
+      "id": "pdf",
+      "name": "pdf",
+      "description": "Use this skill whenever the user wants to do anything with PDF files. This includes reading or extracting text/tables from PDFs, combining or merging multiple PDFs into one, splitting PDFs apart, rotating pages, adding watermarks, creating new PDFs, filling PDF forms, encrypting/decrypting PDFs, extracting images, and OCR on scanned PDFs to make them searchable. If the user mentions a .pdf file or asks to produce one, use this skill.",
+      "category": "documents",
+      "tags": [],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 31500,
+      "directory": "pdf",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "Proprietary. LICENSE.txt has complete terms",
+      "author": "anthropic",
+      "source": "anthropics/skills"
+    },
+    {
+      "id": "supabase-postgres-best-practices",
+      "name": "supabase-postgres-best-practices",
+      "description": "Postgres performance optimization and best practices from Supabase. Use this skill when writing, reviewing, or optimizing Postgres queries, schema designs, or database configurations.",
+      "category": "frameworks",
+      "tags": [],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 29900,
+      "directory": "supabase-postgres-best-practices",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "supabase",
+      "source": "supabase/agent-skills"
+    },
+    {
+      "id": "copywriting",
+      "name": "copywriting",
+      "description": "When the user wants to write, rewrite, or improve marketing copy for any page \u2014 including homepage, landing pages, pricing pages, feature pages, about pages, or product pages. Also use when the user says \"write copy for,\" \"improve this copy,\" \"rewrite this page,\" \"marketing copy,\" \"headline help,\" \"CTA copy,\" \"value proposition,\" \"tagline,\" \"subheadline,\" \"hero section copy,\" \"above the fold,\" \"this copy is weak,\" \"make this more compelling,\" or \"help me describe my product.\" Use this whenever someone is working on website text that needs to persuade or convert. For email copy, see email-sequence. For popup copy, see popup-cro. For editing existing copy, see copy-editing.",
+      "category": "marketing",
+      "tags": [],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 29500,
+      "directory": "copywriting",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "coreyhaines31",
+      "source": "coreyhaines31/marketingskills"
+    },
+    {
+      "id": "next-best-practices",
+      "name": "next-best-practices",
+      "description": "Next.js best practices - file conventions, RSC boundaries, data patterns, async APIs, metadata, error handling, route handlers, image/font optimization, bundling",
+      "category": "frameworks",
+      "tags": [],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 28900,
+      "directory": "next-best-practices",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "vercel-labs",
+      "source": "vercel-labs/next-skills"
+    },
+    {
+      "id": "pptx",
+      "name": "pptx",
+      "description": "Use this skill any time a .pptx file is involved in any way \u2014 as input, output, or both. This includes: creating slide decks, pitch decks, or presentations; reading, parsing, or extracting text from any .pptx file (even if the extracted content will be used elsewhere, like in an email or summary); editing, modifying, or updating existing presentations; combining or splitting slide files; working with templates, layouts, speaker notes, or comments. Trigger whenever the user mentions \\\"deck,\\\" \\\"slides,\\\" \\\"presentation,\\\" or references a .pptx filename, regardless of what they plan to do with the content afterward. If a .pptx file needs to be opened, created, or touched, use this skill.",
+      "category": "documents",
+      "tags": [],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 27200,
+      "directory": "pptx",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "Proprietary. LICENSE.txt has complete terms",
+      "author": "anthropic",
+      "source": "anthropics/skills"
+    },
+    {
+      "id": "systematic-debugging",
+      "name": "systematic-debugging",
+      "description": "Use when encountering any bug, test failure, or unexpected behavior, before proposing fixes",
+      "category": "workflows",
+      "tags": [],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 25100,
+      "directory": "systematic-debugging",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "obra",
+      "source": "obra/superpowers"
+    },
+    {
+      "id": "docx",
+      "name": "docx",
+      "description": "Use this skill whenever the user wants to create, read, edit, or manipulate Word documents (.docx files). Triggers include: any mention of 'Word doc', 'word document', '.docx', or requests to produce professional documents with formatting like tables of contents, headings, page numbers, or letterheads. Also use when extracting or reorganizing content from .docx files, inserting or replacing images in documents, performing find-and-replace in Word files, working with tracked changes or comments, or converting content into a polished Word document. If the user asks for a 'report', 'memo', 'letter', 'template', or similar deliverable as a Word or .docx file, use this skill. Do NOT use for PDFs, spreadsheets, Google Docs, or general coding tasks unrelated to document generation.",
+      "category": "documents",
+      "tags": [],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 24400,
+      "directory": "docx",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "Proprietary. LICENSE.txt has complete terms",
+      "author": "anthropic",
+      "source": "anthropics/skills"
+    },
+    {
+      "id": "writing-plans",
+      "name": "writing-plans",
+      "description": "Use when you have a spec or requirements for a multi-step task, before touching code",
+      "category": "workflows",
+      "tags": [],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 23200,
+      "directory": "writing-plans",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "obra",
+      "source": "obra/superpowers"
+    },
+    {
+      "id": "xlsx",
+      "name": "xlsx",
+      "description": "Use this skill any time a spreadsheet file is the primary input or output. This means any task where the user wants to: open, read, edit, or fix an existing .xlsx, .xlsm, .csv, or .tsv file (e.g., adding columns, computing formulas, formatting, charting, cleaning messy data); create a new spreadsheet from scratch or from other data sources; or convert between tabular file formats. Trigger especially when the user references a spreadsheet file by name or path \u2014 even casually (like \\\"the xlsx in my downloads\\\") \u2014 and wants something done to it or produced from it. Also trigger for cleaning or restructuring messy tabular data files (malformed rows, misplaced headers, junk data) into proper spreadsheets. The deliverable must be a spreadsheet file. Do NOT trigger when the primary deliverable is a Word document, HTML report, standalone Python script, database pipeline, or Google Sheets API integration, even if tabular data is involved.",
+      "category": "documents",
+      "tags": [],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 22800,
+      "directory": "xlsx",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "Proprietary. LICENSE.txt has complete terms",
+      "author": "anthropic",
+      "source": "anthropics/skills"
+    },
+    {
+      "id": "agent-browser-toolshell",
+      "name": "agent-browser",
+      "description": "Browser automation for AI agents via inference.sh. Navigate web pages, interact with elements using @e refs, take screenshots, record video. Capabilities: web scraping, form filling, clicking, typing, drag-drop, file upload, JavaScript execution. Use for: web automation, data extraction, testing, agent browsing, research. Triggers: browser, web automation, scrape, navigate, click, fill form, screenshot, browse web, playwright, headless browser, web agent, surf internet, record video",
+      "category": "agent-skills",
+      "tags": [],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 21600,
+      "directory": "agent-browser-toolshell",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "toolshell",
+      "source": "toolshell/skills"
+    },
+    {
+      "id": "agent-tools",
+      "name": "agent-tools",
+      "description": "Run 150+ AI apps via inference.sh CLI - image generation, video creation, LLMs, search, 3D, Twitter automation. Models: FLUX, Veo, Gemini, Grok, Claude, Seedance, OmniHuman, Tavily, Exa, OpenRouter, and many more. Use when running AI apps, generating images/videos, calling LLMs, web search, or automating Twitter. Triggers: inference.sh, infsh, ai model, run ai, serverless ai, ai api, flux, veo, claude api, image generation, video generation, openrouter, tavily, exa search, twitter api, grok",
+      "category": "agent-skills",
+      "tags": [],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 21600,
+      "directory": "agent-tools",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "toolshell",
+      "source": "toolshell/skills"
+    },
+    {
+      "id": "nano-banana-2",
+      "name": "nano-banana-2",
+      "description": "Generate images with Google Gemini 3.1 Flash Image Preview (Nano Banana 2) via inference.sh CLI. Capabilities: text-to-image, image editing, multi-image input (up to 14 images), Google Search grounding. Triggers: nano banana 2, nanobanana 2, gemini 3.1 flash image, gemini 3 1 flash image preview, google image generation",
+      "category": "ai-tools",
+      "tags": [],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 21600,
+      "directory": "nano-banana-2",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "toolshell",
+      "source": "toolshell/skills"
+    },
+    {
+      "id": "ai-image-generation",
+      "name": "ai-image-generation",
+      "description": "Generate AI images with FLUX, Gemini, Grok, Seedream, Reve and 50+ models via inference.sh CLI. Models: FLUX Dev LoRA, FLUX.2 Klein LoRA, Gemini 3 Pro Image, Grok Imagine, Seedream 4.5, Reve, ImagineArt. Capabilities: text-to-image, image-to-image, inpainting, LoRA, image editing, upscaling, text rendering. Use for: AI art, product mockups, concept art, social media graphics, marketing visuals, illustrations. Triggers: flux, image generation, ai image, text to image, stable diffusion, generate image, ai art, midjourney alternative, dall-e alternative, text2img, t2i, image generator, ai picture, create image with ai, generative ai, ai illustration, grok image, gemini image",
+      "category": "ai-tools",
+      "tags": [],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 21500,
+      "directory": "ai-image-generation",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "toolshell",
+      "source": "toolshell/skills"
+    },
+    {
+      "id": "marketing-psychology",
+      "name": "marketing-psychology",
+      "description": "When the user wants to apply psychological principles, mental models, or behavioral science to marketing. Also use when the user mentions 'psychology,' 'mental models,' 'cognitive bias,' 'persuasion,' 'behavioral science,' 'why people buy,' 'decision-making,' 'consumer behavior,' 'anchoring,' 'social proof,' 'scarcity,' 'loss aversion,' 'framing,' or 'nudge.' Use this whenever someone wants to understand or leverage how people think and make decisions in a marketing context.",
+      "category": "marketing",
+      "tags": [],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 21400,
+      "directory": "marketing-psychology",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "coreyhaines31",
+      "source": "coreyhaines31/marketingskills"
+    },
+    {
+      "id": "qwen-image-2-pro",
+      "name": "qwen-image-pro",
+      "description": "Generate images with Alibaba Qwen-Image-2.0-Pro via inference.sh CLI. Professional text rendering, fine-grained realism, enhanced semantic adherence. Ideal for posters, banners, and text-heavy designs. Triggers: qwen image pro, qwen-image-pro, qwen 2 pro, alibaba image pro, dashscope pro, professional text rendering",
+      "category": "ai-tools",
+      "tags": [],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 21400,
+      "directory": "qwen-image-2-pro",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "toolshell",
+      "source": "toolshell/skills"
+    },
+    {
+      "id": "ai-video-generation",
+      "name": "ai-video-generation",
+      "description": "Generate AI videos with Google Veo, Seedance, Wan, Grok and 40+ models via inference.sh CLI. Models: Veo 3.1, Veo 3, Seedance 1.5 Pro, Wan 2.5, Grok Imagine Video, OmniHuman, Fabric, HunyuanVideo. Capabilities: text-to-video, image-to-video, lipsync, avatar animation, video upscaling, foley sound. Use for: social media videos, marketing content, explainer videos, product demos, AI avatars. Triggers: video generation, ai video, text to video, image to video, veo, animate image, video from image, ai animation, video generator, generate video, t2v, i2v, ai video maker, create video with ai, runway alternative, pika alternative, sora alternative, kling alternative",
+      "category": "ai-tools",
+      "tags": [],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 21300,
+      "directory": "ai-video-generation",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "toolshell",
+      "source": "toolshell/skills"
+    },
+    {
+      "id": "nano-banana",
+      "name": "nano-banana",
+      "description": "Generate images with Google Gemini native image models via inference.sh CLI. Models: Gemini 3 Pro Image, Gemini 2.5 Flash Image. Capabilities: text-to-image, image editing, multi-image input. Triggers: nano banana, gemini image, gemini 3 pro image, gemini 2.5 flash image, google image generation, native image generation, gemini native image",
+      "category": "ai-tools",
+      "tags": [],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 21300,
+      "directory": "nano-banana",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "toolshell",
+      "source": "toolshell/skills"
+    },
+    {
+      "id": "qwen-image-2",
+      "name": "qwen-image",
+      "description": "Generate and edit images with Alibaba Qwen-Image-2.0 models via inference.sh CLI. Models: Qwen-Image-2.0 (fast), Qwen-Image-2.0-Pro (professional text rendering). Capabilities: text-to-image, multi-image editing, complex text rendering. Triggers: qwen image, qwen-image, alibaba image, dashscope image, qwen image 2, qwen image pro",
+      "category": "ai-tools",
+      "tags": [],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 21300,
+      "directory": "qwen-image-2",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "toolshell",
+      "source": "toolshell/skills"
+    },
+    {
+      "id": "remotion-render",
+      "name": "remotion-render",
+      "description": "Render videos from React/Remotion component code via inference.sh. Pass TSX code, get MP4. Supports all Remotion APIs: useCurrentFrame, useVideoConfig, spring, interpolate, AbsoluteFill, Sequence. Configurable resolution, FPS, duration, codec. Use for: programmatic video generation, animated graphics, motion design, data-driven videos, React animations to video. Triggers: remotion, render video from code, tsx to video, react video, programmatic video, remotion render, code to video, animated video, motion graphics code, react animation video",
+      "category": "ai-tools",
+      "tags": [],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 21300,
+      "directory": "remotion-render",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "toolshell",
+      "source": "toolshell/skills"
+    },
+    {
+      "id": "twitter-automation",
+      "name": "twitter-automation",
+      "description": "Automate Twitter/X with posting, engagement, and user management via inference.sh CLI. Apps: x/post-tweet, x/post-create (with media), x/post-like, x/post-retweet, x/dm-send, x/user-follow. Capabilities: post tweets, schedule content, like posts, retweet, send DMs, follow users, get profiles. Use for: social media automation, content scheduling, engagement bots, audience growth, X API. Triggers: twitter api, x api, tweet automation, post to twitter, twitter bot, social media automation, x automation, tweet scheduler, twitter integration, post tweet, twitter post, x post, send tweet",
+      "category": "workflows",
+      "tags": [],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 21300,
+      "directory": "twitter-automation",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "toolshell",
+      "source": "toolshell/skills"
+    },
+    {
+      "id": "test-driven-development",
+      "name": "test-driven-development",
+      "description": "Use when implementing any feature or bugfix, before writing implementation code",
+      "category": "workflows",
+      "tags": [],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 20700,
+      "directory": "test-driven-development",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "obra",
+      "source": "obra/superpowers"
+    },
+    {
+      "id": "agent-email-cli",
+      "name": "agent-email-cli",
+      "description": "Operate the agent-email CLI to create disposable inboxes, poll for new mail, retrieve full message details, and manage local mailbox profiles. Use when the user needs terminal-based email inbox access for LLM or agent automation workflows.",
+      "category": "agent-skills",
+      "tags": [],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 20200,
+      "directory": "agent-email-cli",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "zaddy6",
+      "source": "zaddy6/agent-email-skill"
+    },
+    {
+      "id": "webapp-testing",
+      "name": "webapp-testing",
+      "description": "Toolkit for interacting with and testing local web applications using Playwright. Supports verifying frontend functionality, debugging UI behavior, capturing browser screenshots, and viewing browser logs.",
+      "category": "quality",
+      "tags": [],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 20200,
+      "directory": "webapp-testing",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "Complete terms in LICENSE.txt",
+      "author": "anthropic",
+      "source": "anthropics/skills"
+    },
+    {
+      "id": "better-auth-best-practices",
+      "name": "better-auth-best-practices",
+      "description": "Configure Better Auth server and client, set up database adapters, manage sessions, add plugins, and handle environment variables. Use when users mention Better Auth, betterauth, auth.ts, or need to set up TypeScript authentication with email/password, OAuth, or plugin configuration.",
+      "category": "frameworks",
+      "tags": [],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 19700,
+      "directory": "better-auth-best-practices",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "better-auth",
+      "source": "better-auth/skills"
+    },
+    {
+      "id": "executing-plans",
+      "name": "executing-plans",
+      "description": "Use when you have a written implementation plan to execute in a separate session with review checkpoints",
+      "category": "workflows",
+      "tags": [],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 19400,
+      "directory": "executing-plans",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "obra",
+      "source": "obra/superpowers"
+    },
+    {
+      "id": "programmatic-seo",
+      "name": "programmatic-seo",
+      "description": "When the user wants to create SEO-driven pages at scale using templates and data. Also use when the user mentions \"programmatic SEO,\" \"template pages,\" \"pages at scale,\" \"directory pages,\" \"location pages,\" \"[keyword] + [city] pages,\" \"comparison pages,\" \"integration pages,\" \"building many pages for SEO,\" \"pSEO,\" \"generate 100 pages,\" \"data-driven pages,\" or \"templated landing pages.\" Use this whenever someone wants to create many similar pages targeting different keywords or locations. For auditing existing SEO issues, see seo-audit. For content strategy planning, see content-strategy.",
+      "category": "marketing",
+      "tags": [],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 19400,
+      "directory": "programmatic-seo",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "coreyhaines31",
+      "source": "coreyhaines31/marketingskills"
+    },
+    {
+      "id": "content-strategy",
+      "name": "content-strategy",
+      "description": "When the user wants to plan a content strategy, decide what content to create, or figure out what topics to cover. Also use when the user mentions \"content strategy,\" \"what should I write about,\" \"content ideas,\" \"blog strategy,\" \"topic clusters,\" \"content planning,\" \"editorial calendar,\" \"content marketing,\" \"content roadmap,\" \"what content should I create,\" \"blog topics,\" \"content pillars,\" or \"I don't know what to write.\" Use this whenever someone needs help deciding what content to produce, not just writing it. For writing individual pieces, see copywriting. For SEO-specific audits, see seo-audit. For social media content specifically, see social-content.",
+      "category": "marketing",
+      "tags": [],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 19200,
+      "directory": "content-strategy",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "coreyhaines31",
+      "source": "coreyhaines31/marketingskills"
+    },
+    {
+      "id": "requesting-code-review",
+      "name": "requesting-code-review",
+      "description": "Use when completing tasks, implementing major features, or before merging to verify work meets requirements",
+      "category": "workflows",
+      "tags": [],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 18900,
+      "directory": "requesting-code-review",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "obra",
+      "source": "obra/superpowers"
+    },
+    {
+      "id": "mcp-builder",
+      "name": "mcp-builder",
+      "description": "Guide for creating high-quality MCP (Model Context Protocol) servers that enable LLMs to interact with external services through well-designed tools. Use when building MCP servers to integrate external APIs or services, whether in Python (FastMCP) or Node/TypeScript (MCP SDK).",
+      "category": "agent-skills",
+      "tags": [],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 18000,
+      "directory": "mcp-builder",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "Complete terms in LICENSE.txt",
+      "author": "anthropic",
+      "source": "anthropics/skills"
+    },
+    {
+      "id": "product-marketing-context",
+      "name": "product-marketing-context",
+      "description": "When the user wants to create or update their product marketing context document. Also use when the user mentions 'product context,' 'marketing context,' 'set up context,' 'positioning,' 'who is my target audience,' 'describe my product,' 'ICP,' 'ideal customer profile,' or wants to avoid repeating foundational information across marketing tasks. Use this at the start of any new project before using other marketing skills \u2014 it creates `.agents/product-marketing-context.md` that all other skills reference for product, audience, and positioning context.",
+      "category": "marketing",
+      "tags": [],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 17800,
+      "directory": "product-marketing-context",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "coreyhaines31",
+      "source": "coreyhaines31/marketingskills"
+    },
+    {
+      "id": "using-superpowers",
+      "name": "using-superpowers",
+      "description": "Use when starting any conversation - establishes how to find and use skills, requiring Skill tool invocation before ANY response including clarifying questions",
+      "category": "workflows",
+      "tags": [],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 17500,
+      "directory": "using-superpowers",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "obra",
+      "source": "obra/superpowers"
+    },
+    {
+      "id": "marketing-ideas",
+      "name": "marketing-ideas",
+      "description": "When the user needs marketing ideas, inspiration, or strategies for their SaaS or software product. Also use when the user asks for 'marketing ideas,' 'growth ideas,' 'how to market,' 'marketing strategies,' 'marketing tactics,' 'ways to promote,' 'ideas to grow,' 'what else can I try,' 'I don't know how to market this,' 'brainstorm marketing,' or 'what marketing should I do.' Use this as a starting point whenever someone is stuck or looking for inspiration on how to grow. For specific channel execution, see the relevant skill (paid-ads, social-content, email-sequence, etc.).",
+      "category": "marketing",
+      "tags": [],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 17200,
+      "directory": "marketing-ideas",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "coreyhaines31",
+      "source": "coreyhaines31/marketingskills"
+    },
+    {
+      "id": "social-content",
+      "name": "social-content",
+      "description": "When the user wants help creating, scheduling, or optimizing social media content for LinkedIn, Twitter/X, Instagram, TikTok, Facebook, or other platforms. Also use when the user mentions 'LinkedIn post,' 'Twitter thread,' 'social media,' 'content calendar,' 'social scheduling,' 'engagement,' 'viral content,' 'what should I post,' 'repurpose this content,' 'tweet ideas,' 'LinkedIn carousel,' 'social media strategy,' or 'grow my following.' Use this for any social media content creation, repurposing, or scheduling task. For broader content strategy, see content-strategy.",
+      "category": "marketing",
+      "tags": [],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 17100,
+      "directory": "social-content",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "coreyhaines31",
+      "source": "coreyhaines31/marketingskills"
+    },
+    {
+      "id": "copy-editing",
+      "name": "copy-editing",
+      "description": "When the user wants to edit, review, or improve existing marketing copy. Also use when the user mentions 'edit this copy,' 'review my copy,' 'copy feedback,' 'proofread,' 'polish this,' 'make this better,' 'copy sweep,' 'tighten this up,' 'this reads awkwardly,' 'clean up this text,' 'too wordy,' or 'sharpen the messaging.' Use this when the user already has copy and wants it improved rather than rewritten from scratch. For writing new copy, see copywriting.",
+      "category": "marketing",
+      "tags": [],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 16500,
+      "directory": "copy-editing",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "coreyhaines31",
+      "source": "coreyhaines31/marketingskills"
+    },
+    {
+      "id": "pricing-strategy",
+      "name": "pricing-strategy",
+      "description": "When the user wants help with pricing decisions, packaging, or monetization strategy. Also use when the user mentions 'pricing,' 'pricing tiers,' 'freemium,' 'free trial,' 'packaging,' 'price increase,' 'value metric,' 'Van Westendorp,' 'willingness to pay,' 'monetization,' 'how much should I charge,' 'my pricing is wrong,' 'pricing page,' 'annual vs monthly,' 'per seat pricing,' or 'should I offer a free plan.' Use this whenever someone is figuring out what to charge or how to structure their plans. For in-app upgrade screens, see paywall-upgrade-cro.",
+      "category": "marketing",
+      "tags": [],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 16300,
+      "directory": "pricing-strategy",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "coreyhaines31",
+      "source": "coreyhaines31/marketingskills"
+    },
+    {
+      "id": "canvas-design",
+      "name": "canvas-design",
+      "description": "Create beautiful visual art in .png and .pdf documents using design philosophy. You should use this skill when the user asks to create a poster, piece of art, design, or other static piece. Create original visual designs, never copying existing artists' work to avoid copyright violations.",
+      "category": "design",
+      "tags": [],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 15800,
+      "directory": "canvas-design",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "Complete terms in LICENSE.txt",
+      "author": "anthropic",
+      "source": "anthropics/skills"
+    },
+    {
+      "id": "building-native-ui",
+      "name": "building-native-ui",
+      "description": "Complete guide for building beautiful apps with Expo Router. Covers fundamentals, styling, components, navigation, animations, patterns, and native tabs.",
+      "category": "frameworks",
+      "tags": [],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 15700,
+      "directory": "building-native-ui",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "expo",
+      "source": "expo/skills"
+    },
+    {
+      "id": "subagent-driven-development",
+      "name": "subagent-driven-development",
+      "description": "Use when executing implementation plans with independent tasks in the current session",
+      "category": "workflows",
+      "tags": [],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 15700,
+      "directory": "subagent-driven-development",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "obra",
+      "source": "obra/superpowers"
+    },
+    {
+      "id": "tailwind-design-system",
+      "name": "tailwind-design-system",
+      "description": "Build scalable design systems with Tailwind CSS v4, design tokens, component libraries, and responsive patterns. Use when creating component libraries, implementing design systems, or standardizing UI patterns.",
+      "category": "design",
+      "tags": [],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 15700,
+      "directory": "tailwind-design-system",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "wshobson",
+      "source": "wshobson/agents"
+    },
+    {
+      "id": "page-cro",
+      "name": "page-cro",
+      "description": "When the user wants to optimize, improve, or increase conversions on any marketing page \u2014 including homepage, landing pages, pricing pages, feature pages, or blog posts. Also use when the user says \"CRO,\" \"conversion rate optimization,\" \"this page isn't converting,\" \"improve conversions,\" \"why isn't this page working,\" \"my landing page sucks,\" \"nobody's converting,\" \"low conversion rate,\" \"bounce rate is too high,\" \"people leave without signing up,\" or \"this page needs work.\" Use this even if the user just shares a URL and asks for feedback \u2014 they probably want conversion help. For signup/registration flows, see signup-flow-cro. For post-signup activation, see onboarding-cro. For forms outside of signup, see form-cro. For popups/modals, see popup-cro.",
+      "category": "marketing",
+      "tags": [],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 15400,
+      "directory": "page-cro",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "coreyhaines31",
+      "source": "coreyhaines31/marketingskills"
+    },
+    {
+      "id": "analytics-tracking",
+      "name": "analytics-tracking",
+      "description": "When the user wants to set up, improve, or audit analytics tracking and measurement. Also use when the user mentions \"set up tracking,\" \"GA4,\" \"Google Analytics,\" \"conversion tracking,\" \"event tracking,\" \"UTM parameters,\" \"tag manager,\" \"GTM,\" \"analytics implementation,\" \"tracking plan,\" \"how do I measure this,\" \"track conversions,\" \"attribution,\" \"Mixpanel,\" \"Segment,\" \"are my events firing,\" or \"analytics isn't working.\" Use this whenever someone asks how to know if something is working or wants to measure marketing results. For A/B test measurement, see ab-test-setup.",
+      "category": "marketing",
+      "tags": [],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 15100,
+      "directory": "analytics-tracking",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "coreyhaines31",
+      "source": "coreyhaines31/marketingskills"
+    },
+    {
+      "id": "launch-strategy",
+      "name": "launch-strategy",
+      "description": "When the user wants to plan a product launch, feature announcement, or release strategy. Also use when the user mentions 'launch,' 'Product Hunt,' 'feature release,' 'announcement,' 'go-to-market,' 'beta launch,' 'early access,' 'waitlist,' 'product update,' 'how do I launch this,' 'launch checklist,' 'GTM plan,' or 'we're about to ship.' Use this whenever someone is preparing to release something publicly. For ongoing marketing after launch, see marketing-ideas.",
+      "category": "marketing",
+      "tags": [],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 14900,
+      "directory": "launch-strategy",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "coreyhaines31",
+      "source": "coreyhaines31/marketingskills"
+    },
+    {
+      "id": "receiving-code-review",
+      "name": "receiving-code-review",
+      "description": "Use when receiving code review feedback, before implementing suggestions, especially if feedback seems unclear or technically questionable - requires technical rigor and verification, not performative agreement or blind implementation",
+      "category": "workflows",
+      "tags": [],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 14900,
+      "directory": "receiving-code-review",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "obra",
+      "source": "obra/superpowers"
+    },
+    {
+      "id": "schema-markup",
+      "name": "schema-markup",
+      "description": "When the user wants to add, fix, or optimize schema markup and structured data on their site. Also use when the user mentions \"schema markup,\" \"structured data,\" \"JSON-LD,\" \"rich snippets,\" \"schema.org,\" \"FAQ schema,\" \"product schema,\" \"review schema,\" \"breadcrumb schema,\" \"Google rich results,\" \"knowledge panel,\" \"star ratings in search,\" or \"add structured data.\" Use this whenever someone wants their pages to show enhanced results in Google. For broader SEO issues, see seo-audit. For AI search optimization, see ai-seo.",
+      "category": "marketing",
+      "tags": [],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 14800,
+      "directory": "schema-markup",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "coreyhaines31",
+      "source": "coreyhaines31/marketingskills"
+    },
+    {
+      "id": "verification-before-completion",
+      "name": "verification-before-completion",
+      "description": "Use when about to claim work is complete, fixed, or passing, before committing or creating PRs - requires running verification commands and confirming output before making any success claims; evidence before assertions always",
+      "category": "workflows",
+      "tags": [],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 14800,
+      "directory": "verification-before-completion",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "obra",
+      "source": "obra/superpowers"
+    },
+    {
+      "id": "fun-brainstorming",
+      "name": "fun-brainstorming",
+      "description": "Invoke before any creative or architectural work \u2014 feature design, component creation, or behavioral changes. A streamlined brainstorming process optimized for fast, focused decision-making.",
+      "category": "workflows",
+      "tags": [],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 14700,
+      "directory": "fun-brainstorming",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "roin-orca",
+      "source": "roin-orca/skills"
+    },
+    {
+      "id": "competitor-alternatives",
+      "name": "competitor-alternatives",
+      "description": "When the user wants to create competitor comparison or alternative pages for SEO and sales enablement. Also use when the user mentions 'alternative page,' 'vs page,' 'competitor comparison,' 'comparison page,' '[Product] vs [Product],' '[Product] alternative,' 'competitive landing pages,' 'how do we compare to X,' 'battle card,' or 'competitor teardown.' Use this for any content that positions your product against competitors. Covers four formats: singular alternative, plural alternatives, you vs competitor, and competitor vs competitor. For sales-specific competitor docs, see sales-enablement.",
+      "category": "marketing",
+      "tags": [],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 14400,
+      "directory": "competitor-alternatives",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "coreyhaines31",
+      "source": "coreyhaines31/marketingskills"
+    },
+    {
+      "id": "email-sequence",
+      "name": "email-sequence",
+      "description": "When the user wants to create or optimize an email sequence, drip campaign, automated email flow, or lifecycle email program. Also use when the user mentions \"email sequence,\" \"drip campaign,\" \"nurture sequence,\" \"onboarding emails,\" \"welcome sequence,\" \"re-engagement emails,\" \"email automation,\" \"lifecycle emails,\" \"trigger-based emails,\" \"email funnel,\" \"email workflow,\" \"what emails should I send,\" \"welcome series,\" or \"email cadence.\" Use this for any multi-email automated flow. For cold outreach emails, see cold-email. For in-app onboarding, see onboarding-cro.",
+      "category": "marketing",
+      "tags": [],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 14300,
+      "directory": "email-sequence",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "coreyhaines31",
+      "source": "coreyhaines31/marketingskills"
+    },
+    {
+      "id": "onboarding-cro",
+      "name": "onboarding-cro",
+      "description": "When the user wants to optimize post-signup onboarding, user activation, first-run experience, or time-to-value. Also use when the user mentions \"onboarding flow,\" \"activation rate,\" \"user activation,\" \"first-run experience,\" \"empty states,\" \"onboarding checklist,\" \"aha moment,\" \"new user experience,\" \"users aren't activating,\" \"nobody completes setup,\" \"low activation rate,\" \"users sign up but don't use the product,\" \"time to value,\" or \"first session experience.\" Use this whenever users are signing up but not sticking around. For signup/registration optimization, see signup-flow-cro. For ongoing email sequences, see email-sequence.",
+      "category": "marketing",
+      "tags": [],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 14300,
+      "directory": "onboarding-cro",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "coreyhaines31",
+      "source": "coreyhaines31/marketingskills"
+    },
+    {
+      "id": "paid-ads",
+      "name": "paid-ads",
+      "description": "When the user wants help with paid advertising campaigns on Google Ads, Meta (Facebook/Instagram), LinkedIn, Twitter/X, or other ad platforms. Also use when the user mentions 'PPC,' 'paid media,' 'ROAS,' 'CPA,' 'ad campaign,' 'retargeting,' 'audience targeting,' 'Google Ads,' 'Facebook ads,' 'LinkedIn ads,' 'ad budget,' 'cost per click,' 'ad spend,' or 'should I run ads.' Use this for campaign strategy, audience targeting, bidding, and optimization. For bulk ad creative generation and iteration, see ad-creative. For landing page optimization, see page-cro.",
+      "category": "marketing",
+      "tags": [],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 14300,
+      "directory": "paid-ads",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "coreyhaines31",
+      "source": "coreyhaines31/marketingskills"
+    },
+    {
+      "id": "using-git-worktrees",
+      "name": "using-git-worktrees",
+      "description": "Use when starting feature work that needs isolation from current workspace or before executing implementation plans - creates isolated git worktrees with smart directory selection and safety verification",
+      "category": "workflows",
+      "tags": [],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 14200,
+      "directory": "using-git-worktrees",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "obra",
+      "source": "obra/superpowers"
+    },
+    {
+      "id": "writing-skills",
+      "name": "writing-skills",
+      "description": "Use when creating new skills, editing existing skills, or verifying skills work before deployment",
+      "category": "workflows",
+      "tags": [],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 14200,
+      "directory": "writing-skills",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "obra",
+      "source": "obra/superpowers"
+    },
+    {
+      "id": "form-cro",
+      "name": "form-cro",
+      "description": "When the user wants to optimize any form that is NOT signup/registration \u2014 including lead capture forms, contact forms, demo request forms, application forms, survey forms, or checkout forms. Also use when the user mentions \"form optimization,\" \"lead form conversions,\" \"form friction,\" \"form fields,\" \"form completion rate,\" \"contact form,\" \"nobody fills out our form,\" \"form abandonment,\" \"too many fields,\" \"demo request form,\" or \"lead form isn't converting.\" Use this for any non-signup form that captures information. For signup/registration forms, see signup-flow-cro. For popups containing forms, see popup-cro.",
+      "category": "marketing",
+      "tags": [],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 14000,
+      "directory": "form-cro",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "coreyhaines31",
+      "source": "coreyhaines31/marketingskills"
+    },
+    {
+      "id": "referral-program",
+      "name": "referral-program",
+      "description": "When the user wants to create, optimize, or analyze a referral program, affiliate program, or word-of-mouth strategy. Also use when the user mentions 'referral,' 'affiliate,' 'ambassador,' 'word of mouth,' 'viral loop,' 'refer a friend,' 'partner program,' 'referral incentive,' 'how to get referrals,' 'customers referring customers,' or 'affiliate payout.' Use this whenever someone wants existing users or partners to bring in new customers. For launch-specific virality, see launch-strategy.",
+      "category": "marketing",
+      "tags": [],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 13900,
+      "directory": "referral-program",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "coreyhaines31",
+      "source": "coreyhaines31/marketingskills"
+    },
+    {
+      "id": "free-tool-strategy",
+      "name": "free-tool-strategy",
+      "description": "When the user wants to plan, evaluate, or build a free tool for marketing purposes \u2014 lead generation, SEO value, or brand awareness. Also use when the user mentions \"engineering as marketing,\" \"free tool,\" \"marketing tool,\" \"calculator,\" \"generator,\" \"interactive tool,\" \"lead gen tool,\" \"build a tool for leads,\" \"free resource,\" \"ROI calculator,\" \"grader tool,\" \"audit tool,\" \"should I build a free tool,\" or \"tools for lead gen.\" Use this whenever someone wants to build something useful and give it away to attract leads or earn links. For content-based lead generation, see content-strategy.",
+      "category": "marketing",
+      "tags": [],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 13600,
+      "directory": "free-tool-strategy",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "coreyhaines31",
+      "source": "coreyhaines31/marketingskills"
+    },
+    {
+      "id": "dispatching-parallel-agents",
+      "name": "dispatching-parallel-agents",
+      "description": "Use when facing 2+ independent tasks that can be worked on without shared state or sequential dependencies",
+      "category": "workflows",
+      "tags": [],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 13500,
+      "directory": "dispatching-parallel-agents",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "obra",
+      "source": "obra/superpowers"
+    },
+    {
+      "id": "signup-flow-cro",
+      "name": "signup-flow-cro",
+      "description": "When the user wants to optimize signup, registration, account creation, or trial activation flows. Also use when the user mentions \"signup conversions,\" \"registration friction,\" \"signup form optimization,\" \"free trial signup,\" \"reduce signup dropoff,\" \"account creation flow,\" \"people aren't signing up,\" \"signup abandonment,\" \"trial conversion rate,\" \"nobody completes registration,\" \"too many steps to sign up,\" or \"simplify our signup.\" Use this whenever the user has a signup or registration flow that isn't performing. For post-signup onboarding, see onboarding-cro. For lead capture forms (not account creation), see form-cro.",
+      "category": "marketing",
+      "tags": [],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 13400,
+      "directory": "signup-flow-cro",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "coreyhaines31",
+      "source": "coreyhaines31/marketingskills"
+    },
+    {
+      "id": "paywall-upgrade-cro",
+      "name": "paywall-upgrade-cro",
+      "description": "When the user wants to create or optimize in-app paywalls, upgrade screens, upsell modals, or feature gates. Also use when the user mentions \"paywall,\" \"upgrade screen,\" \"upgrade modal,\" \"upsell,\" \"feature gate,\" \"convert free to paid,\" \"freemium conversion,\" \"trial expiration screen,\" \"limit reached screen,\" \"plan upgrade prompt,\" \"in-app pricing,\" \"free users won't upgrade,\" \"trial to paid conversion,\" or \"how do I get users to pay.\" Use this for any in-product moment where you're asking users to upgrade. Distinct from public pricing pages (see page-cro) \u2014 this focuses on in-product upgrade moments where the user has already experienced value. For pricing decisions, see pricing-strategy.",
+      "category": "marketing",
+      "tags": [],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 13200,
+      "directory": "paywall-upgrade-cro",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "coreyhaines31",
+      "source": "coreyhaines31/marketingskills"
+    },
+    {
+      "id": "ab-test-setup",
+      "name": "ab-test-setup",
+      "description": "When the user wants to plan, design, or implement an A/B test or experiment. Also use when the user mentions \"A/B test,\" \"split test,\" \"experiment,\" \"test this change,\" \"variant copy,\" \"multivariate test,\" \"hypothesis,\" \"should I test this,\" \"which version is better,\" \"test two versions,\" \"statistical significance,\" or \"how long should I run this test.\" Use this whenever someone is comparing two approaches and wants to measure which performs better. For tracking implementation, see analytics-tracking. For page-level conversion optimization, see page-cro.",
+      "category": "marketing",
+      "tags": [],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 13000,
+      "directory": "ab-test-setup",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "coreyhaines31",
+      "source": "coreyhaines31/marketingskills"
+    },
+    {
+      "id": "popup-cro",
+      "name": "popup-cro",
+      "description": "When the user wants to create or optimize popups, modals, overlays, slide-ins, or banners for conversion purposes. Also use when the user mentions \"exit intent,\" \"popup conversions,\" \"modal optimization,\" \"lead capture popup,\" \"email popup,\" \"announcement banner,\" \"overlay,\" \"collect emails with a popup,\" \"exit popup,\" \"scroll trigger,\" \"sticky bar,\" or \"notification bar.\" Use this for any overlay or interrupt-style conversion element. For forms outside of popups, see form-cro. For general page conversion optimization, see page-cro.",
+      "category": "marketing",
+      "tags": [],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 13000,
+      "directory": "popup-cro",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "coreyhaines31",
+      "source": "coreyhaines31/marketingskills"
+    },
+    {
+      "id": "react-components",
+      "name": "react:components",
+      "description": "Converts Stitch designs into modular Vite and React components using system-level networking and AST-based validation.",
+      "category": "frameworks",
+      "tags": [],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 13000,
+      "directory": "react-components",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "google-labs-code",
+      "source": "google-labs-code/stitch-skills"
+    },
+    {
+      "id": "design-md",
+      "name": "design-md",
+      "description": "Analyze Stitch projects and synthesize a semantic design system into DESIGN.md files",
+      "category": "design",
+      "tags": [],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 12600,
+      "directory": "design-md",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "google-labs-code",
+      "source": "google-labs-code/stitch-skills"
+    },
+    {
+      "id": "doc-coauthoring",
+      "name": "doc-coauthoring",
+      "description": "Guide users through a structured workflow for co-authoring documentation. Use when user wants to write documentation, proposals, technical specs, decision docs, or similar structured content. This workflow helps users efficiently transfer context, refine content through iteration, and verify the doc works for readers. Trigger when user mentions writing docs, creating proposals, drafting specs, or similar documentation tasks.",
+      "category": "documents",
+      "tags": [],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 12600,
+      "directory": "doc-coauthoring",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "anthropic",
+      "source": "anthropics/skills"
+    },
+    {
+      "id": "finishing-a-development-branch",
+      "name": "finishing-a-development-branch",
+      "description": "Use when implementation is complete, all tests pass, and you need to decide how to integrate the work - guides completion of development work by presenting structured options for merge, PR, or cleanup",
+      "category": "workflows",
+      "tags": [],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 12600,
+      "directory": "finishing-a-development-branch",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "obra",
+      "source": "obra/superpowers"
+    },
+    {
+      "id": "algorithmic-art",
+      "name": "algorithmic-art",
+      "description": "Creating algorithmic art using p5.js with seeded randomness and interactive parameter exploration. Use this when users request creating art using code, generative art, algorithmic art, flow fields, or particle systems. Create original algorithmic art rather than copying existing artists' work to avoid copyright violations.",
+      "category": "design",
+      "tags": [],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 12500,
+      "directory": "algorithmic-art",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "Complete terms in LICENSE.txt",
+      "author": "anthropic",
+      "source": "anthropics/skills"
+    },
+    {
+      "id": "theme-factory",
+      "name": "theme-factory",
+      "description": "Toolkit for styling artifacts with a theme. These artifacts can be slides, docs, reportings, HTML landing pages, etc. There are 10 pre-set themes with colors/fonts that you can apply to any artifact that has been creating, or can generate a new theme on-the-fly.",
+      "category": "design",
+      "tags": [],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 12400,
+      "directory": "theme-factory",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "Complete terms in LICENSE.txt",
+      "author": "anthropic",
+      "source": "anthropics/skills"
+    },
+    {
+      "id": "frontend-responsive-design-standards",
+      "name": "Frontend Responsive Design Standards",
+      "description": "Build responsive, mobile-first layouts using fluid containers, flexible units, media queries, and touch-friendly design that works across all screen sizes. Use this skill when creating or modifying UI layouts, responsive grids, breakpoint styles, mobile navigation, or any interface that needs to adapt to different screen sizes. Apply when working with responsive CSS, media queries, viewport settings, flexbox/grid layouts, mobile-first styling, breakpoint definitions (mobile, tablet, desktop), touch target sizing, relative units (rem, em, %), image optimization for different screens, or testing layouts across multiple devices. Use for any task involving multi-device support, responsive design patterns, or adaptive layouts.",
+      "category": "design",
+      "tags": [],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 12100,
+      "directory": "frontend-responsive-design-standards",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "am-will",
+      "source": "am-will/codex-skills"
+    },
+    {
+      "id": "typescript-advanced-types",
+      "name": "typescript-advanced-types",
+      "description": "Master TypeScript's advanced type system including generics, conditional types, mapped types, template literals, and utility types for building type-safe applications. Use when implementing complex type logic, creating reusable type utilities, or ensuring compile-time type safety in TypeScript projects.",
+      "category": "languages",
+      "tags": [],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 12100,
+      "directory": "typescript-advanced-types",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "wshobson",
+      "source": "wshobson/agents"
+    },
+    {
+      "id": "context7",
+      "name": "context7",
+      "description": "|",
+      "category": "agent-skills",
+      "tags": [],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 12000,
+      "directory": "context7",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "am-will",
+      "source": "am-will/codex-skills"
+    },
+    {
+      "id": "web-artifacts-builder",
+      "name": "web-artifacts-builder",
+      "description": "Suite of tools for creating elaborate, multi-component claude.ai HTML artifacts using modern frontend web technologies (React, Tailwind CSS, shadcn/ui). Use for complex artifacts requiring state management, routing, or shadcn/ui components - not for simple single-file HTML/JSX artifacts.",
+      "category": "documents",
+      "tags": [],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 12000,
+      "directory": "web-artifacts-builder",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "Complete terms in LICENSE.txt",
+      "author": "anthropic",
+      "source": "anthropics/skills"
+    },
+    {
+      "id": "appinsights-instrumentation-ms",
+      "name": "appinsights-instrumentation",
+      "description": "Guidance for instrumenting webapps with Azure Application Insights. Provides telemetry patterns, SDK setup, and configuration references. WHEN: how to instrument app, App Insights SDK, telemetry patterns, what is App Insights, Application Insights guidance, instrumentation examples, APM best practices.",
+      "category": "cloud",
+      "tags": [],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 11900,
+      "directory": "appinsights-instrumentation-ms",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "microsoft",
+      "source": "microsoft/azure-skills"
+    },
+    {
+      "id": "azure-ai-ms",
+      "name": "azure-ai",
+      "description": "Use for Azure AI: Search, Speech, OpenAI, Document Intelligence. Helps with search, vector/hybrid search, speech-to-text, text-to-speech, transcription, OCR. WHEN: AI Search, query search, vector search, hybrid search, semantic search, speech-to-text, text-to-speech, transcribe, OCR, convert text to speech.",
+      "category": "cloud",
+      "tags": [],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 11900,
+      "directory": "azure-ai-ms",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "microsoft",
+      "source": "microsoft/azure-skills"
+    },
+    {
+      "id": "azure-aigateway-ms",
+      "name": "azure-aigateway",
+      "description": "Configure Azure API Management as an AI Gateway for AI models, MCP tools, and agents. WHEN: semantic caching, token limit, content safety, load balancing, AI model governance, MCP rate limiting, jailbreak detection, add Azure OpenAI backend, add AI Foundry model, test AI gateway, LLM policies, configure AI backend, token metrics, AI cost control, convert API to MCP, import OpenAPI to gateway.",
+      "category": "cloud",
+      "tags": [],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 11900,
+      "directory": "azure-aigateway-ms",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "microsoft",
+      "source": "microsoft/azure-skills"
+    },
+    {
+      "id": "azure-cloud-migrate-ms",
+      "name": "azure-cloud-migrate",
+      "description": "Assess and migrate cross-cloud workloads to Azure. Generates assessment reports and converts code from AWS, GCP, or other providers to Azure services. WHEN: migrate Lambda to Azure Functions, migrate AWS to Azure, Lambda migration assessment, convert AWS serverless to Azure, migration readiness report, migrate from AWS, migrate from GCP, cross-cloud migration.",
+      "category": "cloud",
+      "tags": [],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 11900,
+      "directory": "azure-cloud-migrate-ms",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "microsoft",
+      "source": "microsoft/azure-skills"
+    },
+    {
+      "id": "azure-compliance-ms",
+      "name": "azure-compliance",
+      "description": "Comprehensive Azure compliance and security auditing capabilities including best practices assessment, Key Vault expiration monitoring, and resource configuration validation. WHEN: compliance scan, security audit, azqr, Azure best practices, Key Vault expiration check, compliance assessment, resource review, configuration validation, expired certificates, expiring secrets, orphaned resources, policy compliance, security posture evaluation.",
+      "category": "cloud",
+      "tags": [],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 11900,
+      "directory": "azure-compliance-ms",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "microsoft",
+      "source": "microsoft/azure-skills"
+    },
+    {
+      "id": "azure-compute-ms",
+      "name": "azure-compute",
+      "description": "Recommend Azure VM sizes, VM Scale Sets (VMSS), and configurations based on workload requirements, performance needs, and budget constraints. No Azure account required \u2014 uses public documentation and the Azure Retail Prices API. WHEN: recommend VM size, which VM should I use, choose Azure VM, VM for web/database/ML/batch/HPC, GPU VM, compare VM sizes, cheapest VM, best VM for workload, VM pricing, cost estimate, burstable/compute/memory/storage optimized VM, confidential computing, VM trade-offs, VM families, VMSS, scale set recommendation, autoscale VMs, load balanced VMs, VMSS vs VM, scale out, horizontal scaling, flexible orchestration.",
+      "category": "cloud",
+      "tags": [],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 11900,
+      "directory": "azure-compute-ms",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "microsoft",
+      "source": "microsoft/azure-skills"
+    },
+    {
+      "id": "azure-cost-optimization-ms",
+      "name": "azure-cost-optimization",
+      "description": "Identify and quantify cost savings across Azure subscriptions by analyzing actual costs, utilization metrics, and generating actionable optimization recommendations. USE FOR: optimize Azure costs, reduce Azure spending, reduce Azure expenses, analyze Azure costs, find cost savings, generate cost optimization report, find orphaned resources, rightsize VMs, cost analysis, reduce waste, Azure spending analysis, find unused resources, optimize Redis costs. DO NOT USE FOR: deploying resources (use azure-deploy), general Azure diagnostics (use azure-diagnostics), security issues (use azure-security)",
+      "category": "cloud",
+      "tags": [],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 11900,
+      "directory": "azure-cost-optimization-ms",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "microsoft",
+      "source": "microsoft/azure-skills"
+    },
+    {
+      "id": "azure-deploy-ms",
+      "name": "azure-deploy",
+      "description": "Execute Azure deployments for ALREADY-PREPARED applications that have existing .azure/plan.md and infrastructure files. DO NOT use this skill when the user asks to CREATE a new application \u2014 use azure-prepare instead. This skill runs azd up, azd deploy, terraform apply, and az deployment commands with built-in error recovery. Requires .azure/plan.md from azure-prepare and validated status from azure-validate. WHEN: \\\"run azd up\\\", \\\"run azd deploy\\\", \\\"execute deployment\\\", \\\"push to production\\\", \\\"push to cloud\\\", \\\"go live\\\", \\\"ship it\\\", \\\"bicep deploy\\\", \\\"terraform apply\\\", \\\"publish to Azure\\\", \\\"launch on Azure\\\". DO NOT USE WHEN: \\\"create and deploy\\\", \\\"build and deploy\\\", \\\"create a new app\\\", \\\"set up infrastructure\\\", \\\"create and deploy to Azure using Terraform\\\" \u2014 use azure-prepare for these.",
+      "category": "cloud",
+      "tags": [],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 11900,
+      "directory": "azure-deploy-ms",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "microsoft",
+      "source": "microsoft/azure-skills"
+    },
+    {
+      "id": "azure-diagnostics-ms",
+      "name": "azure-diagnostics",
+      "description": "Debug and troubleshoot production issues on Azure. Covers Container Apps and Function Apps diagnostics, log analysis with KQL, health checks, and common issue resolution for image pulls, cold starts, health probes, and function invocation failures. USE FOR: debug production issues, troubleshoot container apps, troubleshoot function apps, troubleshoot Azure Functions, analyze logs with KQL, fix image pull failures, resolve cold start issues, investigate health probe failures, check resource health, view application logs, find root cause of errors, function app not working, function invocation failures DO NOT USE FOR: deploying applications (use azure-deploy), creating new resources (use azure-prepare), cost optimization (use azure-cost-optimization)",
+      "category": "cloud",
+      "tags": [],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 11900,
+      "directory": "azure-diagnostics-ms",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "microsoft",
+      "source": "microsoft/azure-skills"
+    },
+    {
+      "id": "azure-hosted-copilot-sdk-ms",
+      "name": "azure-hosted-copilot-sdk",
+      "description": "Build and deploy GitHub Copilot SDK apps to Azure. USE FOR: build copilot app, create copilot app, copilot SDK, @github/copilot-sdk, scaffold copilot project, copilot-powered app, deploy copilot app, host on azure, azure model, BYOM, bring your own model, use my own model, azure openai model, DefaultAzureCredential, self-hosted model, copilot SDK service, chat app with copilot, copilot-sdk-service template, azd init copilot, CopilotClient, createSession, sendAndWait, GitHub Models API. DO NOT USE FOR: using Copilot (not building with it), Copilot Extensions, Azure Functions without Copilot, general web apps without copilot SDK, Foundry agent hosting (use microsoft-foundry skill), agent evaluation (use microsoft-foundry skill).",
+      "category": "cloud",
+      "tags": [],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 11900,
+      "directory": "azure-hosted-copilot-sdk-ms",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "microsoft",
+      "source": "microsoft/azure-skills"
+    },
+    {
+      "id": "azure-kusto-ms",
+      "name": "azure-kusto",
+      "description": "Query and analyze data in Azure Data Explorer (Kusto/ADX) using KQL for log analytics, telemetry, and time series analysis. USE FOR: KQL queries, Kusto database queries, Azure Data Explorer, ADX clusters, log analytics, time series data, IoT telemetry, anomaly detection DO NOT USE FOR: SQL databases, NoSQL queries (use azure-storage), Elasticsearch, AWS analytics tools",
+      "category": "cloud",
+      "tags": [],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 11900,
+      "directory": "azure-kusto-ms",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "microsoft",
+      "source": "microsoft/azure-skills"
+    },
+    {
+      "id": "azure-messaging-ms",
+      "name": "azure-messaging",
+      "description": "Troubleshoot and resolve issues with Azure Messaging SDKs for Event Hubs and Service Bus. Covers connection failures, authentication errors, message processing issues, and SDK configuration problems. USE FOR: event hub SDK error, service bus SDK issue, messaging connection failure, AMQP error, event processor host issue, message lock lost, send timeout, receiver disconnected, SDK troubleshooting, azure messaging SDK, event hub consumer, service bus queue issue, topic subscription error, enable logging event hub, service bus logging, eventhub python, servicebus java, eventhub javascript, servicebus dotnet, event hub checkpoint, event hub not receiving messages, service bus dead letter DO NOT USE FOR: creating Event Hub or Service Bus resources (use azure-prepare), cost analysis (use azure-cost-optimization)",
+      "category": "cloud",
+      "tags": [],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 11900,
+      "directory": "azure-messaging-ms",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "microsoft",
+      "source": "microsoft/azure-skills"
+    },
+    {
+      "id": "azure-prepare-ms",
+      "name": "azure-prepare",
+      "description": "Prepare Azure apps for deployment (infra Bicep/Terraform, azure.yaml, Dockerfiles). Use for create/modernize or create+deploy; not cross-cloud migration (use azure-cloud-migrate). WHEN: \\\"create app\\\", \\\"build web app\\\", \\\"create API\\\", \\\"create serverless HTTP API\\\", \\\"create frontend\\\", \\\"create back end\\\", \\\"build a service\\\", \\\"modernize application\\\", \\\"update application\\\", \\\"add authentication\\\", \\\"add caching\\\", \\\"host on Azure\\\", \\\"create and deploy\\\", \\\"deploy to Azure\\\", \\\"deploy to Azure using Terraform\\\", \\\"deploy to Azure App Service\\\", \\\"deploy to Azure App Service using Terraform\\\", \\\"deploy to Azure Container Apps\\\", \\\"deploy to Azure Container Apps using Terraform\\\", \\\"generate Terraform\\\", \\\"generate Bicep\\\", \\\"function app\\\", \\\"timer trigger\\\", \\\"service bus trigger\\\", \\\"event-driven function\\\", \\\"containerized Node.js app\\\", \\\"social media app\\\", \\\"static portfolio website\\\", \\\"todo list with frontend and API\\\", \\\"prepare my Azure application to use Key Vault\\\", \\\"managed identity\\\".",
+      "category": "cloud",
+      "tags": [],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 11900,
+      "directory": "azure-prepare-ms",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "microsoft",
+      "source": "microsoft/azure-skills"
+    },
+    {
+      "id": "azure-rbac-ms",
+      "name": "azure-rbac",
+      "description": "Helps users find the right Azure RBAC role for an identity with least privilege access, then generate CLI commands and Bicep code to assign it. Also provides guidance on permissions required to grant roles. USE FOR: \\\"what role should I assign\\\", \\\"least privilege role\\\", \\\"RBAC role for\\\", \\\"role to read blobs\\\", \\\"role for managed identity\\\", \\\"custom role definition\\\", \\\"assign role to identity\\\", \\\"what role do I need to grant access\\\", \\\"permissions to assign roles\\\". DO NOT USE FOR: creating or configuring managed identities, or general Azure security hardening; those are out of scope for this role-selection skill.",
+      "category": "cloud",
+      "tags": [],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 11900,
+      "directory": "azure-rbac-ms",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "microsoft",
+      "source": "microsoft/azure-skills"
+    },
+    {
+      "id": "azure-resource-lookup-ms",
+      "name": "azure-resource-lookup",
+      "description": "List, find, and show Azure resources. Answers \\\"list my VMs\\\", \\\"show my storage accounts\\\", \\\"list websites\\\", \\\"find container apps\\\", \\\"what resources do I have\\\", and similar queries for any Azure resource type. USE FOR: list resources, list virtual machines, list VMs, list storage accounts, list websites, list web apps, list container apps, show resources, find resources, what resources do I have, list resources in resource group, list resources in subscription, find resources by tag, find orphaned resources, resource inventory, count resources by type, cross-subscription resource query, Azure Resource Graph, resource discovery, list container registries, list SQL servers, list Key Vaults, show resource groups, list app services, find resources across subscriptions, find unattached disks, tag analysis. DO NOT USE FOR: deploying resources (use azure-deploy), creating or modifying resources, cost optimization (use azure-cost-optimization), writing application code, non-Azure clouds.",
+      "category": "cloud",
+      "tags": [],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 11900,
+      "directory": "azure-resource-lookup-ms",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "microsoft",
+      "source": "microsoft/azure-skills"
+    },
+    {
+      "id": "azure-resource-visualizer-ms",
+      "name": "azure-resource-visualizer",
+      "description": "Analyze Azure resource groups and generate detailed Mermaid architecture diagrams showing the relationships between individual resources. USE FOR: create architecture diagram, visualize Azure resources, show resource relationships, generate Mermaid diagram, analyze resource group, diagram my resources, architecture visualization, resource topology, map Azure infrastructure DO NOT USE FOR: creating/modifying resources (use azure-deploy), security scanning (use azure-security), performance troubleshooting (use azure-diagnostics), code generation (use relevant service skill)",
+      "category": "cloud",
+      "tags": [],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 11900,
+      "directory": "azure-resource-visualizer-ms",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "microsoft",
+      "source": "microsoft/azure-skills"
+    },
+    {
+      "id": "azure-storage-ms",
+      "name": "azure-storage",
+      "description": "Azure Storage Services including Blob Storage, File Shares, Queue Storage, Table Storage, and Data Lake. Provides object storage, SMB file shares, async messaging, NoSQL key-value, and big data analytics capabilities. Includes access tiers (hot, cool, archive) and lifecycle management. USE FOR: blob storage, file shares, queue storage, table storage, data lake, upload files, download blobs, storage accounts, access tiers, lifecycle management. DO NOT USE FOR: SQL databases, Cosmos DB (use azure-prepare), messaging with Event Hubs or Service Bus (use azure-messaging).",
+      "category": "cloud",
+      "tags": [],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 11900,
+      "directory": "azure-storage-ms",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "microsoft",
+      "source": "microsoft/azure-skills"
+    },
+    {
+      "id": "azure-validate-ms",
+      "name": "azure-validate",
+      "description": "Pre-deployment validation for Azure readiness. Run deep checks on configuration, infrastructure (Bicep or Terraform), permissions, and prerequisites before deploying. WHEN: validate my app, check deployment readiness, run preflight checks, verify configuration, check if ready to deploy, validate azure.yaml, validate Bicep, test before deploying, troubleshoot deployment errors, validate Azure Functions, validate function app, validate serverless deployment.",
+      "category": "cloud",
+      "tags": [],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 11900,
+      "directory": "azure-validate-ms",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "microsoft",
+      "source": "microsoft/azure-skills"
+    },
+    {
+      "id": "entra-app-registration-ms",
+      "name": "entra-app-registration",
+      "description": "Guides Microsoft Entra ID app registration, OAuth 2.0 authentication, and MSAL integration. USE FOR: create app registration, register Azure AD app, configure OAuth, set up authentication, add API permissions, generate service principal, MSAL example, console app auth, Entra ID setup, Azure AD authentication. DO NOT USE FOR: Azure RBAC or role assignments (use azure-rbac), Key Vault secrets (use azure-keyvault-expiration-audit), Azure resource security (use azure-security).",
+      "category": "cloud",
+      "tags": [],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 11900,
+      "directory": "entra-app-registration-ms",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "microsoft",
+      "source": "microsoft/azure-skills"
+    },
+    {
+      "id": "frontend-design-amwill",
+      "name": "frontend-design",
+      "description": "Create distinctive, production-grade frontend interfaces with high design quality. Use this skill when the user asks to build web components, pages, or applications. Generates creative, polished code that avoids generic AI aesthetics.",
+      "category": "design",
+      "tags": [],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 11900,
+      "directory": "frontend-design-amwill",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "Complete terms in LICENSE.txt",
+      "author": "am-will",
+      "source": "am-will/codex-skills"
+    },
+    {
+      "id": "microsoft-foundry-ms",
+      "name": "microsoft-foundry",
+      "description": "Deploy, evaluate, and manage Foundry agents end-to-end: Docker build, ACR push, hosted/prompt agent create, container start, batch eval, prompt optimization, agent.yaml, dataset curation from traces. USE FOR: deploy agent to Foundry, hosted agent, create agent, invoke agent, evaluate agent, run batch eval, optimize prompt, deploy model, Foundry project, RBAC, role assignment, permissions, quota, capacity, region, troubleshoot agent, deployment failure, create dataset from traces, dataset versioning, eval trending, create AI Services, Cognitive Services, create Foundry resource, provision resource, knowledge index, agent monitoring, customize deployment, onboard, availability, standard agent setup, capability host. DO NOT USE FOR: Azure Functions, App Service, general Azure deploy (use azure-deploy), general Azure prep (use azure-prepare).",
+      "category": "cloud",
+      "tags": [],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 11900,
+      "directory": "microsoft-foundry-ms",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "microsoft",
+      "source": "microsoft/azure-skills"
+    },
+    {
+      "id": "planner",
+      "name": "planner",
+      "description": ">",
+      "category": "workflows",
+      "tags": [],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 11900,
+      "directory": "planner",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "am-will",
+      "source": "am-will/codex-skills"
+    },
+    {
+      "id": "parallel-task",
+      "name": "parallel-task",
+      "description": ">",
+      "category": "workflows",
+      "tags": [],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 11800,
+      "directory": "parallel-task",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "am-will",
+      "source": "am-will/codex-skills"
+    },
+    {
+      "id": "read-github",
+      "name": "read-github",
+      "description": "|",
+      "category": "agent-skills",
+      "tags": [],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 11800,
+      "directory": "read-github",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "am-will",
+      "source": "am-will/codex-skills"
+    },
+    {
+      "id": "agent-browser-amwill",
+      "name": "Agent Browser",
+      "description": "A fast Rust-based headless browser automation CLI with Node.js fallback that enables AI agents to navigate, click, type, and snapshot pages via structured commands.",
+      "category": "agent-skills",
+      "tags": [],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 11700,
+      "directory": "agent-browser-amwill",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "am-will",
+      "source": "am-will/codex-skills"
+    },
+    {
+      "id": "openai-docs-skill",
+      "name": "openai-docs-skill",
+      "description": "Query the OpenAI developer documentation via the OpenAI Docs MCP server using CLI (curl/jq). Use whenever a task involves the OpenAI API (Responses, Chat Completions, Realtime, etc.), OpenAI SDKs, ChatGPT Apps SDK, Codex, MCP integrations, endpoint schemas, parameters, limits, or migrations and you need up-to-date official guidance.",
+      "category": "agent-skills",
+      "tags": [],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 11700,
+      "directory": "openai-docs-skill",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "am-will",
+      "source": "am-will/codex-skills"
+    },
+    {
+      "id": "plan-harder",
+      "name": "plan-harder",
+      "description": ">",
+      "category": "workflows",
+      "tags": [],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 11700,
+      "directory": "plan-harder",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "am-will",
+      "source": "am-will/codex-skills"
+    },
+    {
+      "id": "gemini-computer-use",
+      "name": "gemini-computer-use",
+      "description": "Build and run Gemini 2.5 Computer Use browser-control agents with Playwright. Use when a user wants to automate web browser tasks via the Gemini Computer Use model, needs an agent loop (screenshot \u2192 function_call \u2192 action \u2192 function_response), or asks to integrate safety confirmation for risky UI actions.",
+      "category": "ai-tools",
+      "tags": [],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 11600,
+      "directory": "gemini-computer-use",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "am-will",
+      "source": "am-will/codex-skills"
+    },
+    {
+      "id": "llm-council",
+      "name": "llm-council",
+      "description": ">",
+      "category": "agent-skills",
+      "tags": [],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 11600,
+      "directory": "llm-council",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "am-will",
+      "source": "am-will/codex-skills"
+    },
+    {
+      "id": "markdown-url",
+      "name": "markdown-url",
+      "description": "|",
+      "category": "agent-skills",
+      "tags": [],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 11600,
+      "directory": "markdown-url",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "am-will",
+      "source": "am-will/codex-skills"
+    },
+    {
+      "id": "swarm-planner",
+      "name": "swarm-planner",
+      "description": ">",
+      "category": "workflows",
+      "tags": [],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 11600,
+      "directory": "swarm-planner",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "am-will",
+      "source": "am-will/codex-skills"
+    },
+    {
+      "id": "vercel-react-best-practices-amwill",
+      "name": "vercel-react-best-practices",
+      "description": "React and Next.js performance optimization guidelines from Vercel Engineering. This skill should be used when writing, reviewing, or refactoring React/Next.js code to ensure optimal performance patterns. Triggers on tasks involving React components, Next.js pages, data fetching, bundle optimization, or performance improvements.",
+      "category": "frameworks",
+      "tags": [],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 11600,
+      "directory": "vercel-react-best-practices-amwill",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "am-will",
+      "source": "am-will/codex-skills"
+    },
+    {
+      "id": "parallel-task-spark",
+      "name": "parallel-task-spark",
+      "description": ">",
+      "category": "workflows",
+      "tags": [],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 11500,
+      "directory": "parallel-task-spark",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "am-will",
+      "source": "am-will/codex-skills"
+    },
+    {
+      "id": "role-creator",
+      "name": "role-creator",
+      "description": "Create and install Codex custom agent roles in ~/.codex/config.toml, generate role config files, enforce supported keys, and guide users through required role inputs (model, reasoning effort, developer_instructions).",
+      "category": "workflows",
+      "tags": [],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 11500,
+      "directory": "role-creator",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "am-will",
+      "source": "am-will/codex-skills"
+    },
+    {
+      "id": "super-swarm-spark",
+      "name": "super-swarm-spark",
+      "description": ">",
+      "category": "workflows",
+      "tags": [],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 11500,
+      "directory": "super-swarm-spark",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "am-will",
+      "source": "am-will/codex-skills"
+    },
+    {
+      "id": "brand-guidelines",
+      "name": "brand-guidelines",
+      "description": "Applies Anthropic's official brand colors and typography to any sort of artifact that may benefit from having Anthropic's look-and-feel. Use it when brand colors or style guidelines, visual formatting, or company design standards apply.",
+      "category": "design",
+      "tags": [],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 11400,
+      "directory": "brand-guidelines",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "Complete terms in LICENSE.txt",
+      "author": "anthropic",
+      "source": "anthropics/skills"
+    },
+    {
+      "id": "git-commit",
+      "name": "git-commit",
+      "description": "Execute git commit with conventional commit message analysis, intelligent staging, and message generation. Use when user asks to commit changes, create a git commit, or mentions \"/commit\". Supports: (1) Auto-detecting type and scope from changes, (2) Generating conventional commit messages from diff, (3) Interactive commit with optional type/scope/description overrides, (4) Intelligent file staging for logical grouping",
+      "category": "workflows",
+      "tags": [],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 11400,
+      "directory": "git-commit",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "github",
+      "source": "github/awesome-copilot"
+    },
+    {
+      "id": "stitch-loop",
+      "name": "stitch-loop",
+      "description": "Teaches agents to iteratively build websites using Stitch with an autonomous baton-passing loop pattern",
+      "category": "ai-tools",
+      "tags": [],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 11200,
+      "directory": "stitch-loop",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "google-labs-code",
+      "source": "google-labs-code/stitch-skills"
+    },
+    {
+      "id": "data-analysis",
+      "name": "data-analysis",
+      "description": "Analyze datasets to extract insights, identify patterns, and generate reports. Use when exploring data, creating visualizations, or performing statistical analysis. Handles CSV, JSON, SQL queries, and Python pandas operations.",
+      "category": "workflows",
+      "tags": [],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 10900,
+      "directory": "data-analysis",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "supercent-io",
+      "source": "supercent-io/skills-template"
+    },
+    {
+      "id": "security-best-practices",
+      "name": "security-best-practices",
+      "description": "Implement security best practices for web applications and infrastructure. Use when securing APIs, preventing common vulnerabilities, or implementing security policies. Handles HTTPS, CORS, XSS, SQL Injection, CSRF, rate limiting, and OWASP Top 10.",
+      "category": "devops",
+      "tags": [],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 10900,
+      "directory": "security-best-practices",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "supercent-io",
+      "source": "supercent-io/skills-template"
+    },
+    {
+      "id": "vet",
+      "name": "vet",
+      "description": "Run vet immediately after ANY logical unit of code changes. Do not batch your changes, do not wait to be asked to run vet, make sure you are proactive.",
+      "category": "workflows",
+      "tags": [],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 10900,
+      "directory": "vet",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "imbue-ai",
+      "source": "imbue-ai/vet"
+    },
+    {
+      "id": "enhance-prompt",
+      "name": "enhance-prompt",
+      "description": "Transforms vague UI ideas into polished, Stitch-optimized prompts. Enhances specificity, adds UI/UX keywords, injects design system context, and structures output for better generation results.",
+      "category": "ai-tools",
+      "tags": [],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 10600,
+      "directory": "enhance-prompt",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "google-labs-code",
+      "source": "google-labs-code/stitch-skills"
+    },
+    {
+      "id": "workflow-automation",
+      "name": "workflow-automation",
+      "description": "Automate repetitive development tasks and workflows. Use when creating build scripts, automating deployments, or setting up development workflows. Handles npm scripts, Makefile, GitHub Actions workflows, and task automation.",
+      "category": "devops",
+      "tags": [],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 10600,
+      "directory": "workflow-automation",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "supercent-io",
+      "source": "supercent-io/skills-template"
+    },
+    {
+      "id": "code-review",
+      "name": "code-review",
+      "description": "Conduct thorough, constructive code reviews for quality and security. Use when reviewing pull requests, checking code quality, identifying bugs, or auditing security. Handles best practices, SOLID principles, security vulnerabilities, performance analysis, and testing coverage.",
+      "category": "quality",
+      "tags": [],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 10500,
+      "directory": "code-review",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "supercent-io",
+      "source": "supercent-io/skills-template"
+    },
+    {
+      "id": "internal-comms",
+      "name": "internal-comms",
+      "description": "A set of resources to help me write all kinds of internal communications, using the formats that my company likes to use. Claude should use this skill whenever asked to write some sort of internal communications (status reports, leadership updates, 3P updates, company newsletters, FAQs, incident reports, project updates, etc.).",
+      "category": "documents",
+      "tags": [],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 10500,
+      "directory": "internal-comms",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "Complete terms in LICENSE.txt",
+      "author": "anthropic",
+      "source": "anthropics/skills"
+    },
+    {
+      "id": "api-documentation",
+      "name": "api-documentation",
+      "description": "Create comprehensive API documentation for developers. Use when documenting REST APIs, GraphQL schemas, or SDK methods. Handles OpenAPI/Swagger, interactive docs, examples, and API reference guides.",
+      "category": "documentation",
+      "tags": [],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 10400,
+      "directory": "api-documentation",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "supercent-io",
+      "source": "supercent-io/skills-template"
+    },
+    {
+      "id": "code-refactoring",
+      "name": "code-refactoring",
+      "description": "Simplify and refactor code while preserving behavior, improving clarity, and reducing complexity. Use when simplifying complex code, removing duplication, or applying design patterns. Handles Extract Method, DRY principle, SOLID principles, behavior validation, and refactoring patterns.",
+      "category": "quality",
+      "tags": [],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 10400,
+      "directory": "code-refactoring",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "supercent-io",
+      "source": "supercent-io/skills-template"
+    },
+    {
+      "id": "database-schema-design-supercent",
+      "name": "database-schema-design",
+      "description": "Design and optimize database schemas for SQL and NoSQL databases. Use when creating new databases, designing tables, defining relationships, indexing strategies, or database migrations. Handles PostgreSQL, MySQL, MongoDB, normalization, and performance optimization.",
+      "category": "workflows",
+      "tags": [],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 10400,
+      "directory": "database-schema-design-supercent",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "supercent-io",
+      "source": "supercent-io/skills-template"
+    },
+    {
+      "id": "technical-writing",
+      "name": "technical-writing",
+      "description": "Write clear, comprehensive technical documentation. Use when creating specs, architecture docs, runbooks, or API documentation. Handles technical specifications, system design docs, operational guides, and developer documentation with industry best practices.",
+      "category": "documentation",
+      "tags": [],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 10400,
+      "directory": "technical-writing",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "supercent-io",
+      "source": "supercent-io/skills-template"
+    },
+    {
+      "id": "api-design",
+      "name": "api-design",
+      "description": "Design RESTful and GraphQL APIs following best practices. Use when creating new APIs, refactoring existing endpoints, or documenting API specifications. Handles OpenAPI, REST, GraphQL, versioning.",
+      "category": "documentation",
+      "tags": [],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 10300,
+      "directory": "api-design",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "Apache-2.0",
+      "author": "supercent-io",
+      "source": "supercent-io/skills-template"
+    },
+    {
+      "id": "backend-testing",
+      "name": "backend-testing",
+      "description": "Write comprehensive backend tests including unit tests, integration tests, and API tests. Use when testing REST APIs, database operations, authentication flows, or business logic. Handles Jest, Pytest, Mocha, testing strategies, mocking, and test coverage.",
+      "category": "quality",
+      "tags": [],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 10300,
+      "directory": "backend-testing",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "supercent-io",
+      "source": "supercent-io/skills-template"
+    },
+    {
+      "id": "git-workflow",
+      "name": "git-workflow",
+      "description": "Manage Git workflows including commits, branches, merges, and collaboration. Use when working with Git repositories, creating commits, managing branches, or resolving conflicts.",
+      "category": "languages",
+      "tags": [],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 10300,
+      "directory": "git-workflow",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "supercent-io",
+      "source": "supercent-io/skills-template"
+    },
+    {
+      "id": "task-planning",
+      "name": "task-planning",
+      "description": "Plan and organize software development tasks effectively. Use when breaking down features, creating user stories, or planning sprints. Handles task breakdown, user stories, acceptance criteria, and backlog management.",
+      "category": "workflows",
+      "tags": [],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 10300,
+      "directory": "task-planning",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "supercent-io",
+      "source": "supercent-io/skills-template"
+    },
+    {
+      "id": "template-skill",
+      "name": "template-skill",
+      "description": "Replace with description of the skill and when Claude should use it.",
+      "category": "agent-skills",
+      "tags": [],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 10300,
+      "directory": "template-skill",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "anthropic",
+      "source": "anthropics/skills"
+    },
+    {
+      "id": "web-accessibility",
+      "name": "web-accessibility",
+      "description": "Implement web accessibility (a11y) standards following WCAG 2.1 guidelines. Use when building accessible UIs, fixing accessibility issues, or ensuring compliance with disability standards. Handles ARIA attributes, keyboard navigation, screen readers, semantic HTML, and accessibility testing.",
+      "category": "workflows",
+      "tags": [],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 10300,
+      "directory": "web-accessibility",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "supercent-io",
+      "source": "supercent-io/skills-template"
+    },
+    {
+      "id": "codebase-search",
+      "name": "codebase-search",
+      "description": "Search and navigate large codebases efficiently. Use when finding specific code patterns, tracing function calls, understanding code structure, or locating bugs. Handles semantic search, grep patterns, AST analysis.",
+      "category": "quality",
+      "tags": [],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 10200,
+      "directory": "codebase-search",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "supercent-io",
+      "source": "supercent-io/skills-template"
+    },
+    {
+      "id": "deployment-automation",
+      "name": "deployment-automation",
+      "description": "Automate application deployment to cloud platforms and servers. Use when setting up CI/CD pipelines, deploying to Docker/Kubernetes, or configuring cloud infrastructure. Handles GitHub Actions, Docker, Kubernetes, AWS, Vercel, and deployment best practices.",
+      "category": "devops",
+      "tags": [],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 10200,
+      "directory": "deployment-automation",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "supercent-io",
+      "source": "supercent-io/skills-template"
+    },
+    {
+      "id": "file-organization",
+      "name": "file-organization",
+      "description": "Organize project files and folders for maintainability and scalability. Use when structuring new projects, refactoring folder structure, or establishing conventions. Handles project structure, naming conventions, and file organization best practices.",
+      "category": "devops",
+      "tags": [],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 10200,
+      "directory": "file-organization",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "supercent-io",
+      "source": "supercent-io/skills-template"
+    },
+    {
+      "id": "performance-optimization",
+      "name": "performance-optimization",
+      "description": "Optimize application performance for speed, efficiency, and scalability. Use when improving page load times, reducing bundle size, optimizing database queries, or fixing performance bottlenecks. Handles React optimization, lazy loading, caching, code splitting, and profiling.",
+      "category": "quality",
+      "tags": [],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 10200,
+      "directory": "performance-optimization",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "supercent-io",
+      "source": "supercent-io/skills-template"
+    },
+    {
+      "id": "testing-strategies-supercent",
+      "name": "testing-strategies",
+      "description": "Design comprehensive testing strategies for software quality assurance. Use when planning test coverage, implementing test pyramids, or setting up testing infrastructure. Handles unit testing, integration testing, E2E testing, TDD, and testing best practices.",
+      "category": "quality",
+      "tags": [],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 10200,
+      "directory": "testing-strategies-supercent",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "supercent-io",
+      "source": "supercent-io/skills-template"
+    },
+    {
+      "id": "agentic-workflow",
+      "name": "agentic-workflow",
+      "description": "Practical AI agent workflows and productivity techniques. Provides optimized patterns for daily development tasks such as commands, shortcuts, Git integration, MCP usage, and session management.",
+      "category": "workflows",
+      "tags": [],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 10100,
+      "directory": "agentic-workflow",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "supercent-io",
+      "source": "supercent-io/skills-template"
+    },
+    {
+      "id": "changelog-maintenance",
+      "name": "changelog-maintenance",
+      "description": "Maintain a clear and informative changelog for software releases. Use when documenting version changes, tracking features, or communicating updates to users. Handles semantic versioning, changelog formats, and release notes.",
+      "category": "documentation",
+      "tags": [],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 10100,
+      "directory": "changelog-maintenance",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "supercent-io",
+      "source": "supercent-io/skills-template"
+    },
+    {
+      "id": "copilot-coding-agent",
+      "name": "copilot-coding-agent",
+      "description": "GitHub Copilot Coding Agent automation. Apply the ai-copilot label to an issue \u2192 GitHub Actions auto-assigns Copilot via GraphQL \u2192 Copilot creates a Draft PR. One-click issue-to-PR pipeline.",
+      "category": "agent-skills",
+      "tags": [],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 10100,
+      "directory": "copilot-coding-agent",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "supercent-io",
+      "source": "supercent-io/skills-template"
+    },
+    {
+      "id": "debugging",
+      "name": "debugging",
+      "description": "Systematically debug code issues using proven methodologies. Use when encountering errors, unexpected behavior, or performance problems. Handles error analysis, root cause identification, debugging strategies, and fix verification.",
+      "category": "quality",
+      "tags": [],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 10100,
+      "directory": "debugging",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "supercent-io",
+      "source": "supercent-io/skills-template"
+    },
+    {
+      "id": "monitoring-observability",
+      "name": "monitoring-observability",
+      "description": "Set up monitoring, logging, and observability for applications and infrastructure. Use when implementing health checks, metrics collection, log aggregation, or alerting systems. Handles Prometheus, Grafana, ELK Stack, Datadog, and monitoring best practices.",
+      "category": "devops",
+      "tags": [],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 10100,
+      "directory": "monitoring-observability",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "supercent-io",
+      "source": "supercent-io/skills-template"
+    },
+    {
+      "id": "native-data-fetching",
+      "name": "native-data-fetching",
+      "description": "Use when implementing or debugging ANY network request, API call, or data fetching. Covers fetch API, React Query, SWR, error handling, caching, offline support, and Expo Router data loaders (useLoaderData).",
+      "category": "frameworks",
+      "tags": [],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 10100,
+      "directory": "native-data-fetching",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "expo",
+      "source": "expo/skills"
+    },
+    {
+      "id": "pollinations-ai",
+      "name": "pollinations-ai",
+      "description": "Generate and save images using Pollinations.ai's free, open-source API. No signup required. Supports URL-based generation, custom parameters (width, height, model, seed), and automatic file saving. Perfect for quick prototypes, marketing assets, and creative workflows.",
+      "category": "ai-tools",
+      "tags": [],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 10100,
+      "directory": "pollinations-ai",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "supercent-io",
+      "source": "supercent-io/skills-template"
+    },
+    {
+      "id": "ralph",
+      "name": "ralph",
+      "description": "Specification-first AI development powered by Ouroboros. Socratic questioning exposes hidden assumptions before writing code. Evolutionary loop (Interview \u2192 Seed \u2192 Execute \u2192 Evaluate \u2192 Evolve) runs until ontology converges. Ralph mode persists until verification passes \u2014 the boulder never stops. Use when user says \\\"ralph\\\", \\\"ooo\\\", \\\"don't stop\\\", \\\"must complete\\\", \\\"until it works\\\", \\\"keep going\\\", \\\"interview me\\\", or \\\"stop prompting\\\".",
+      "category": "agent-skills",
+      "tags": [],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 10100,
+      "directory": "ralph",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "supercent-io",
+      "source": "supercent-io/skills-template"
+    },
+    {
+      "id": "responsive-design",
+      "name": "responsive-design",
+      "description": "Create responsive web designs that work across all devices and screen sizes. Use when building mobile-first layouts, implementing breakpoints, or optimizing for different viewports. Handles CSS Grid, Flexbox, media queries, viewport units, and responsive images.",
+      "category": "design",
+      "tags": [],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 10100,
+      "directory": "responsive-design",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "supercent-io",
+      "source": "supercent-io/skills-template"
+    },
+    {
+      "id": "ui-component-patterns",
+      "name": "ui-component-patterns",
+      "description": "Build reusable, maintainable UI components following modern design patterns. Use when creating component libraries, implementing design systems, or building scalable frontend architectures. Handles React patterns, composition, prop design, TypeScript, and component best practices.",
+      "category": "design",
+      "tags": [],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 10100,
+      "directory": "ui-component-patterns",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "supercent-io",
+      "source": "supercent-io/skills-template"
+    },
+    {
+      "id": "user-guide-writing",
+      "name": "user-guide-writing",
+      "description": "Write clear and helpful user guides and tutorials for end users. Use when creating onboarding docs, how-to guides, or FAQ pages. Handles user-focused documentation, screenshots, step-by-step instructions.",
+      "category": "documentation",
+      "tags": [],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 10100,
+      "directory": "user-guide-writing",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "supercent-io",
+      "source": "supercent-io/skills-template"
+    },
+    {
+      "id": "vercel-deploy",
+      "name": "vercel-deploy",
+      "description": "Deploy applications and websites to Vercel instantly. Use when asked to \\\"Deploy my app\\\", \\\"Deploy this to production\\\", \\\"Create a preview deployment\\\", or \\\"Push this live\\\". No authentication required - returns preview URL and claimable deployment link.",
+      "category": "devops",
+      "tags": [],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 10100,
+      "directory": "vercel-deploy",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "supercent-io",
+      "source": "supercent-io/skills-template"
+    },
+    {
+      "id": "agent-configuration",
+      "name": "agent-configuration",
+      "description": "AI agent configuration policy and security guide. Project description file writing, Hooks/Skills/Plugins setup, security policy, team shared workflow definition.",
+      "category": "agent-skills",
+      "tags": [],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 10000,
+      "directory": "agent-configuration",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "supercent-io",
+      "source": "supercent-io/skills-template"
+    },
+    {
+      "id": "agent-evaluation",
+      "name": "agent-evaluation",
+      "description": "Design and implement comprehensive evaluation systems for AI agents. Use when building evals for coding agents, conversational agents, research agents, or computer-use agents. Covers grader types, benchmarks, 8-step roadmap, and production integration.",
+      "category": "agent-skills",
+      "tags": [],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 10000,
+      "directory": "agent-evaluation",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "supercent-io",
+      "source": "supercent-io/skills-template"
+    },
+    {
+      "id": "agentic-development-principles",
+      "name": "agentic-development-principles",
+      "description": "Universal principles for agentic development when collaborating with AI agents. Defines divide-and-conquer, context management, abstraction level selection, and an automation philosophy. Applicable to all AI coding tools.",
+      "category": "workflows",
+      "tags": [],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 10000,
+      "directory": "agentic-development-principles",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "supercent-io",
+      "source": "supercent-io/skills-template"
+    },
+    {
+      "id": "authentication-setup",
+      "name": "authentication-setup",
+      "description": "Design and implement authentication and authorization systems. Use when setting up user login, JWT tokens, OAuth, session management, or role-based access control. Handles password security, token management, SSO integration.",
+      "category": "devops",
+      "tags": [],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 10000,
+      "directory": "authentication-setup",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "supercent-io",
+      "source": "supercent-io/skills-template"
+    },
+    {
+      "id": "bmad-orchestrator",
+      "name": "bmad-orchestrator",
+      "description": "Orchestrates BMAD workflows for structured AI-driven development. Routes work across Analysis, Planning, Solutioning, and Implementation phases.",
+      "category": "workflows",
+      "tags": [],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 10000,
+      "directory": "bmad-orchestrator",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "supercent-io",
+      "source": "supercent-io/skills-template"
+    },
+    {
+      "id": "environment-setup",
+      "name": "environment-setup",
+      "description": "Configure and manage development, staging, and production environments. Use when setting up environment variables, managing configurations, or separating environments. Handles .env files, config management, and environment-specific settings.",
+      "category": "devops",
+      "tags": [],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 10000,
+      "directory": "environment-setup",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "supercent-io",
+      "source": "supercent-io/skills-template"
+    },
+    {
+      "id": "firebase-ai-logic",
+      "name": "firebase-ai-logic",
+      "description": "Integrate Firebase AI Logic (Gemini in Firebase) for intelligent app features. Use when adding AI capabilities to Firebase apps, implementing generative AI features, or setting up Firebase AI SDK. Handles Firebase AI SDK setup, prompt engineering, and AI-powered features.",
+      "category": "frameworks",
+      "tags": [],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 10000,
+      "directory": "firebase-ai-logic",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "supercent-io",
+      "source": "supercent-io/skills-template"
+    },
+    {
+      "id": "log-analysis",
+      "name": "log-analysis",
+      "description": "Analyze application logs to identify errors, performance issues, and security anomalies. Use when debugging issues, monitoring system health, or investigating incidents. Handles various log formats including Apache, Nginx, application logs, and JSON logs.",
+      "category": "quality",
+      "tags": [],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 10000,
+      "directory": "log-analysis",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "supercent-io",
+      "source": "supercent-io/skills-template"
+    },
+    {
+      "id": "looker-studio-bigquery",
+      "name": "looker-studio-bigquery",
+      "description": "Design and configure Looker Studio dashboards with BigQuery data sources. Use when creating analytics dashboards, connecting BigQuery to visualization tools, or optimizing data pipeline performance. Handles BigQuery connections, custom SQL queries, scheduled queries, dashboard design, and performance optimization.",
+      "category": "workflows",
+      "tags": [],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 10000,
+      "directory": "looker-studio-bigquery",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "supercent-io",
+      "source": "supercent-io/skills-template"
+    },
+    {
+      "id": "opencontext",
+      "name": "opencontext",
+      "description": "Persistent memory and context management for AI agents using OpenContext. Keep context across sessions/repos/dates, store conclusions, and provide document search workflows.",
+      "category": "agent-skills",
+      "tags": [],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 10000,
+      "directory": "opencontext",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "supercent-io",
+      "source": "supercent-io/skills-template"
+    },
+    {
+      "id": "prompt-repetition",
+      "name": "prompt-repetition",
+      "description": "A prompt repetition technique for improving LLM accuracy. Achieves significant performance gains in 67% (47/70) of 70 benchmarks. Automatically applied on lightweight models (haiku, flash, mini).",
+      "category": "workflows",
+      "tags": [],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 10000,
+      "directory": "prompt-repetition",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "supercent-io",
+      "source": "supercent-io/skills-template"
+    },
+    {
+      "id": "skill-standardization",
+      "name": "skill-standardization",
+      "description": "Standardize and validate SKILL.md files to match the project specification. Use when creating new skills, converting existing skills to standard format, or validating skill file structure. Handles section heading conversion, frontmatter standardization, and missing section detection.",
+      "category": "agent-skills",
+      "tags": [],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 10000,
+      "directory": "skill-standardization",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "supercent-io",
+      "source": "supercent-io/skills-template"
+    },
+    {
+      "id": "standup-meeting",
+      "name": "standup-meeting",
+      "description": "Conduct effective daily standup meetings for agile teams. Use when facilitating standups, tracking blockers, or improving team synchronization. Handles standup format, time management, and blocker resolution.",
+      "category": "workflows",
+      "tags": [],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 10000,
+      "directory": "standup-meeting",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "supercent-io",
+      "source": "supercent-io/skills-template"
+    },
+    {
+      "id": "state-management",
+      "name": "state-management",
+      "description": "Implement state management patterns for frontend applications. Use when managing global state, handling complex data flows, or coordinating state across components. Handles React Context, Redux, Zustand, Recoil, and state management best practices.",
+      "category": "frameworks",
+      "tags": [],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 10000,
+      "directory": "state-management",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "supercent-io",
+      "source": "supercent-io/skills-template"
+    },
+    {
+      "id": "system-environment-setup",
+      "name": "system-environment-setup",
+      "description": "Configure development and production environments for consistent and reproducible setups. Use when setting up new projects, Docker environments, or development tooling. Handles Docker Compose, .env configuration, dev containers, and infrastructure as code.",
+      "category": "devops",
+      "tags": [],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 10000,
+      "directory": "system-environment-setup",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "supercent-io",
+      "source": "supercent-io/skills-template"
+    },
+    {
+      "id": "task-estimation",
+      "name": "task-estimation",
+      "description": "Estimate software development tasks accurately using various techniques. Use when planning sprints, roadmaps, or project timelines. Handles story points, t-shirt sizing, planning poker, and estimation best practices.",
+      "category": "workflows",
+      "tags": [],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 10000,
+      "directory": "task-estimation",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "supercent-io",
+      "source": "supercent-io/skills-template"
+    },
+    {
+      "id": "web-design-guidelines-supercent",
+      "name": "web-design-guidelines",
+      "description": "Review UI code for Web Interface Guidelines compliance. Use when asked to \\\"review my UI\\\", \\\"check accessibility\\\", \\\"audit design\\\", \\\"review UX\\\", or \\\"check my site against best practices\\\". Fetches latest Vercel guidelines and checks files against all rules.",
+      "category": "design",
+      "tags": [],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 10000,
+      "directory": "web-design-guidelines-supercent",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "supercent-io",
+      "source": "supercent-io/skills-template"
     }
   ],
   "categories": [
-    { "id": "featured", "name": "Featured", "icon": "star", "count": 6 },
-    { "id": "languages", "name": "Languages", "icon": "code", "count": 2 },
-    { "id": "frameworks", "name": "Frameworks", "icon": "layers", "count": 5 },
-    { "id": "workflows", "name": "Workflows", "icon": "workflow", "count": 5 }
+    {
+      "id": "agent-skills",
+      "name": "Agent Skills",
+      "icon": "bot",
+      "count": 21
+    },
+    {
+      "id": "ai-tools",
+      "name": "Ai Tools",
+      "icon": "sparkles",
+      "count": 12
+    },
+    {
+      "id": "cloud",
+      "name": "Cloud",
+      "icon": "cloud",
+      "count": 40
+    },
+    {
+      "id": "community",
+      "name": "Community",
+      "icon": "users",
+      "count": 1
+    },
+    {
+      "id": "design",
+      "name": "Design",
+      "icon": "palette",
+      "count": 15
+    },
+    {
+      "id": "devops",
+      "name": "Devops",
+      "icon": "server",
+      "count": 9
+    },
+    {
+      "id": "documentation",
+      "name": "Documentation",
+      "icon": "book",
+      "count": 5
+    },
+    {
+      "id": "documents",
+      "name": "Documents",
+      "icon": "file-text",
+      "count": 7
+    },
+    {
+      "id": "frameworks",
+      "name": "Frameworks",
+      "icon": "layers",
+      "count": 16
+    },
+    {
+      "id": "languages",
+      "name": "Languages",
+      "icon": "code",
+      "count": 4
+    },
+    {
+      "id": "marketing",
+      "name": "Marketing",
+      "icon": "megaphone",
+      "count": 25
+    },
+    {
+      "id": "quality",
+      "name": "Quality",
+      "icon": "shield-check",
+      "count": 9
+    },
+    {
+      "id": "workflows",
+      "name": "Workflows",
+      "icon": "workflow",
+      "count": 42
+    }
   ]
 }
