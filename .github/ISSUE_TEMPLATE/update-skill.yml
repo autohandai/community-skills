@@ -1,0 +1,45 @@
+name: Update an Existing Skill
+description: Suggest improvements or fixes to an existing skill
+title: "[Update Skill]: "
+labels: ["skill-update"]
+assignees: []
+body:
+  - type: input
+    id: skill-name
+    attributes:
+      label: Skill Name
+      description: "Name of the existing skill to update"
+      placeholder: typescript-refactoring-patterns
+    validations:
+      required: true
+
+  - type: dropdown
+    id: update-type
+    attributes:
+      label: Type of Update
+      options:
+        - Fix incorrect code examples
+        - Update for newer API/version
+        - Add missing patterns or examples
+        - Improve documentation clarity
+        - Fix frontmatter or metadata
+        - Other
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: What needs to change?
+      description: "Describe the issue and the proposed fix"
+    validations:
+      required: true
+
+  - type: textarea
+    id: proposed-changes
+    attributes:
+      label: Proposed Changes
+      description: "Paste the updated content or describe the specific changes"
+      render: markdown
+    validations:
+      required: false

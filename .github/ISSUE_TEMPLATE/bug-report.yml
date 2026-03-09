@@ -1,0 +1,41 @@
+name: Bug Report
+description: Report an issue with a skill or the registry
+title: "[Bug]: "
+labels: ["bug"]
+assignees: []
+body:
+  - type: input
+    id: skill-name
+    attributes:
+      label: Affected Skill
+      description: "Name of the skill, or 'registry' if it's a registry issue"
+      placeholder: react-component-architecture
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: "What's wrong?"
+    validations:
+      required: true
+
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected Behavior
+      description: "What should happen instead?"
+    validations:
+      required: true
+
+  - type: textarea
+    id: environment
+    attributes:
+      label: Environment
+      description: "Autohand version, OS, and any relevant context"
+      placeholder: |
+        - Autohand version: 1.x.x
+        - OS: macOS 15
+    validations:
+      required: false

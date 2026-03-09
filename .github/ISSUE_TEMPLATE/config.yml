@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Browse Existing Skills
+    url: https://skilled.autohand.ai
+    about: Search and browse all community skills before submitting
+  - name: Submit via Web
+    url: https://skilled.autohand.ai/submit
+    about: Use the guided web form to submit a skill
+  - name: Discord Community
+    url: https://discord.gg/MWTNudaj8E
+    about: Ask questions and get help from the community

@@ -1,75 +1,129 @@
 # Autohand Community Skills
 
-A curated collection of skills for the [Autohand CLI](https://github.com/autohandai/autohand) coding agent.
+A curated collection of 200+ skills for the [Autohand](https://autohand.ai) CLI coding agent.
+
+Browse all skills at [skilled.autohand.ai](https://skilled.autohand.ai).
 
 ## What are Skills?
 
-Skills are structured knowledge files that teach Autohand how to work with specific technologies, frameworks, and patterns. They provide context, best practices, and code examples that help the AI assistant generate better code.
+Skills are structured knowledge files that teach Autohand how to work with specific technologies, frameworks, and patterns. They provide context, best practices, and code examples that help the AI assistant generate better code from the start.
 
-## Installation
+Instead of repeatedly explaining your stack, conventions, or architecture patterns, you install the relevant skills and Autohand immediately understands how to work within your project.
 
-Install skills directly from Autohand CLI:
+## Getting Started
+
+### 1. Install Autohand
 
 ```bash
-# Open the skills browser
-autohand --skill-install
+# Shell (macOS / Linux)
+curl -fsSL https://autohand.ai/install | sh
 
-# Or install a specific skill directly
+# npm
+npm install -g autohand
+
+# bun
+bun install -g autohand
+```
+
+### 2. Discover skills for your project
+
+Autohand has two modes: **interactive** (slash commands inside a session) and **non-interactive** (flags passed directly).
+
+#### Interactive mode
+
+Start a session and use `/learn` to analyze your project:
+
+```bash
+autohand
+> /learn
+```
+
+`/learn` uses a two-phase LLM-powered advisor:
+
+1. **Analyze + Rank** — scans your project structure, audits installed skills for redundancy, and ranks community skills by relevance (0-100)
+2. **Generate** — if no community skill scores above 60, offers to generate a custom skill tailored to your project
+
+For a deeper scan that reads source files:
+
+```
+> /learn deep
+```
+
+To re-analyze and regenerate outdated skills:
+
+```
+> /learn update
+```
+
+#### Non-interactive mode
+
+Run skill operations directly from the terminal without starting a session:
+
+```bash
+# Analyze project and install recommended skills
+autohand --learn
+
+# Re-analyze and regenerate outdated skills
+autohand --learn-update
+
+# Auto-generate 3 skills based on detected stack
+autohand --auto-skill
+```
+
+### 3. Install specific skills
+
+#### Interactive
+
+```bash
+autohand
+> /skills install
+```
+
+Browse and install community skills interactively.
+
+#### Non-interactive
+
+```bash
+# Install a specific skill
 autohand --skill-install typescript-refactoring-patterns
 
-# Install to project level (instead of user level)
+# Install at project level (instead of user/global level)
 autohand --skill-install react-component-architecture --project
 ```
 
-Or use the slash command within an Autohand session:
+## Managing Skills
 
-```
-/skills install
-```
+Inside an Autohand session, use these `/skills` commands:
 
-## Available Skills
+| Command | Description |
+|---------|-------------|
+| `/skills` | List all available skills |
+| `/skills use <name>` | Activate a skill for the current session |
+| `/skills deactivate <name>` | Deactivate an active skill |
+| `/skills info <name>` | Show detailed skill information |
+| `/skills install` | Browse and install community skills |
+| `/skills new` | Create a new skill with a guided wizard |
+| `/skills feedback <slug> <1-5>` | Rate a community skill |
 
-### Featured
+## Skill Categories
 
-| Skill | Description | Rating |
-|-------|-------------|--------|
-| [typescript-refactoring-patterns](./typescript-refactoring-patterns) | Expert TypeScript refactoring patterns for cleaner, type-safe code | ⭐ 4.9 |
-| [react-component-architecture](./react-component-architecture) | Modern React component patterns with hooks, composition, and TypeScript | ⭐ 4.8 |
-| [nextjs-app-router-mastery](./nextjs-app-router-mastery) | Next.js 14+ App Router patterns, server components, and data fetching | ⭐ 4.9 |
-| [testing-strategies](./testing-strategies) | Comprehensive testing strategies with Vitest, Jest, and Testing Library | ⭐ 4.8 |
-| [tailwind-ui-patterns](./tailwind-ui-patterns) | Tailwind CSS v4 patterns, component styling, and responsive design | ⭐ 4.8 |
-| [cli-tool-development](./cli-tool-development) | Build professional CLI tools with Node.js, commander, and Ink | ⭐ 4.7 |
-
-### Languages
-
-| Skill | Description | Rating |
-|-------|-------------|--------|
-| [typescript-refactoring-patterns](./typescript-refactoring-patterns) | Expert TypeScript refactoring patterns | ⭐ 4.9 |
-| [error-handling-patterns](./error-handling-patterns) | Robust error handling patterns for TypeScript | ⭐ 4.5 |
-
-### Frameworks
-
-| Skill | Description | Rating |
-|-------|-------------|--------|
-| [react-component-architecture](./react-component-architecture) | Modern React component patterns | ⭐ 4.8 |
-| [nextjs-app-router-mastery](./nextjs-app-router-mastery) | Next.js 14+ App Router patterns | ⭐ 4.9 |
-| [python-fastapi-patterns](./python-fastapi-patterns) | FastAPI best practices and async patterns | ⭐ 4.7 |
-| [tailwind-ui-patterns](./tailwind-ui-patterns) | Tailwind CSS v4 patterns | ⭐ 4.8 |
-
-### Workflows
-
-| Skill | Description | Rating |
-|-------|-------------|--------|
-| [cli-tool-development](./cli-tool-development) | Build professional CLI tools | ⭐ 4.7 |
-| [api-design-restful](./api-design-restful) | RESTful API design patterns | ⭐ 4.6 |
-| [testing-strategies](./testing-strategies) | Comprehensive testing strategies | ⭐ 4.8 |
-| [git-workflow-mastery](./git-workflow-mastery) | Advanced Git workflows | ⭐ 4.5 |
-| [database-schema-design](./database-schema-design) | Database schema design patterns | ⭐ 4.6 |
-| [documentation-writing](./documentation-writing) | Technical documentation best practices | ⭐ 4.4 |
+| Category | Count | Description |
+|----------|-------|-------------|
+| Workflows | 42 | Git, CI/CD, testing, API design, deployment |
+| Cloud | 40 | AWS, Azure, GCP, Kubernetes, Terraform |
+| Marketing | 25 | SEO, analytics, content strategy, A/B testing |
+| Agent Skills | 21 | Browser automation, email, evaluation, configuration |
+| Frameworks | 16 | React, Next.js, Vue, FastAPI, Django, Rails |
+| Design | 15 | UI patterns, Tailwind, accessibility, responsive |
+| AI Tools | 12 | LLM integration, image/video generation, embeddings |
+| Quality | 9 | Code review, linting, security, performance |
+| DevOps | 9 | Docker, monitoring, infrastructure, observability |
+| Documentation | 12 | Technical writing, API docs, changelogs |
+| Languages | 4 | TypeScript, Python, Rust, Go patterns |
 
 ## Skill Structure
 
-Each skill follows this structure:
+Each skill is a directory with a `SKILL.md` file:
 
 ```
 skill-name/
@@ -88,30 +142,81 @@ description: Brief description of the skill
 license: MIT
 compatibility: requirements (e.g., typescript 5+)
 allowed-tools: read_file write_file apply_patch
+metadata:
+  author: your-name
+  version: "1.0.0"
 ---
 
 # Skill Name
 
-## Section 1
-Content and code examples...
+## When to Use
+Describe when this skill should be activated...
 
-## Section 2
-More content...
+## Patterns
+Concrete code examples and best practices...
 ```
+
+### Skill Discovery Locations
+
+Skills are loaded from these locations (later sources take precedence):
+
+1. `~/.autohand/skills/` — user-level (global)
+2. `<project>/.autohand/skills/` — project-level
 
 ## Contributing
 
-We welcome contributions! See [CONTRIBUTING.md](./CONTRIBUTING.md) for guidelines.
+We welcome contributions from the community. Every skill helps make Autohand smarter for everyone.
 
-### Quick Contribution Guide
+### Quick Start
 
-1. Fork this repository
-2. Create a new skill directory with `SKILL.md`
-3. Add your skill to `registry.json`
-4. Submit a pull request
+1. **Fork** this repository
+2. **Create** your skill directory:
+   ```bash
+   mkdir my-skill-name
+   ```
+3. **Write** your `SKILL.md` file with frontmatter metadata and content
+4. **Add** your skill to `registry.json`:
+   ```json
+   {
+     "id": "my-skill-name",
+     "name": "My Skill Name",
+     "description": "Brief description",
+     "category": "workflows",
+     "author": "your-github-username",
+     "source": "community"
+   }
+   ```
+5. **Submit** a pull request
+
+### Writing Effective Skills
+
+- Start with a clear description of what the skill covers and when to use it
+- Include concrete code examples, not just abstract guidance
+- Organize content with clear headings and sections
+- Keep individual skills focused — one technology or pattern per skill
+- Use fenced code blocks with language identifiers for syntax highlighting
+- Test your skill by installing it locally: copy to `~/.autohand/skills/` and verify it works in a session
+
+### Review Process
+
+Pull requests are reviewed for:
+
+- **Quality** — clear writing, concrete examples, actionable guidance
+- **Accuracy** — correct patterns, up-to-date APIs, working code
+- **Format** — valid frontmatter, proper SKILL.md structure
+- **Scope** — focused on a single technology or pattern
+
+You can also use the [Submit page](https://skilled.autohand.ai/submit) on skilled.autohand.ai for a guided walkthrough.
+
+## Links
+
+- [skilled.autohand.ai](https://skilled.autohand.ai) — Browse and search all skills
+- [autohand.ai](https://autohand.ai) — Main Autohand website
+- [CLI Documentation](https://autohand.ai/docs) — Full CLI reference
+- [Discord](https://discord.gg/MWTNudaj8E) — Community chat
 
 ## License
 
-MIT License - See [LICENSE](./LICENSE) for details.
+MIT License — see [LICENSE](./LICENSE) for details.
 
 Skills contributed by the community are licensed under their respective licenses as specified in each skill's frontmatter.

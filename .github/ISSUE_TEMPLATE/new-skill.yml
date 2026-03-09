@@ -1,0 +1,149 @@
+name: Submit a New Skill
+description: Propose a new community skill for the Autohand registry
+title: "[New Skill]: "
+labels: ["new-skill", "triage"]
+assignees: []
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for contributing a new skill to the Autohand community! Please fill out the details below.
+
+        Before submitting, please check [existing skills](https://skilled.autohand.ai) to make sure your skill doesn't duplicate one that already exists.
+
+  - type: input
+    id: skill-name
+    attributes:
+      label: Skill Name
+      description: "Use kebab-case (e.g., `react-server-components`, `python-async-patterns`)"
+      placeholder: my-skill-name
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: "Brief description of what the skill covers (under 100 characters)"
+      placeholder: "Expert patterns for building accessible React components"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      description: Select the most appropriate category
+      options:
+        - languages
+        - frameworks
+        - workflows
+        - cloud
+        - marketing
+        - agent-skills
+        - design
+        - ai-tools
+        - quality
+        - devops
+        - documentation
+        - documents
+    validations:
+      required: true
+
+  - type: input
+    id: tags
+    attributes:
+      label: Tags
+      description: "3-5 lowercase, comma-separated tags"
+      placeholder: "react, accessibility, components, a11y"
+    validations:
+      required: true
+
+  - type: input
+    id: languages
+    attributes:
+      label: Programming Languages
+      description: "Comma-separated list of languages this skill applies to"
+      placeholder: "typescript, javascript"
+    validations:
+      required: false
+
+  - type: input
+    id: frameworks
+    attributes:
+      label: Frameworks
+      description: "Comma-separated list of frameworks this skill applies to"
+      placeholder: "react, next.js"
+    validations:
+      required: false
+
+  - type: textarea
+    id: skill-content
+    attributes:
+      label: SKILL.md Content
+      description: |
+        Paste your full SKILL.md content including frontmatter. See [CONTRIBUTING.md](../CONTRIBUTING.md) for the expected format.
+      placeholder: |
+        ---
+        name: my-skill-name
+        description: Brief description
+        license: MIT
+        compatibility: typescript 5+, nodejs 18+
+        ---
+
+        # Skill Title
+
+        ## Overview
+        ...
+
+        ## Patterns
+        ```typescript
+        // code examples
+        ```
+      render: markdown
+    validations:
+      required: true
+
+  - type: input
+    id: author
+    attributes:
+      label: Author
+      description: "Your GitHub username"
+      placeholder: your-github-username
+    validations:
+      required: true
+
+  - type: input
+    id: license
+    attributes:
+      label: License
+      description: "License for your skill (must be an OSI-approved license)"
+      placeholder: MIT
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: checklist
+    attributes:
+      label: Submission Checklist
+      options:
+        - label: This skill does not duplicate an existing skill in the registry
+          required: true
+        - label: The SKILL.md includes valid YAML frontmatter
+          required: true
+        - label: All code examples are syntactically correct and include imports
+          required: true
+        - label: The skill focuses on a single technology or pattern
+          required: true
+        - label: No sensitive information (API keys, credentials, etc.) is included
+          required: true
+        - label: I agree to license this skill under the license specified above
+          required: true
+
+  - type: markdown
+    attributes:
+      value: |
+        ---
+        **What happens next?**
+
+        A maintainer will review your submission. If approved, we'll create the skill directory, add it to `registry.json`, and credit you as the author. You can also submit a PR directly — see [CONTRIBUTING.md](../CONTRIBUTING.md).
