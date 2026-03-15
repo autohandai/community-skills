@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-03-09T00:00:00Z",
+  "updatedAt": "2026-03-16T00:00:00Z",
   "skills": [
     {
       "id": "typescript-refactoring-patterns",
@@ -4427,6 +4427,32 @@
       "license": "MIT",
       "author": "supercent-io",
       "source": "supercent-io/skills-template"
+    },
+    {
+      "id": "document-writer",
+      "name": "document-writer",
+      "description": "Remove signs of AI-generated writing from text. Detects and fixes patterns including inflated symbolism, promotional language, superficial analyses, vague attributions, em dash overuse, rule of three, AI vocabulary words, negative parallelisms, and excessive conjunctive phrases. Based on Wikipedia's Signs of AI writing guide.",
+      "category": "documents",
+      "tags": [
+        "writing",
+        "editing",
+        "humanizer",
+        "ai-writing",
+        "content"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "document-writer",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "2.1.0",
+      "license": "MIT",
+      "author": "autohandai"
     }
   ],
   "categories": [
