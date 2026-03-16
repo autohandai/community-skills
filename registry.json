@@ -5257,6 +5257,120 @@
       "license": "MIT",
       "author": "mukul975",
       "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "implementing-devsecops-security-scanning",
+      "name": "implementing-devsecops-security-scanning",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "devsecops",
+        "sast",
+        "sca",
+        "container-security",
+        "ci-cd"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "implementing-devsecops-security-scanning",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "MIT",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "implementing-runtime-application-self-protection",
+      "name": "implementing-runtime-application-self-protection",
+      "description": "Deploy Runtime Application Self-Protection (RASP) agents to detect and block attacks from within application runtime, covering OpenRASP integration, attack pattern detection, and security policy configuration for Java and Python web applications.",
+      "category": "security",
+      "tags": [
+        "rasp",
+        "application-security",
+        "openrasp",
+        "runtime-protection",
+        "sqli",
+        "xss",
+        "rce",
+        "devsecops"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "implementing-runtime-application-self-protection",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "MIT",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "performing-fuzzing-with-aflplusplus",
+      "name": "performing-fuzzing-with-aflplusplus",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "fuzzing",
+        "aflplusplus",
+        "coverage-guided",
+        "crash-triage",
+        "binary-analysis",
+        "security-testing"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "performing-fuzzing-with-aflplusplus",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "MIT",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "performing-supply-chain-attack-simulation",
+      "name": "performing-supply-chain-attack-simulation",
+      "description": "Simulate and detect software supply chain attacks including typosquatting detection via Levenshtein distance, dependency confusion testing against private registries, package hash verification with pip, and known vulnerability scanning with pip-audit.",
+      "category": "security",
+      "tags": [
+        "supply-chain",
+        "typosquatting",
+        "dependency-confusion",
+        "package-verification",
+        "pip-audit",
+        "PyPI",
+        "software-composition-analysis"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "performing-supply-chain-attack-simulation",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "MIT",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
     }
   ],
   "categories": [
