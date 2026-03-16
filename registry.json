@@ -11634,6 +11634,697 @@
       "license": "Apache-2.0",
       "author": "mukul975",
       "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "analyzing-network-traffic-for-incidents",
+      "name": "analyzing-network-traffic-for-incidents",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "network-forensics",
+        "PCAP-analysis",
+        "Wireshark",
+        "Zeek",
+        "traffic-analysis"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "analyzing-network-traffic-for-incidents",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "analyzing-security-logs-with-splunk",
+      "name": "analyzing-security-logs-with-splunk",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "splunk",
+        "SPL",
+        "SIEM",
+        "log-analysis",
+        "security-monitoring"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "analyzing-security-logs-with-splunk",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "building-incident-response-playbook",
+      "name": "building-incident-response-playbook",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "IR-playbook",
+        "runbook",
+        "NIST-800-61",
+        "SOAR-integration",
+        "response-procedures"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "building-incident-response-playbook",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "building-incident-timeline-with-timesketch",
+      "name": "building-incident-timeline-with-timesketch",
+      "description": "Build collaborative forensic incident timelines using Timesketch to ingest, normalize, and analyze multi-source event data for attack chain reconstruction and investigation documentation.",
+      "category": "security",
+      "tags": [
+        "timesketch",
+        "timeline-analysis",
+        "forensic-timeline",
+        "plaso",
+        "dfir",
+        "incident-investigation",
+        "collaborative-forensics"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "building-incident-timeline-with-timesketch",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "building-malware-incident-communication-template",
+      "name": "building-malware-incident-communication-template",
+      "description": "Build structured communication templates for malware incidents including stakeholder notifications, executive briefings, technical advisories, and regulatory disclosures with severity-based escalation procedures.",
+      "category": "security",
+      "tags": [
+        "incident-communication",
+        "malware-response",
+        "stakeholder-notification",
+        "crisis-communication",
+        "executive-briefing",
+        "regulatory-disclosure"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "building-malware-incident-communication-template",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "collecting-indicators-of-compromise",
+      "name": "collecting-indicators-of-compromise",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "IOC-collection",
+        "threat-indicators",
+        "STIX-TAXII",
+        "MISP",
+        "threat-intelligence-sharing"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "collecting-indicators-of-compromise",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "collecting-volatile-evidence-from-compromised-host",
+      "name": "collecting-volatile-evidence-from-compromised-host",
+      "description": "Collect volatile forensic evidence from a compromised system following order of volatility, preserving memory, network connections, processes, and system state before they are lost.",
+      "category": "security",
+      "tags": [
+        "incident-response",
+        "dfir",
+        "forensics",
+        "volatile-evidence",
+        "memory-forensics",
+        "chain-of-custody"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "collecting-volatile-evidence-from-compromised-host",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "conducting-cloud-incident-response",
+      "name": "conducting-cloud-incident-response",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "cloud-IR",
+        "AWS-forensics",
+        "Azure-incident-response",
+        "GCP-security",
+        "identity-containment"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "conducting-cloud-incident-response",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "conducting-malware-incident-response",
+      "name": "conducting-malware-incident-response",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "malware-response",
+        "malware-analysis",
+        "eradication",
+        "endpoint-remediation",
+        "MITRE-ATT&CK"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "conducting-malware-incident-response",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "conducting-memory-forensics-with-volatility",
+      "name": "conducting-memory-forensics-with-volatility",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "memory-forensics",
+        "volatility",
+        "RAM-analysis",
+        "process-injection",
+        "DFIR"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "conducting-memory-forensics-with-volatility",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "conducting-phishing-incident-response",
+      "name": "conducting-phishing-incident-response",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "phishing-response",
+        "email-security",
+        "credential-compromise",
+        "email-header-analysis",
+        "mailbox-remediation"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "conducting-phishing-incident-response",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "conducting-post-incident-lessons-learned",
+      "name": "conducting-post-incident-lessons-learned",
+      "description": "Facilitate structured post-incident reviews to identify root causes, document what worked and failed, and produce actionable recommendations to improve future incident response.",
+      "category": "security",
+      "tags": [
+        "incident-response",
+        "lessons-learned",
+        "post-incident",
+        "after-action-review",
+        "process-improvement"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "conducting-post-incident-lessons-learned",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "containing-active-breach",
+      "name": "containing-active-breach",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "breach-containment",
+        "lateral-movement",
+        "network-isolation",
+        "credential-revocation",
+        "live-response"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "containing-active-breach",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "containing-active-security-breach",
+      "name": "containing-active-security-breach",
+      "description": "Rapidly contain an active security breach by isolating compromised systems, blocking attacker communications, and preserving evidence while minimizing business disruption.",
+      "category": "security",
+      "tags": [
+        "incident-response",
+        "containment",
+        "breach-response",
+        "network-isolation",
+        "dfir"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "containing-active-security-breach",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "detecting-email-account-compromise",
+      "name": "detecting-email-account-compromise",
+      "description": "Detect compromised O365 and Google Workspace email accounts by analyzing inbox rule creation, suspicious sign-in locations, mail forwarding rules, and unusual API access patterns via Microsoft Graph and audit logs.",
+      "category": "security",
+      "tags": [
+        "email-compromise",
+        "office365",
+        "microsoft-graph",
+        "bec",
+        "inbox-rules",
+        "sign-in-analysis",
+        "account-takeover"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "detecting-email-account-compromise",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "eradicating-malware-from-infected-systems",
+      "name": "eradicating-malware-from-infected-systems",
+      "description": "Systematically remove malware, backdoors, and attacker persistence mechanisms from infected systems while ensuring complete eradication and preventing re-infection.",
+      "category": "security",
+      "tags": [
+        "incident-response",
+        "eradication",
+        "malware-removal",
+        "persistence",
+        "dfir"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "eradicating-malware-from-infected-systems",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "implementing-velociraptor-for-ir-collection",
+      "name": "implementing-velociraptor-for-ir-collection",
+      "description": "Deploy and configure Velociraptor for scalable endpoint forensic artifact collection during incident response using VQL queries, hunts, and pre-built artifact packs across Windows, Linux, and macOS environments.",
+      "category": "security",
+      "tags": [
+        "velociraptor",
+        "dfir",
+        "endpoint-collection",
+        "vql",
+        "forensic-artifacts",
+        "rapid7",
+        "threat-hunting",
+        "incident-response"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "implementing-velociraptor-for-ir-collection",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "performing-active-directory-compromise-investigation",
+      "name": "performing-active-directory-compromise-investigation",
+      "description": "Investigate Active Directory compromise by analyzing authentication logs, replication metadata, Group Policy changes, and Kerberos ticket anomalies to identify attacker persistence and lateral movement paths.",
+      "category": "security",
+      "tags": [
+        "active-directory",
+        "compromise-investigation",
+        "identity-forensics",
+        "kerberos",
+        "lateral-movement",
+        "dfir",
+        "ntds-dit",
+        "golden-ticket"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "performing-active-directory-compromise-investigation",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "performing-cloud-incident-containment-procedures",
+      "name": "performing-cloud-incident-containment-procedures",
+      "description": "Execute cloud-native incident containment across AWS, Azure, and GCP by isolating compromised resources, revoking credentials, preserving forensic evidence, and applying security group restrictions to prevent lateral movement.",
+      "category": "security",
+      "tags": [
+        "cloud-security",
+        "incident-containment",
+        "aws",
+        "azure",
+        "gcp",
+        "cloud-forensics",
+        "credential-revocation",
+        "network-isolation"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "performing-cloud-incident-containment-procedures",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "performing-disk-forensics-investigation",
+      "name": "performing-disk-forensics-investigation",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "disk-forensics",
+        "forensic-imaging",
+        "evidence-acquisition",
+        "file-recovery",
+        "chain-of-custody"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "performing-disk-forensics-investigation",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "performing-insider-threat-investigation",
+      "name": "performing-insider-threat-investigation",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "insider-threat",
+        "user-behavior-analytics",
+        "data-exfiltration",
+        "privilege-misuse",
+        "DFIR"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "performing-insider-threat-investigation",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "performing-ransomware-incident-response",
+      "name": "performing-ransomware-incident-response",
+      "description": "Execute a structured ransomware incident response including containment, decryption assessment, recovery from backups, and eradication of ransomware persistence mechanisms.",
+      "category": "security",
+      "tags": [
+        "incident-response",
+        "ransomware",
+        "dfir",
+        "recovery",
+        "eradication",
+        "encryption"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "performing-ransomware-incident-response",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "performing-ransomware-response",
+      "name": "performing-ransomware-response",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "ransomware",
+        "encryption-recovery",
+        "backup-restoration",
+        "ransom-negotiation",
+        "CISA-guidance"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "performing-ransomware-response",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "triaging-security-incident",
+      "name": "triaging-security-incident",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "incident-triage",
+        "NIST-800-61",
+        "SANS-PICERL",
+        "severity-classification",
+        "SOC-operations"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "triaging-security-incident",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "triaging-security-incident-with-ir-playbook",
+      "name": "triaging-security-incident-with-ir-playbook",
+      "description": "Classify and prioritize security incidents using structured IR playbooks to determine severity, assign response teams, and initiate appropriate response procedures.",
+      "category": "security",
+      "tags": [
+        "incident-response",
+        "triage",
+        "playbook",
+        "severity-classification",
+        "soc"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "triaging-security-incident-with-ir-playbook",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
     }
   ],
   "categories": [
