@@ -22917,6 +22917,731 @@
       "license": "Apache-2.0",
       "author": "mukul975",
       "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "building-patch-tuesday-response-process",
+      "name": "building-patch-tuesday-response-process",
+      "description": "Establish a structured operational process to triage, test, and deploy Microsoft Patch Tuesday security updates within risk-based remediation SLAs.",
+      "category": "security",
+      "tags": [
+        "patch-management",
+        "patch-tuesday",
+        "microsoft",
+        "wsus",
+        "sccm",
+        "vulnerability-remediation",
+        "windows-update"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "building-patch-tuesday-response-process",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "building-vulnerability-aging-and-sla-tracking",
+      "name": "building-vulnerability-aging-and-sla-tracking",
+      "description": "Implement a vulnerability aging dashboard and SLA tracking system to measure remediation performance against severity-based timelines and drive accountability.",
+      "category": "security",
+      "tags": [
+        "vulnerability-management",
+        "sla-tracking",
+        "remediation-metrics",
+        "aging-report",
+        "kpi",
+        "compliance",
+        "risk-management"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "building-vulnerability-aging-and-sla-tracking",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "building-vulnerability-dashboard-with-defectdojo",
+      "name": "building-vulnerability-dashboard-with-defectdojo",
+      "description": "Deploy DefectDojo as a centralized vulnerability management dashboard with scanner integrations, deduplication, metrics tracking, and Jira ticketing workflows.",
+      "category": "security",
+      "tags": [
+        "defectdojo",
+        "vulnerability-management",
+        "dashboard",
+        "deduplication",
+        "scanner-integration",
+        "devsecops",
+        "jira"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "building-vulnerability-dashboard-with-defectdojo",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "building-vulnerability-exception-tracking-system",
+      "name": "building-vulnerability-exception-tracking-system",
+      "description": "Build a vulnerability exception and risk acceptance tracking system with approval workflows, compensating controls documentation, and expiration management.",
+      "category": "security",
+      "tags": [
+        "vulnerability-exception",
+        "risk-acceptance",
+        "compensating-controls",
+        "exception-tracking",
+        "vulnerability-management",
+        "governance"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "building-vulnerability-exception-tracking-system",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "exploiting-vulnerabilities-with-metasploit-framework",
+      "name": "exploiting-vulnerabilities-with-metasploit-framework",
+      "description": "The Metasploit Framework is the world's most widely used penetration testing platform, maintained by Rapid7. It contains over 2,300 exploits, 1,200 auxiliary modules, and 400 post-exploitation modules",
+      "category": "security",
+      "tags": [
+        "vulnerability-management",
+        "cve",
+        "metasploit",
+        "exploitation",
+        "penetration-testing",
+        "risk"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "exploiting-vulnerabilities-with-metasploit-framework",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "implementing-attack-path-analysis-with-xm-cyber",
+      "name": "implementing-attack-path-analysis-with-xm-cyber",
+      "description": "Deploy XM Cyber's continuous exposure management platform to map attack paths, identify choke points, and prioritize the 2% of exposures that threaten critical assets.",
+      "category": "security",
+      "tags": [
+        "xm-cyber",
+        "attack-path-analysis",
+        "exposure-management",
+        "ctem",
+        "choke-points",
+        "breach-simulation",
+        "attack-surface"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "implementing-attack-path-analysis-with-xm-cyber",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "implementing-cloud-vulnerability-posture-management",
+      "name": "implementing-cloud-vulnerability-posture-management",
+      "description": "Implement Cloud Security Posture Management using AWS Security Hub, Azure Defender for Cloud, and open-source tools like Prowler and ScoutSuite for multi-cloud vulnerability detection.",
+      "category": "security",
+      "tags": [
+        "cspm",
+        "cloud-security",
+        "aws-security-hub",
+        "azure-defender",
+        "prowler",
+        "scoutsuite",
+        "misconfiguration",
+        "cnapp"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "implementing-cloud-vulnerability-posture-management",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "implementing-continuous-security-validation-with-bas",
+      "name": "implementing-continuous-security-validation-with-bas",
+      "description": "Deploy Breach and Attack Simulation tools to continuously validate security control effectiveness by safely emulating real-world attack techniques across the kill chain.",
+      "category": "security",
+      "tags": [
+        "breach-attack-simulation",
+        "bas",
+        "security-validation",
+        "safebreach",
+        "attackiq",
+        "picus",
+        "cymulate",
+        "mitre-attack"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "implementing-continuous-security-validation-with-bas",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "implementing-epss-score-for-vulnerability-prioritization",
+      "name": "implementing-epss-score-for-vulnerability-prioritization",
+      "description": "Integrate FIRST's Exploit Prediction Scoring System (EPSS) API to prioritize vulnerability remediation based on real-world exploitation probability within 30 days.",
+      "category": "security",
+      "tags": [
+        "epss",
+        "vulnerability-prioritization",
+        "first",
+        "exploit-prediction",
+        "cvss",
+        "risk-based",
+        "machine-learning"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "implementing-epss-score-for-vulnerability-prioritization",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "implementing-patch-management-workflow",
+      "name": "implementing-patch-management-workflow",
+      "description": "Patch management is the systematic process of identifying, testing, deploying, and verifying software updates to remediate vulnerabilities across an organization's IT infrastructure. An effective patc",
+      "category": "security",
+      "tags": [
+        "vulnerability-management",
+        "patch-management",
+        "wsus",
+        "sccm",
+        "ansible",
+        "risk"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "implementing-patch-management-workflow",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "implementing-rapid7-insightvm-for-scanning",
+      "name": "implementing-rapid7-insightvm-for-scanning",
+      "description": "Deploy and configure Rapid7 InsightVM Security Console and Scan Engines for authenticated and unauthenticated vulnerability scanning across enterprise environments.",
+      "category": "security",
+      "tags": [
+        "rapid7",
+        "insightvm",
+        "vulnerability-scanning",
+        "nexpose",
+        "scan-engine",
+        "asset-discovery",
+        "authenticated-scanning"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "implementing-rapid7-insightvm-for-scanning",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "implementing-vulnerability-management-with-greenbone",
+      "name": "implementing-vulnerability-management-with-greenbone",
+      "description": "Deploy and operate Greenbone/OpenVAS vulnerability management using the python-gvm library to create scan targets, execute vulnerability scans, and parse scan reports via GMP protocol.",
+      "category": "security",
+      "tags": [
+        "openvas",
+        "greenbone",
+        "vulnerability-scanning",
+        "gmp",
+        "python-gvm",
+        "vulnerability-management",
+        "compliance"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "implementing-vulnerability-management-with-greenbone",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "implementing-vulnerability-remediation-sla",
+      "name": "implementing-vulnerability-remediation-sla",
+      "description": "Vulnerability remediation SLAs define mandatory timeframes for patching or mitigating identified vulnerabilities based on severity, asset criticality, and exploit availability. Effective SLA programs",
+      "category": "security",
+      "tags": [
+        "vulnerability-management",
+        "cve",
+        "sla",
+        "remediation",
+        "patch-management",
+        "risk"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "implementing-vulnerability-remediation-sla",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "implementing-vulnerability-sla-breach-alerting",
+      "name": "implementing-vulnerability-sla-breach-alerting",
+      "description": "Build automated alerting for vulnerability remediation SLA breaches with severity-based timelines, escalation workflows, and compliance reporting dashboards.",
+      "category": "security",
+      "tags": [
+        "vulnerability-sla",
+        "remediation-tracking",
+        "alerting",
+        "compliance",
+        "sla-breach",
+        "vulnerability-management",
+        "escalation"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "implementing-vulnerability-sla-breach-alerting",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "performing-active-directory-vulnerability-assessment",
+      "name": "performing-active-directory-vulnerability-assessment",
+      "description": "Assess Active Directory security posture using PingCastle, BloodHound, and Purple Knight to identify misconfigurations, privilege escalation paths, and attack vectors.",
+      "category": "security",
+      "tags": [
+        "active-directory",
+        "pingcastle",
+        "bloodhound",
+        "purple-knight",
+        "ad-security",
+        "privilege-escalation",
+        "ldap",
+        "kerberos"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "performing-active-directory-vulnerability-assessment",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "performing-agentless-vulnerability-scanning",
+      "name": "performing-agentless-vulnerability-scanning",
+      "description": "Configure and execute agentless vulnerability scanning using network protocols, cloud snapshot analysis, and API-based discovery to assess systems without installing endpoint agents.",
+      "category": "security",
+      "tags": [
+        "agentless-scanning",
+        "vulnerability-assessment",
+        "cloud-security",
+        "ssh",
+        "wmi",
+        "snapshot-analysis",
+        "vuls",
+        "tenable"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "performing-agentless-vulnerability-scanning",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "performing-asset-criticality-scoring-for-vulns",
+      "name": "performing-asset-criticality-scoring-for-vulns",
+      "description": "Develop and apply a multi-factor asset criticality scoring model to weight vulnerability prioritization based on business impact, data sensitivity, and operational importance.",
+      "category": "security",
+      "tags": [
+        "asset-criticality",
+        "vulnerability-prioritization",
+        "risk-management",
+        "cmdb",
+        "business-impact",
+        "crown-jewels",
+        "asset-classification"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "performing-asset-criticality-scoring-for-vulns",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "performing-authenticated-scan-with-openvas",
+      "name": "performing-authenticated-scan-with-openvas",
+      "description": "Configure and execute authenticated vulnerability scans using OpenVAS/Greenbone Vulnerability Management with SSH and SMB credentials for comprehensive host-level assessment.",
+      "category": "security",
+      "tags": [
+        "openvas",
+        "gvm",
+        "authenticated-scan",
+        "vulnerability-scanning",
+        "greenbone",
+        "network-security",
+        "credentialed-scan"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "performing-authenticated-scan-with-openvas",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "performing-authenticated-vulnerability-scan",
+      "name": "performing-authenticated-vulnerability-scan",
+      "description": "Authenticated (credentialed) vulnerability scanning uses valid system credentials to log into target hosts and perform deep inspection of installed software, patches, configurations, and security sett",
+      "category": "security",
+      "tags": [
+        "vulnerability-management",
+        "cve",
+        "authenticated-scanning",
+        "credentials",
+        "nessus",
+        "qualys",
+        "risk"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "performing-authenticated-vulnerability-scan",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "performing-cve-prioritization-with-kev-catalog",
+      "name": "performing-cve-prioritization-with-kev-catalog",
+      "description": "Leverage the CISA Known Exploited Vulnerabilities catalog alongside EPSS and CVSS to prioritize CVE remediation based on real-world exploitation evidence.",
+      "category": "security",
+      "tags": [
+        "cisa-kev",
+        "cve",
+        "vulnerability-prioritization",
+        "epss",
+        "bod-22-01",
+        "threat-intelligence",
+        "remediation"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "performing-cve-prioritization-with-kev-catalog",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "performing-web-application-scanning-with-nikto",
+      "name": "performing-web-application-scanning-with-nikto",
+      "description": "Nikto is an open-source web server and web application scanner that tests against over 7,000 potentially dangerous files/programs, checks for outdated versions of over 1,250 servers, and identifies ve",
+      "category": "security",
+      "tags": [
+        "vulnerability-management",
+        "cve",
+        "nikto",
+        "web-scanning",
+        "owasp",
+        "risk"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "performing-web-application-scanning-with-nikto",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "performing-web-application-vulnerability-triage",
+      "name": "performing-web-application-vulnerability-triage",
+      "description": "Triage web application vulnerability findings from DAST/SAST scanners using OWASP risk rating methodology to separate true positives from false positives and prioritize remediation.",
+      "category": "security",
+      "tags": [
+        "web-application",
+        "vulnerability-triage",
+        "owasp",
+        "dast",
+        "sast",
+        "burp-suite",
+        "zap",
+        "false-positive",
+        "risk-rating"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "performing-web-application-vulnerability-triage",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "prioritizing-vulnerabilities-with-cvss-scoring",
+      "name": "prioritizing-vulnerabilities-with-cvss-scoring",
+      "description": "The Common Vulnerability Scoring System (CVSS) is the industry standard framework maintained by FIRST (Forum of Incident Response and Security Teams) for assessing vulnerability severity. CVSS v4.0 (r",
+      "category": "security",
+      "tags": [
+        "vulnerability-management",
+        "cve",
+        "cvss",
+        "risk",
+        "prioritization",
+        "nist"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "prioritizing-vulnerabilities-with-cvss-scoring",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "scanning-infrastructure-with-nessus",
+      "name": "scanning-infrastructure-with-nessus",
+      "description": "Tenable Nessus is the industry-leading vulnerability scanner used to identify security weaknesses across network infrastructure including servers, workstations, network devices, and operating systems.",
+      "category": "security",
+      "tags": [
+        "vulnerability-management",
+        "cve",
+        "nessus",
+        "tenable",
+        "infrastructure-scanning",
+        "risk"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "scanning-infrastructure-with-nessus",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "triaging-vulnerabilities-with-ssvc-framework",
+      "name": "triaging-vulnerabilities-with-ssvc-framework",
+      "description": "Triage and prioritize vulnerabilities using CISA's Stakeholder-Specific Vulnerability Categorization (SSVC) decision tree framework to produce actionable remediation priorities.",
+      "category": "security",
+      "tags": [
+        "ssvc",
+        "vulnerability-triage",
+        "cisa",
+        "vulnerability-prioritization",
+        "decision-tree",
+        "cvss",
+        "remediation",
+        "risk-management"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "triaging-vulnerabilities-with-ssvc-framework",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
     }
   ],
   "categories": [
