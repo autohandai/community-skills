@@ -14857,6 +14857,836 @@
       "license": "Apache-2.0",
       "author": "mukul975",
       "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "detecting-anomalies-in-industrial-control-systems",
+      "name": "detecting-anomalies-in-industrial-control-systems",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "ot-security",
+        "ics",
+        "scada",
+        "industrial-control",
+        "iec62443",
+        "anomaly-detection",
+        "machine-learning"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "detecting-anomalies-in-industrial-control-systems",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "detecting-attacks-on-historian-servers",
+      "name": "detecting-attacks-on-historian-servers",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "ot-security",
+        "ics",
+        "historian",
+        "osisoft-pi",
+        "ignition",
+        "pivot-point",
+        "data-integrity",
+        "lateral-movement"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "detecting-attacks-on-historian-servers",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "detecting-attacks-on-scada-systems",
+      "name": "detecting-attacks-on-scada-systems",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "ot-security",
+        "ics",
+        "scada",
+        "industrial-control",
+        "iec62443",
+        "intrusion-detection",
+        "threat-detection"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "detecting-attacks-on-scada-systems",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "detecting-dnp3-protocol-anomalies",
+      "name": "detecting-dnp3-protocol-anomalies",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "ot-security",
+        "ics",
+        "dnp3",
+        "scada",
+        "anomaly-detection",
+        "protocol-analysis",
+        "energy-sector",
+        "ids"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "detecting-dnp3-protocol-anomalies",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "detecting-modbus-command-injection-attacks",
+      "name": "detecting-modbus-command-injection-attacks",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "ot-security",
+        "ics",
+        "modbus",
+        "command-injection",
+        "protocol-analysis",
+        "ids",
+        "scada",
+        "threat-detection"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "detecting-modbus-command-injection-attacks",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "detecting-modbus-protocol-anomalies",
+      "name": "detecting-modbus-protocol-anomalies",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "ot-security",
+        "ics",
+        "scada",
+        "industrial-control",
+        "iec62443",
+        "modbus",
+        "protocol-anomaly"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "detecting-modbus-protocol-anomalies",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "detecting-stuxnet-style-attacks",
+      "name": "detecting-stuxnet-style-attacks",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "ot-security",
+        "ics",
+        "scada",
+        "industrial-control",
+        "iec62443",
+        "stuxnet",
+        "plc-integrity",
+        "apt"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "detecting-stuxnet-style-attacks",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "implementing-conduit-security-for-ot-remote-access",
+      "name": "implementing-conduit-security-for-ot-remote-access",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "ot-security",
+        "ics",
+        "remote-access",
+        "iec62443",
+        "jump-server",
+        "zero-trust",
+        "conduit",
+        "mfa"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "implementing-conduit-security-for-ot-remote-access",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "implementing-dragos-platform-for-ot-monitoring",
+      "name": "implementing-dragos-platform-for-ot-monitoring",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "ot-security",
+        "ics",
+        "dragos",
+        "threat-detection",
+        "ot-monitoring",
+        "scada",
+        "threat-intelligence",
+        "ndr"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "implementing-dragos-platform-for-ot-monitoring",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "implementing-ics-firewall-with-tofino",
+      "name": "implementing-ics-firewall-with-tofino",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "ot-security",
+        "ics",
+        "firewall",
+        "tofino",
+        "belden",
+        "deep-packet-inspection",
+        "network-security",
+        "scada"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "implementing-ics-firewall-with-tofino",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "implementing-iec-62443-security-zones",
+      "name": "implementing-iec-62443-security-zones",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "ot-security",
+        "ics",
+        "scada",
+        "industrial-control",
+        "iec62443",
+        "network-segmentation",
+        "zones-conduits"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "implementing-iec-62443-security-zones",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "implementing-nerc-cip-compliance-controls",
+      "name": "implementing-nerc-cip-compliance-controls",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "ot-security",
+        "ics",
+        "scada",
+        "industrial-control",
+        "iec62443",
+        "nerc-cip",
+        "power-grid",
+        "compliance"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "implementing-nerc-cip-compliance-controls",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "implementing-network-segmentation-for-ot",
+      "name": "implementing-network-segmentation-for-ot",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "ot-security",
+        "ics",
+        "scada",
+        "industrial-control",
+        "iec62443",
+        "network-segmentation",
+        "vlan"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "implementing-network-segmentation-for-ot",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "implementing-ot-incident-response-playbook",
+      "name": "implementing-ot-incident-response-playbook",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "ot-security",
+        "ics",
+        "incident-response",
+        "playbook",
+        "sans",
+        "iec62443",
+        "nist",
+        "safety-critical"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "implementing-ot-incident-response-playbook",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "implementing-ot-network-traffic-analysis-with-nozomi",
+      "name": "implementing-ot-network-traffic-analysis-with-nozomi",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "ot-security",
+        "ics",
+        "nozomi",
+        "guardian",
+        "network-monitoring",
+        "asset-visibility",
+        "anomaly-detection",
+        "ndr"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "implementing-ot-network-traffic-analysis-with-nozomi",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "implementing-patch-management-for-ot-systems",
+      "name": "implementing-patch-management-for-ot-systems",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "ot-security",
+        "ics",
+        "scada",
+        "industrial-control",
+        "iec62443",
+        "patch-management",
+        "vulnerability-management"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "implementing-patch-management-for-ot-systems",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "implementing-purdue-model-network-segmentation",
+      "name": "implementing-purdue-model-network-segmentation",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "ot-security",
+        "ics",
+        "purdue-model",
+        "network-segmentation",
+        "iec62443",
+        "defense-in-depth",
+        "dmz",
+        "scada"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "implementing-purdue-model-network-segmentation",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "performing-ics-asset-discovery-with-claroty",
+      "name": "performing-ics-asset-discovery-with-claroty",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "ot-security",
+        "ics",
+        "asset-discovery",
+        "claroty",
+        "xdome",
+        "scada",
+        "network-visibility",
+        "iec62443"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "performing-ics-asset-discovery-with-claroty",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "performing-oil-gas-cybersecurity-assessment",
+      "name": "performing-oil-gas-cybersecurity-assessment",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "ot-security",
+        "ics",
+        "scada",
+        "industrial-control",
+        "iec62443",
+        "oil-gas",
+        "pipeline-security",
+        "api1164"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "performing-oil-gas-cybersecurity-assessment",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "performing-ot-network-security-assessment",
+      "name": "performing-ot-network-security-assessment",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "ot-security",
+        "ics",
+        "scada",
+        "industrial-control",
+        "iec62443",
+        "network-assessment"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "performing-ot-network-security-assessment",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "performing-ot-vulnerability-assessment-with-claroty",
+      "name": "performing-ot-vulnerability-assessment-with-claroty",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "ot-security",
+        "ics",
+        "scada",
+        "industrial-control",
+        "iec62443",
+        "vulnerability-assessment",
+        "claroty"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "performing-ot-vulnerability-assessment-with-claroty",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "performing-ot-vulnerability-scanning-safely",
+      "name": "performing-ot-vulnerability-scanning-safely",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "ot-security",
+        "ics",
+        "vulnerability-scanning",
+        "tenable",
+        "nessus",
+        "passive-scanning",
+        "risk-management",
+        "nist"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "performing-ot-vulnerability-scanning-safely",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "performing-plc-firmware-security-analysis",
+      "name": "performing-plc-firmware-security-analysis",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "ot-security",
+        "ics",
+        "scada",
+        "industrial-control",
+        "iec62443",
+        "firmware-analysis",
+        "plc-security"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "performing-plc-firmware-security-analysis",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "performing-power-grid-cybersecurity-assessment",
+      "name": "performing-power-grid-cybersecurity-assessment",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "ot-security",
+        "ics",
+        "scada",
+        "industrial-control",
+        "iec62443",
+        "nerc-cip",
+        "power-grid",
+        "substation"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "performing-power-grid-cybersecurity-assessment",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "performing-s7comm-protocol-security-analysis",
+      "name": "performing-s7comm-protocol-security-analysis",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "ot-security",
+        "ics",
+        "s7comm",
+        "siemens",
+        "plc-security",
+        "protocol-analysis",
+        "scada",
+        "vulnerability-assessment"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "performing-s7comm-protocol-security-analysis",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "performing-scada-hmi-security-assessment",
+      "name": "performing-scada-hmi-security-assessment",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "ot-security",
+        "ics",
+        "scada",
+        "hmi",
+        "security-assessment",
+        "vulnerability",
+        "iec62443",
+        "nist-800-82"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "performing-scada-hmi-security-assessment",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "securing-historian-server-in-ot-environment",
+      "name": "securing-historian-server-in-ot-environment",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "ot-security",
+        "ics",
+        "scada",
+        "industrial-control",
+        "iec62443",
+        "historian",
+        "osisoft-pi",
+        "data-integrity"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "securing-historian-server-in-ot-environment",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "securing-remote-access-to-ot-environment",
+      "name": "securing-remote-access-to-ot-environment",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "ot-security",
+        "ics",
+        "scada",
+        "industrial-control",
+        "iec62443",
+        "remote-access",
+        "jump-server",
+        "mfa"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "securing-remote-access-to-ot-environment",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
     }
   ],
   "categories": [
