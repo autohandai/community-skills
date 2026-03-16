@@ -18732,6 +18732,979 @@
       "license": "Apache-2.0",
       "author": "mukul975",
       "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "analyzing-dns-logs-for-exfiltration",
+      "name": "analyzing-dns-logs-for-exfiltration",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "soc",
+        "dns",
+        "exfiltration",
+        "dns-tunneling",
+        "dga",
+        "c2-detection",
+        "splunk",
+        "threat-detection"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "analyzing-dns-logs-for-exfiltration",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "analyzing-windows-event-logs-in-splunk",
+      "name": "analyzing-windows-event-logs-in-splunk",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "soc",
+        "splunk",
+        "windows-events",
+        "sysmon",
+        "event-logs",
+        "mitre-attack",
+        "active-directory"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "analyzing-windows-event-logs-in-splunk",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "building-automated-malware-submission-pipeline",
+      "name": "building-automated-malware-submission-pipeline",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "soc",
+        "malware-analysis",
+        "sandbox",
+        "automation",
+        "virustotal",
+        "cuckoo",
+        "any-run",
+        "pipeline"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "building-automated-malware-submission-pipeline",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "building-detection-rule-with-splunk-spl",
+      "name": "building-detection-rule-with-splunk-spl",
+      "description": "Build effective detection rules using Splunk Search Processing Language (SPL) correlation searches to identify security threats in SOC environments.",
+      "category": "security",
+      "tags": [
+        "splunk",
+        "spl",
+        "detection-engineering",
+        "correlation-search",
+        "siem",
+        "soc",
+        "threat-detection",
+        "enterprise-security"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "building-detection-rule-with-splunk-spl",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "building-detection-rules-with-sigma",
+      "name": "building-detection-rules-with-sigma",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "soc",
+        "sigma",
+        "detection-rules",
+        "siem",
+        "mitre-attack",
+        "splunk",
+        "elastic",
+        "sentinel"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "building-detection-rules-with-sigma",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "building-incident-response-dashboard",
+      "name": "building-incident-response-dashboard",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "soc",
+        "dashboard",
+        "incident-response",
+        "splunk",
+        "visualization",
+        "situational-awareness",
+        "metrics"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "building-incident-response-dashboard",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "building-soc-escalation-matrix",
+      "name": "building-soc-escalation-matrix",
+      "description": "Build a structured SOC escalation matrix defining severity tiers, response SLAs, escalation paths, and notification procedures for security incidents.",
+      "category": "security",
+      "tags": [
+        "soc",
+        "escalation",
+        "incident-management",
+        "severity",
+        "sla",
+        "triage",
+        "tiered-soc"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "building-soc-escalation-matrix",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "building-soc-metrics-and-kpi-tracking",
+      "name": "building-soc-metrics-and-kpi-tracking",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "soc",
+        "metrics",
+        "kpi",
+        "mttd",
+        "mttr",
+        "dashboard",
+        "reporting",
+        "continuous-improvement"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "building-soc-metrics-and-kpi-tracking",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "building-soc-playbook-for-ransomware",
+      "name": "building-soc-playbook-for-ransomware",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "soc",
+        "ransomware",
+        "incident-response",
+        "playbook",
+        "nist",
+        "mitre-attack",
+        "containment"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "building-soc-playbook-for-ransomware",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "building-threat-intelligence-enrichment-in-splunk",
+      "name": "building-threat-intelligence-enrichment-in-splunk",
+      "description": "Build automated threat intelligence enrichment pipelines in Splunk Enterprise Security using lookup tables, modular inputs, and the Threat Intelligence Framework.",
+      "category": "security",
+      "tags": [
+        "splunk",
+        "threat-intelligence",
+        "enrichment",
+        "ioc",
+        "lookup",
+        "siem",
+        "soc",
+        "enterprise-security"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "building-threat-intelligence-enrichment-in-splunk",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "building-threat-intelligence-feed-integration",
+      "name": "building-threat-intelligence-feed-integration",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "soc",
+        "threat-intelligence",
+        "stix",
+        "taxii",
+        "misp",
+        "feeds",
+        "ioc",
+        "siem-integration"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "building-threat-intelligence-feed-integration",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "building-vulnerability-scanning-workflow",
+      "name": "building-vulnerability-scanning-workflow",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "soc",
+        "vulnerability-scanning",
+        "nessus",
+        "qualys",
+        "openvas",
+        "cvss",
+        "remediation",
+        "patch-management"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "building-vulnerability-scanning-workflow",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "correlating-security-events-in-qradar",
+      "name": "correlating-security-events-in-qradar",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "soc",
+        "qradar",
+        "siem",
+        "aql",
+        "correlation",
+        "offense-management",
+        "ibm"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "correlating-security-events-in-qradar",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "implementing-alert-fatigue-reduction",
+      "name": "implementing-alert-fatigue-reduction",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "soc",
+        "alert-fatigue",
+        "tuning",
+        "risk-based-alerting",
+        "false-positive",
+        "siem",
+        "detection-engineering"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "implementing-alert-fatigue-reduction",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "implementing-mitre-attack-coverage-mapping",
+      "name": "implementing-mitre-attack-coverage-mapping",
+      "description": "Implement MITRE ATT&CK coverage mapping to identify detection gaps, prioritize rule development, and measure SOC detection maturity against adversary techniques.",
+      "category": "security",
+      "tags": [
+        "mitre-attack",
+        "detection-coverage",
+        "gap-analysis",
+        "attack-navigator",
+        "soc",
+        "detection-engineering"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "implementing-mitre-attack-coverage-mapping",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "implementing-siem-use-cases-for-detection",
+      "name": "implementing-siem-use-cases-for-detection",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "soc",
+        "siem",
+        "use-cases",
+        "detection-engineering",
+        "mitre-attack",
+        "splunk",
+        "elastic",
+        "sentinel"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "implementing-siem-use-cases-for-detection",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "implementing-soar-automation-with-phantom",
+      "name": "implementing-soar-automation-with-phantom",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "soc",
+        "soar",
+        "phantom",
+        "splunk-soar",
+        "automation",
+        "playbook",
+        "orchestration",
+        "incident-response"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "implementing-soar-automation-with-phantom",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "implementing-soar-playbook-with-palo-alto-xsoar",
+      "name": "implementing-soar-playbook-with-palo-alto-xsoar",
+      "description": "Implement automated incident response playbooks in Cortex XSOAR to orchestrate security workflows across SOC tools and reduce manual response time.",
+      "category": "security",
+      "tags": [
+        "xsoar",
+        "soar",
+        "palo-alto",
+        "playbook",
+        "automation",
+        "incident-response",
+        "orchestration",
+        "cortex"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "implementing-soar-playbook-with-palo-alto-xsoar",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "implementing-threat-modeling-with-mitre-attack",
+      "name": "implementing-threat-modeling-with-mitre-attack",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "soc",
+        "mitre-attack",
+        "threat-modeling",
+        "ttp",
+        "detection-coverage",
+        "attack-navigator",
+        "risk-assessment"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "implementing-threat-modeling-with-mitre-attack",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "implementing-ticketing-system-for-incidents",
+      "name": "implementing-ticketing-system-for-incidents",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "soc",
+        "ticketing",
+        "servicenow",
+        "jira",
+        "thehive",
+        "incident-management",
+        "sla",
+        "workflow"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "implementing-ticketing-system-for-incidents",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "investigating-insider-threat-indicators",
+      "name": "investigating-insider-threat-indicators",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "soc",
+        "insider-threat",
+        "data-exfiltration",
+        "dlp",
+        "ueba",
+        "investigation",
+        "hr-correlation"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "investigating-insider-threat-indicators",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "investigating-phishing-email-incident",
+      "name": "investigating-phishing-email-incident",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "soc",
+        "phishing",
+        "incident-response",
+        "email-security",
+        "splunk",
+        "defender",
+        "sandbox"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "investigating-phishing-email-incident",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "performing-alert-triage-with-elastic-siem",
+      "name": "performing-alert-triage-with-elastic-siem",
+      "description": "Perform systematic alert triage in Elastic Security SIEM to rapidly classify, prioritize, and investigate security alerts for SOC operations.",
+      "category": "security",
+      "tags": [
+        "elastic",
+        "siem",
+        "alert-triage",
+        "soc",
+        "elastic-security",
+        "detection",
+        "esql",
+        "kibana"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "performing-alert-triage-with-elastic-siem",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "performing-deception-technology-deployment",
+      "name": "performing-deception-technology-deployment",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "soc",
+        "deception",
+        "honeypot",
+        "honeytoken",
+        "canary",
+        "lateral-movement",
+        "detection"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "performing-deception-technology-deployment",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "performing-false-positive-reduction-in-siem",
+      "name": "performing-false-positive-reduction-in-siem",
+      "description": "Perform systematic SIEM false positive reduction through rule tuning, threshold adjustment, correlation refinement, and threat intelligence enrichment to combat alert fatigue.",
+      "category": "security",
+      "tags": [
+        "siem",
+        "false-positive",
+        "alert-tuning",
+        "detection-engineering",
+        "alert-fatigue",
+        "soc",
+        "correlation"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "performing-false-positive-reduction-in-siem",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "performing-ioc-enrichment-automation",
+      "name": "performing-ioc-enrichment-automation",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "soc",
+        "ioc",
+        "enrichment",
+        "automation",
+        "virustotal",
+        "abuseipdb",
+        "shodan",
+        "threat-intelligence"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "performing-ioc-enrichment-automation",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "performing-lateral-movement-detection",
+      "name": "performing-lateral-movement-detection",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "soc",
+        "lateral-movement",
+        "mitre-attack",
+        "pass-the-hash",
+        "psexec",
+        "wmi",
+        "rdp",
+        "smb",
+        "detection"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "performing-lateral-movement-detection",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "performing-log-source-onboarding-in-siem",
+      "name": "performing-log-source-onboarding-in-siem",
+      "description": "Perform structured log source onboarding into SIEM platforms by configuring collectors, parsers, normalization, and validation for complete security visibility.",
+      "category": "security",
+      "tags": [
+        "siem",
+        "log-onboarding",
+        "log-management",
+        "data-ingestion",
+        "parsing",
+        "normalization",
+        "soc"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "performing-log-source-onboarding-in-siem",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "performing-purple-team-exercise",
+      "name": "performing-purple-team-exercise",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "soc",
+        "purple-team",
+        "red-team",
+        "blue-team",
+        "mitre-attack",
+        "adversary-emulation",
+        "detection-validation"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "performing-purple-team-exercise",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "performing-soc-tabletop-exercise",
+      "name": "performing-soc-tabletop-exercise",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "soc",
+        "tabletop",
+        "exercise",
+        "incident-response",
+        "training",
+        "nist",
+        "playbook-validation"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "performing-soc-tabletop-exercise",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "performing-threat-hunting-with-elastic-siem",
+      "name": "performing-threat-hunting-with-elastic-siem",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "soc",
+        "elastic",
+        "siem",
+        "threat-hunting",
+        "kql",
+        "eql",
+        "mitre-attack",
+        "kibana"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "performing-threat-hunting-with-elastic-siem",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "performing-user-behavior-analytics",
+      "name": "performing-user-behavior-analytics",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "soc",
+        "ueba",
+        "user-behavior",
+        "insider-threat",
+        "anomaly-detection",
+        "splunk",
+        "baseline"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "performing-user-behavior-analytics",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "triaging-security-alerts-in-splunk",
+      "name": "triaging-security-alerts-in-splunk",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "soc",
+        "splunk",
+        "alert-triage",
+        "siem",
+        "notable-events",
+        "correlation-search",
+        "incident-review"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "triaging-security-alerts-in-splunk",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
     }
   ],
   "categories": [
