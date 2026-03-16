@@ -13406,6 +13406,342 @@
       "license": "Apache-2.0",
       "author": "mukul975",
       "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "analyzing-ios-app-security-with-objection",
+      "name": "analyzing-ios-app-security-with-objection",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "mobile-security",
+        "ios",
+        "objection",
+        "frida",
+        "owasp-mobile",
+        "penetration-testing"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "analyzing-ios-app-security-with-objection",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "detecting-mobile-malware-behavior",
+      "name": "detecting-mobile-malware-behavior",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "mobile-security",
+        "android",
+        "ios",
+        "malware-analysis",
+        "owasp-mobile",
+        "penetration-testing"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "detecting-mobile-malware-behavior",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "exploiting-deeplink-vulnerabilities",
+      "name": "exploiting-deeplink-vulnerabilities",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "mobile-security",
+        "android",
+        "ios",
+        "deep-links",
+        "owasp-mobile",
+        "penetration-testing"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "exploiting-deeplink-vulnerabilities",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "exploiting-insecure-data-storage-in-mobile",
+      "name": "exploiting-insecure-data-storage-in-mobile",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "mobile-security",
+        "android",
+        "ios",
+        "data-storage",
+        "owasp-mobile",
+        "penetration-testing"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "exploiting-insecure-data-storage-in-mobile",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "implementing-mobile-application-management",
+      "name": "implementing-mobile-application-management",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "mobile-security",
+        "android",
+        "ios",
+        "mam",
+        "enterprise-security",
+        "owasp-mobile"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "implementing-mobile-application-management",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "intercepting-mobile-traffic-with-burpsuite",
+      "name": "intercepting-mobile-traffic-with-burpsuite",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "mobile-security",
+        "android",
+        "ios",
+        "burp-suite",
+        "traffic-interception",
+        "penetration-testing"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "intercepting-mobile-traffic-with-burpsuite",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "performing-android-app-static-analysis-with-mobsf",
+      "name": "performing-android-app-static-analysis-with-mobsf",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "mobile-security",
+        "android",
+        "mobsf",
+        "static-analysis",
+        "owasp-mobile",
+        "penetration-testing"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "performing-android-app-static-analysis-with-mobsf",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "performing-dynamic-analysis-of-android-app",
+      "name": "performing-dynamic-analysis-of-android-app",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "mobile-security",
+        "android",
+        "frida",
+        "dynamic-analysis",
+        "owasp-mobile",
+        "penetration-testing"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "performing-dynamic-analysis-of-android-app",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "performing-mobile-app-certificate-pinning-bypass",
+      "name": "performing-mobile-app-certificate-pinning-bypass",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "mobile-security",
+        "android",
+        "ios",
+        "certificate-pinning",
+        "frida",
+        "penetration-testing"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "performing-mobile-app-certificate-pinning-bypass",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "reverse-engineering-ios-app-with-frida",
+      "name": "reverse-engineering-ios-app-with-frida",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "mobile-security",
+        "ios",
+        "frida",
+        "reverse-engineering",
+        "owasp-mobile",
+        "penetration-testing"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "reverse-engineering-ios-app-with-frida",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "testing-android-intents-for-vulnerabilities",
+      "name": "testing-android-intents-for-vulnerabilities",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "mobile-security",
+        "android",
+        "intents",
+        "ipc-security",
+        "owasp-mobile",
+        "penetration-testing"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "testing-android-intents-for-vulnerabilities",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "testing-mobile-api-authentication",
+      "name": "testing-mobile-api-authentication",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "mobile-security",
+        "android",
+        "ios",
+        "api-security",
+        "authentication",
+        "penetration-testing"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "testing-mobile-api-authentication",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
     }
   ],
   "categories": [
