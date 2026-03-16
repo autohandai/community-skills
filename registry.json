@@ -24867,6 +24867,423 @@
       "license": "Apache-2.0",
       "author": "mukul975",
       "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "configuring-aws-verified-access-for-ztna",
+      "name": "configuring-aws-verified-access-for-ztna",
+      "description": "Configure AWS Verified Access to provide VPN-less zero trust network access to internal applications using identity and device posture verification with Cedar policy language.",
+      "category": "security",
+      "tags": [
+        "zero-trust",
+        "aws",
+        "verified-access",
+        "ztna",
+        "cedar-policy",
+        "vpn-less",
+        "identity-verification",
+        "device-posture",
+        "aws-ram"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "configuring-aws-verified-access-for-ztna",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "configuring-identity-aware-proxy-with-google-iap",
+      "name": "configuring-identity-aware-proxy-with-google-iap",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "google-iap",
+        "identity-aware-proxy",
+        "gcp",
+        "zero-trust",
+        "access-context-manager",
+        "cloud-run",
+        "app-engine"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "configuring-identity-aware-proxy-with-google-iap",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "configuring-zscaler-private-access-for-ztna",
+      "name": "configuring-zscaler-private-access-for-ztna",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "zscaler",
+        "zpa",
+        "ztna",
+        "zero-trust",
+        "app-connector",
+        "access-policy",
+        "sase"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "configuring-zscaler-private-access-for-ztna",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "deploying-cloudflare-access-for-zero-trust",
+      "name": "deploying-cloudflare-access-for-zero-trust",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "cloudflare",
+        "cloudflare-access",
+        "zero-trust",
+        "cloudflare-tunnel",
+        "warp",
+        "ztna",
+        "cloudflare-one"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "deploying-cloudflare-access-for-zero-trust",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "deploying-palo-alto-prisma-access-zero-trust",
+      "name": "deploying-palo-alto-prisma-access-zero-trust",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "prisma-access",
+        "palo-alto",
+        "ztna",
+        "sase",
+        "globalprotect",
+        "strata-cloud-manager",
+        "zero-trust"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "deploying-palo-alto-prisma-access-zero-trust",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "deploying-tailscale-for-zero-trust-vpn",
+      "name": "deploying-tailscale-for-zero-trust-vpn",
+      "description": "Deploy and configure Tailscale as a WireGuard-based zero trust mesh VPN with identity-aware access controls, ACLs, and exit nodes for secure peer-to-peer connectivity.",
+      "category": "security",
+      "tags": [
+        "zero-trust",
+        "tailscale",
+        "wireguard",
+        "mesh-vpn",
+        "ztna",
+        "peer-to-peer",
+        "acl",
+        "identity-aware",
+        "headscale"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "deploying-tailscale-for-zero-trust-vpn",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "implementing-beyondcorp-zero-trust-access-model",
+      "name": "implementing-beyondcorp-zero-trust-access-model",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "beyondcorp",
+        "zero-trust",
+        "google-cloud",
+        "iap",
+        "identity-aware-proxy",
+        "ztna",
+        "access-context-manager"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "implementing-beyondcorp-zero-trust-access-model",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "implementing-cisa-zero-trust-maturity-model",
+      "name": "implementing-cisa-zero-trust-maturity-model",
+      "description": "Implement the CISA Zero Trust Maturity Model v2.0 across the five pillars of identity, devices, networks, applications, and data to achieve progressive organizational zero trust maturity.",
+      "category": "security",
+      "tags": [
+        "zero-trust",
+        "cisa",
+        "maturity-model",
+        "federal-compliance",
+        "governance",
+        "nist-800-207",
+        "identity",
+        "devices",
+        "networks",
+        "applications",
+        "data-security"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "implementing-cisa-zero-trust-maturity-model",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "implementing-device-posture-assessment-in-zero-trust",
+      "name": "implementing-device-posture-assessment-in-zero-trust",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "device-posture",
+        "zero-trust",
+        "endpoint-compliance",
+        "crowdstrike-zta",
+        "intune",
+        "conditional-access",
+        "jamf"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "implementing-device-posture-assessment-in-zero-trust",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "implementing-microsegmentation-with-guardicore",
+      "name": "implementing-microsegmentation-with-guardicore",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "microsegmentation",
+        "guardicore",
+        "akamai",
+        "zero-trust",
+        "east-west-traffic",
+        "network-segmentation",
+        "lateral-movement"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "implementing-microsegmentation-with-guardicore",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "implementing-zero-trust-dns-with-nextdns",
+      "name": "implementing-zero-trust-dns-with-nextdns",
+      "description": "Implement NextDNS as a zero trust DNS filtering layer with encrypted resolution, threat intelligence blocking, privacy protection, and organizational policy enforcement across all endpoints.",
+      "category": "security",
+      "tags": [
+        "zero-trust",
+        "dns",
+        "nextdns",
+        "dns-over-https",
+        "dns-over-tls",
+        "threat-blocking",
+        "dns-filtering",
+        "privacy",
+        "encrypted-dns"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "implementing-zero-trust-dns-with-nextdns",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "implementing-zero-trust-for-saas-applications",
+      "name": "implementing-zero-trust-for-saas-applications",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "zero-trust",
+        "saas-security",
+        "casb",
+        "sspm",
+        "conditional-access",
+        "oauth-governance",
+        "session-controls"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "implementing-zero-trust-for-saas-applications",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "implementing-zero-trust-with-beyondcorp",
+      "name": "implementing-zero-trust-with-beyondcorp",
+      "description": "Deploy Google BeyondCorp Enterprise zero trust access controls using Identity-Aware Proxy (IAP), context-aware access policies, device trust validation, and Access Context Manager to enforce identity and posture-based access to GCP resources and internal applications.",
+      "category": "security",
+      "tags": [
+        "zero-trust",
+        "beyondcorp",
+        "google-cloud",
+        "iap",
+        "context-aware-access",
+        "device-trust",
+        "identity"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "implementing-zero-trust-with-beyondcorp",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "implementing-zero-trust-with-hashicorp-boundary",
+      "name": "implementing-zero-trust-with-hashicorp-boundary",
+      "description": "Implement HashiCorp Boundary for identity-aware zero trust infrastructure access management with dynamic credential brokering, session recording, and Vault integration.",
+      "category": "security",
+      "tags": [
+        "zero-trust",
+        "hashicorp",
+        "boundary",
+        "privileged-access",
+        "vault",
+        "identity-aware-proxy",
+        "session-recording",
+        "just-in-time-access"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "implementing-zero-trust-with-hashicorp-boundary",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
     }
   ],
   "categories": [
