@@ -13742,6 +13742,1121 @@
       "license": "Apache-2.0",
       "author": "mukul975",
       "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "analyzing-network-flow-data-with-netflow",
+      "name": "analyzing-network-flow-data-with-netflow",
+      "description": ">-",
+      "category": "security",
+      "tags": [
+        "analyzing",
+        "network",
+        "flow",
+        "data"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "analyzing-network-flow-data-with-netflow",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "analyzing-network-packets-with-scapy",
+      "name": "analyzing-network-packets-with-scapy",
+      "description": "Craft, send, sniff, and dissect network packets using Scapy for protocol analysis, network reconnaissance, and traffic anomaly detection in authorized security testing",
+      "category": "security",
+      "tags": [],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "analyzing-network-packets-with-scapy",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "analyzing-network-traffic-with-wireshark",
+      "name": "analyzing-network-traffic-with-wireshark",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "network-security",
+        "wireshark",
+        "packet-analysis",
+        "traffic-analysis",
+        "pcap"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "analyzing-network-traffic-with-wireshark",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "conducting-man-in-the-middle-attack-simulation",
+      "name": "conducting-man-in-the-middle-attack-simulation",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "network-security",
+        "mitm",
+        "bettercap",
+        "ettercap",
+        "mitmproxy"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "conducting-man-in-the-middle-attack-simulation",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "configuring-network-segmentation-with-vlans",
+      "name": "configuring-network-segmentation-with-vlans",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "network-security",
+        "vlan",
+        "network-segmentation",
+        "switch-security",
+        "802.1q"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "configuring-network-segmentation-with-vlans",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "configuring-pfsense-firewall-rules",
+      "name": "configuring-pfsense-firewall-rules",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "network-security",
+        "pfsense",
+        "firewall",
+        "nat",
+        "network-segmentation"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "configuring-pfsense-firewall-rules",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "configuring-snort-ids-for-intrusion-detection",
+      "name": "configuring-snort-ids-for-intrusion-detection",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "network-security",
+        "snort",
+        "ids",
+        "intrusion-detection",
+        "rule-writing"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "configuring-snort-ids-for-intrusion-detection",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "configuring-suricata-for-network-monitoring",
+      "name": "configuring-suricata-for-network-monitoring",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "network-security",
+        "suricata",
+        "ids",
+        "ips",
+        "network-monitoring"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "configuring-suricata-for-network-monitoring",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "detecting-arp-poisoning-in-network-traffic",
+      "name": "detecting-arp-poisoning-in-network-traffic",
+      "description": "Detect and prevent ARP spoofing attacks using ARPWatch, Dynamic ARP Inspection, Wireshark analysis, and custom monitoring scripts to protect against man-in-the-middle interception.",
+      "category": "security",
+      "tags": [
+        "arp-poisoning",
+        "arp-spoofing",
+        "mitm",
+        "dynamic-arp-inspection",
+        "arpwatch",
+        "network-security",
+        "man-in-the-middle",
+        "layer-2-security"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "detecting-arp-poisoning-in-network-traffic",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "detecting-dns-exfiltration-with-dns-query-analysis",
+      "name": "detecting-dns-exfiltration-with-dns-query-analysis",
+      "description": "Detect data exfiltration through DNS tunneling by analyzing query entropy, subdomain length, query volume, TXT record abuse, and response payload sizes using passive DNS monitoring.",
+      "category": "security",
+      "tags": [
+        "dns-exfiltration",
+        "dns-tunneling",
+        "data-exfiltration",
+        "threat-detection",
+        "entropy-analysis",
+        "passive-dns",
+        "network-monitoring",
+        "iodine",
+        "dnscat2"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "detecting-dns-exfiltration-with-dns-query-analysis",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "detecting-exfiltration-over-dns-with-zeek",
+      "name": "detecting-exfiltration-over-dns-with-zeek",
+      "description": "Detect DNS-based data exfiltration by analyzing Zeek dns.log for high-entropy subdomains and anomalous query patterns",
+      "category": "security",
+      "tags": [
+        "dns-exfiltration",
+        "zeek",
+        "entropy-analysis",
+        "threat-hunting"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "detecting-exfiltration-over-dns-with-zeek",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "detecting-lateral-movement-in-network",
+      "name": "detecting-lateral-movement-in-network",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "network-security",
+        "lateral-movement",
+        "threat-detection",
+        "siem",
+        "pass-the-hash"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "detecting-lateral-movement-in-network",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "detecting-network-anomalies-with-zeek",
+      "name": "detecting-network-anomalies-with-zeek",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "network-security",
+        "zeek",
+        "network-monitoring",
+        "anomaly-detection",
+        "threat-hunting"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "detecting-network-anomalies-with-zeek",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "detecting-network-scanning-with-ids-signatures",
+      "name": "detecting-network-scanning-with-ids-signatures",
+      "description": "Detect network reconnaissance and port scanning using Suricata and Snort IDS signatures, threshold-based detection rules, and traffic anomaly analysis to identify Nmap, Masscan, and custom scanning activity.",
+      "category": "security",
+      "tags": [
+        "ids",
+        "nmap-detection",
+        "port-scanning",
+        "snort",
+        "suricata",
+        "reconnaissance",
+        "network-security",
+        "signature-detection",
+        "threshold-rules"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "detecting-network-scanning-with-ids-signatures",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "detecting-port-scanning-with-fail2ban",
+      "name": "detecting-port-scanning-with-fail2ban",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "network-security",
+        "fail2ban",
+        "port-scanning",
+        "intrusion-prevention",
+        "automated-defense"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "detecting-port-scanning-with-fail2ban",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "exploiting-bgp-hijacking-vulnerabilities",
+      "name": "exploiting-bgp-hijacking-vulnerabilities",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "network-security",
+        "bgp",
+        "routing-security",
+        "rpki",
+        "route-hijacking"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "exploiting-bgp-hijacking-vulnerabilities",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "exploiting-ipv6-vulnerabilities",
+      "name": "exploiting-ipv6-vulnerabilities",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "network-security",
+        "ipv6",
+        "slaac",
+        "router-advertisement",
+        "dual-stack-security"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "exploiting-ipv6-vulnerabilities",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "exploiting-smb-vulnerabilities-with-metasploit",
+      "name": "exploiting-smb-vulnerabilities-with-metasploit",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "network-security",
+        "smb",
+        "metasploit",
+        "exploitation",
+        "eternalblue"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "exploiting-smb-vulnerabilities-with-metasploit",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "implementing-bgp-security-with-rpki",
+      "name": "implementing-bgp-security-with-rpki",
+      "description": "Implement BGP route origin validation using RPKI with Route Origin Authorizations, RPKI-to-Router protocol, and ROV policies on Cisco and Juniper routers to prevent route hijacking.",
+      "category": "security",
+      "tags": [
+        "bgp",
+        "rpki",
+        "route-origin-validation",
+        "rov",
+        "roa",
+        "route-hijacking",
+        "internet-routing",
+        "bgp-security",
+        "prefix-hijack"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "implementing-bgp-security-with-rpki",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "implementing-ddos-mitigation-with-cloudflare",
+      "name": "implementing-ddos-mitigation-with-cloudflare",
+      "description": "Configure Cloudflare DDoS protection with managed rulesets, rate limiting, WAF rules, Bot Management, and origin protection to mitigate volumetric, protocol, and application-layer attacks.",
+      "category": "security",
+      "tags": [
+        "ddos",
+        "cloudflare",
+        "ddos-mitigation",
+        "rate-limiting",
+        "waf",
+        "bot-management",
+        "layer-7",
+        "volumetric-attack",
+        "network-security"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "implementing-ddos-mitigation-with-cloudflare",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "implementing-network-access-control",
+      "name": "implementing-network-access-control",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "network-security",
+        "nac",
+        "802.1x",
+        "radius",
+        "packetfence"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "implementing-network-access-control",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "implementing-network-access-control-with-cisco-ise",
+      "name": "implementing-network-access-control-with-cisco-ise",
+      "description": "Deploy Cisco Identity Services Engine for 802.1X wired and wireless authentication, MAC Authentication Bypass, posture assessment, and dynamic VLAN assignment for network access control.",
+      "category": "security",
+      "tags": [
+        "cisco-ise",
+        "802.1x",
+        "nac",
+        "radius",
+        "network-access-control",
+        "posture-assessment",
+        "mab",
+        "dynamic-vlan",
+        "eap-tls"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "implementing-network-access-control-with-cisco-ise",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "implementing-network-intrusion-prevention-with-suricata",
+      "name": "implementing-network-intrusion-prevention-with-suricata",
+      "description": "Deploy and configure Suricata as a network intrusion prevention system with custom rules, Emerging Threats rulesets, and inline traffic inspection for real-time threat blocking.",
+      "category": "security",
+      "tags": [
+        "suricata",
+        "ips",
+        "ids",
+        "intrusion-prevention",
+        "network-security",
+        "emerging-threats",
+        "rule-management",
+        "nfqueue",
+        "inline-mode"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "implementing-network-intrusion-prevention-with-suricata",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "implementing-network-segmentation-with-firewall-zones",
+      "name": "implementing-network-segmentation-with-firewall-zones",
+      "description": "Design and implement network segmentation using firewall security zones, VLANs, ACLs, and microsegmentation policies to restrict lateral movement and enforce least-privilege network access.",
+      "category": "security",
+      "tags": [
+        "network-segmentation",
+        "firewall-zones",
+        "vlan",
+        "microsegmentation",
+        "lateral-movement",
+        "zero-trust",
+        "acl",
+        "east-west-traffic",
+        "pci-dss"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "implementing-network-segmentation-with-firewall-zones",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "implementing-network-traffic-analysis-with-arkime",
+      "name": "implementing-network-traffic-analysis-with-arkime",
+      "description": ">-",
+      "category": "security",
+      "tags": [
+        "implementing",
+        "network",
+        "traffic",
+        "analysis"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "implementing-network-traffic-analysis-with-arkime",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "implementing-network-traffic-baselining",
+      "name": "implementing-network-traffic-baselining",
+      "description": "Build network traffic baselines from NetFlow/IPFIX data using Python pandas for statistical analysis, z-score anomaly detection, and hourly/daily traffic pattern profiling",
+      "category": "security",
+      "tags": [],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "implementing-network-traffic-baselining",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "implementing-next-generation-firewall-with-palo-alto",
+      "name": "implementing-next-generation-firewall-with-palo-alto",
+      "description": "Configure and deploy Palo Alto Networks next-generation firewalls with App-ID, User-ID, zone-based policies, SSL decryption, and threat prevention profiles for enterprise network security.",
+      "category": "security",
+      "tags": [
+        "palo-alto",
+        "ngfw",
+        "firewall",
+        "app-id",
+        "user-id",
+        "threat-prevention",
+        "network-security",
+        "ssl-decryption",
+        "zone-protection"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "implementing-next-generation-firewall-with-palo-alto",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "performing-arp-spoofing-attack-simulation",
+      "name": "performing-arp-spoofing-attack-simulation",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "network-security",
+        "arp-spoofing",
+        "mitm",
+        "ettercap",
+        "layer2-attack"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "performing-arp-spoofing-attack-simulation",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "performing-bandwidth-throttling-attack-simulation",
+      "name": "performing-bandwidth-throttling-attack-simulation",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "network-security",
+        "bandwidth-throttling",
+        "qos",
+        "traffic-shaping",
+        "network-resilience"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "performing-bandwidth-throttling-attack-simulation",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "performing-dns-enumeration-and-zone-transfer",
+      "name": "performing-dns-enumeration-and-zone-transfer",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "network-security",
+        "dns",
+        "enumeration",
+        "zone-transfer",
+        "reconnaissance"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "performing-dns-enumeration-and-zone-transfer",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "performing-network-traffic-analysis-with-tshark",
+      "name": "performing-network-traffic-analysis-with-tshark",
+      "description": "Automate network traffic analysis using tshark and pyshark for protocol statistics, suspicious flow detection, DNS anomaly identification, and IOC extraction from PCAP files",
+      "category": "security",
+      "tags": [
+        "tshark",
+        "pyshark",
+        "pcap",
+        "packet-analysis",
+        "network-forensics",
+        "wireshark",
+        "traffic-analysis"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "performing-network-traffic-analysis-with-tshark",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "performing-network-traffic-analysis-with-zeek",
+      "name": "performing-network-traffic-analysis-with-zeek",
+      "description": "Deploy Zeek network security monitor to capture, parse, and analyze network traffic metadata for threat detection, anomaly identification, and forensic investigation.",
+      "category": "security",
+      "tags": [
+        "zeek",
+        "network-monitoring",
+        "traffic-analysis",
+        "ids",
+        "nids",
+        "pcap",
+        "threat-detection",
+        "forensics",
+        "siem-integration"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "performing-network-traffic-analysis-with-zeek",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "performing-packet-injection-attack",
+      "name": "performing-packet-injection-attack",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "network-security",
+        "packet-injection",
+        "scapy",
+        "hping3",
+        "protocol-testing"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "performing-packet-injection-attack",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "performing-ssl-stripping-attack",
+      "name": "performing-ssl-stripping-attack",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "network-security",
+        "ssl-stripping",
+        "https",
+        "hsts",
+        "tls-security"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "performing-ssl-stripping-attack",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "performing-ssl-tls-inspection-configuration",
+      "name": "performing-ssl-tls-inspection-configuration",
+      "description": "Configure SSL/TLS inspection on network security devices to decrypt, inspect, and re-encrypt HTTPS traffic for threat detection while managing certificates, exemptions, and privacy compliance.",
+      "category": "security",
+      "tags": [
+        "ssl-inspection",
+        "tls-decryption",
+        "https-inspection",
+        "certificate-management",
+        "proxy",
+        "man-in-the-middle",
+        "network-security",
+        "forward-proxy"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "performing-ssl-tls-inspection-configuration",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "performing-ssl-tls-security-assessment",
+      "name": "performing-ssl-tls-security-assessment",
+      "description": "Assess SSL/TLS server configurations using the sslyze Python library to evaluate cipher suites, certificate chains, protocol versions, HSTS headers, and known vulnerabilities like Heartbleed and ROBOT.",
+      "category": "security",
+      "tags": [
+        "network-security",
+        "ssl",
+        "tls",
+        "sslyze",
+        "certificate",
+        "cipher-suites",
+        "vulnerability-assessment"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "performing-ssl-tls-security-assessment",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "performing-vlan-hopping-attack",
+      "name": "performing-vlan-hopping-attack",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "network-security",
+        "vlan-hopping",
+        "layer2-attack",
+        "switch-security",
+        "802.1q"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "performing-vlan-hopping-attack",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "performing-wifi-password-cracking-with-aircrack",
+      "name": "performing-wifi-password-cracking-with-aircrack",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "network-security",
+        "wifi",
+        "aircrack-ng",
+        "wpa2",
+        "wireless-security"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "performing-wifi-password-cracking-with-aircrack",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "performing-wireless-security-assessment-with-kismet",
+      "name": "performing-wireless-security-assessment-with-kismet",
+      "description": "Conduct wireless network security assessments using Kismet to detect rogue access points, hidden SSIDs, weak encryption, and unauthorized clients through passive RF monitoring.",
+      "category": "security",
+      "tags": [
+        "kismet",
+        "wireless-security",
+        "wifi-assessment",
+        "rogue-ap",
+        "802.11",
+        "wardriving",
+        "wids",
+        "wireless-ids",
+        "rf-monitoring"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "performing-wireless-security-assessment-with-kismet",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "scanning-network-with-nmap-advanced",
+      "name": "scanning-network-with-nmap-advanced",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "network-security",
+        "nmap",
+        "port-scanning",
+        "service-enumeration",
+        "reconnaissance"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "scanning-network-with-nmap-advanced",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
     }
   ],
   "categories": [
