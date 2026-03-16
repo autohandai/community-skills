@@ -24841,6 +24841,32 @@
       "license": "Apache-2.0",
       "author": "mukul975",
       "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "performing-bluetooth-security-assessment",
+      "name": "performing-bluetooth-security-assessment",
+      "description": "Assess Bluetooth Low Energy device security by scanning, enumerating GATT services, and detecting vulnerabilities",
+      "category": "security",
+      "tags": [
+        "bluetooth",
+        "ble",
+        "gatt",
+        "wireless-security"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "performing-bluetooth-security-assessment",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
     }
   ],
   "categories": [
