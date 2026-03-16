@@ -23642,6 +23642,1205 @@
       "license": "Apache-2.0",
       "author": "mukul975",
       "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "bypassing-authentication-with-forced-browsing",
+      "name": "bypassing-authentication-with-forced-browsing",
+      "description": "Discovering and accessing unprotected pages, APIs, and administrative interfaces by enumerating URLs and bypassing authentication controls during authorized security assessments.",
+      "category": "security",
+      "tags": [
+        "penetration-testing",
+        "authentication-bypass",
+        "forced-browsing",
+        "ffuf",
+        "directory-enumeration",
+        "owasp"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "bypassing-authentication-with-forced-browsing",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "exploiting-broken-link-hijacking",
+      "name": "exploiting-broken-link-hijacking",
+      "description": "Discover and exploit broken link hijacking vulnerabilities by identifying references to expired domains, decommissioned cloud resources, and dead external services that can be claimed by an attacker.",
+      "category": "security",
+      "tags": [
+        "broken-link-hijacking",
+        "blh",
+        "subdomain-takeover",
+        "dead-link",
+        "expired-domain",
+        "supply-chain",
+        "external-resource"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "exploiting-broken-link-hijacking",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "exploiting-http-request-smuggling",
+      "name": "exploiting-http-request-smuggling",
+      "description": "Detecting and exploiting HTTP request smuggling vulnerabilities caused by Content-Length and Transfer-Encoding parsing discrepancies between front-end and back-end servers.",
+      "category": "security",
+      "tags": [
+        "penetration-testing",
+        "request-smuggling",
+        "http-desync",
+        "web-security",
+        "burpsuite",
+        "owasp"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "exploiting-http-request-smuggling",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "exploiting-idor-vulnerabilities",
+      "name": "exploiting-idor-vulnerabilities",
+      "description": "Identifying and exploiting Insecure Direct Object Reference vulnerabilities to access unauthorized resources by manipulating object identifiers in API requests and URLs.",
+      "category": "security",
+      "tags": [
+        "penetration-testing",
+        "idor",
+        "access-control",
+        "owasp",
+        "burpsuite",
+        "web-security"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "exploiting-idor-vulnerabilities",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "exploiting-insecure-deserialization",
+      "name": "exploiting-insecure-deserialization",
+      "description": "Identifying and exploiting insecure deserialization vulnerabilities in Java, PHP, Python, and .NET applications to achieve remote code execution during authorized penetration tests.",
+      "category": "security",
+      "tags": [
+        "penetration-testing",
+        "deserialization",
+        "rce",
+        "owasp",
+        "web-security",
+        "ysoserial"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "exploiting-insecure-deserialization",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "exploiting-mass-assignment-in-rest-apis",
+      "name": "exploiting-mass-assignment-in-rest-apis",
+      "description": "Discover and exploit mass assignment vulnerabilities in REST APIs to escalate privileges, modify restricted fields, and bypass authorization controls by injecting unexpected parameters in API requests.",
+      "category": "security",
+      "tags": [
+        "mass-assignment",
+        "api-security",
+        "privilege-escalation",
+        "rest-api",
+        "autobinding",
+        "parameter-injection",
+        "owasp-api"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "exploiting-mass-assignment-in-rest-apis",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "exploiting-nosql-injection-vulnerabilities",
+      "name": "exploiting-nosql-injection-vulnerabilities",
+      "description": "Detect and exploit NoSQL injection vulnerabilities in MongoDB, CouchDB, and other NoSQL databases to demonstrate authentication bypass, data extraction, and unauthorized access risks.",
+      "category": "security",
+      "tags": [
+        "nosql-injection",
+        "mongodb",
+        "authentication-bypass",
+        "injection-attack",
+        "web-security",
+        "database-security",
+        "api-testing"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "exploiting-nosql-injection-vulnerabilities",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "exploiting-oauth-misconfiguration",
+      "name": "exploiting-oauth-misconfiguration",
+      "description": "Identifying and exploiting OAuth 2.0 and OpenID Connect misconfigurations including redirect URI manipulation, token leakage, and authorization code theft during security assessments.",
+      "category": "security",
+      "tags": [
+        "penetration-testing",
+        "oauth",
+        "oidc",
+        "authentication",
+        "web-security",
+        "authorization"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "exploiting-oauth-misconfiguration",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "exploiting-prototype-pollution-in-javascript",
+      "name": "exploiting-prototype-pollution-in-javascript",
+      "description": "Detect and exploit JavaScript prototype pollution vulnerabilities on both client-side and server-side applications to achieve XSS, RCE, and authentication bypass through property injection.",
+      "category": "security",
+      "tags": [
+        "prototype-pollution",
+        "javascript",
+        "node-js",
+        "xss",
+        "rce",
+        "property-injection",
+        "dom-xss",
+        "server-side-pollution"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "exploiting-prototype-pollution-in-javascript",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "exploiting-race-condition-vulnerabilities",
+      "name": "exploiting-race-condition-vulnerabilities",
+      "description": "Detect and exploit race condition vulnerabilities in web applications using Turbo Intruder's single-packet attack technique to bypass rate limits, duplicate transactions, and exploit time-of-check-to-time-of-use flaws.",
+      "category": "security",
+      "tags": [
+        "race-condition",
+        "turbo-intruder",
+        "toctou",
+        "concurrency",
+        "single-packet-attack",
+        "limit-overrun",
+        "burp-suite"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "exploiting-race-condition-vulnerabilities",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "exploiting-server-side-request-forgery",
+      "name": "exploiting-server-side-request-forgery",
+      "description": "Identifying and exploiting SSRF vulnerabilities to access internal services, cloud metadata, and restricted network resources during authorized penetration tests.",
+      "category": "security",
+      "tags": [
+        "penetration-testing",
+        "ssrf",
+        "owasp",
+        "cloud-security",
+        "web-security",
+        "burpsuite"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "exploiting-server-side-request-forgery",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "exploiting-sql-injection-with-sqlmap",
+      "name": "exploiting-sql-injection-with-sqlmap",
+      "description": "Detecting and exploiting SQL injection vulnerabilities using sqlmap to extract database contents during authorized penetration tests.",
+      "category": "security",
+      "tags": [
+        "penetration-testing",
+        "sql-injection",
+        "sqlmap",
+        "owasp",
+        "database-security",
+        "web-security"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "exploiting-sql-injection-with-sqlmap",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "exploiting-template-injection-vulnerabilities",
+      "name": "exploiting-template-injection-vulnerabilities",
+      "description": "Detecting and exploiting Server-Side Template Injection (SSTI) vulnerabilities across Jinja2, Twig, Freemarker, and other template engines to achieve remote code execution.",
+      "category": "security",
+      "tags": [
+        "penetration-testing",
+        "ssti",
+        "template-injection",
+        "rce",
+        "web-security",
+        "owasp"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "exploiting-template-injection-vulnerabilities",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "exploiting-type-juggling-vulnerabilities",
+      "name": "exploiting-type-juggling-vulnerabilities",
+      "description": "Exploit PHP type juggling vulnerabilities caused by loose comparison operators to bypass authentication, circumvent hash verification, and manipulate application logic through type coercion attacks.",
+      "category": "security",
+      "tags": [
+        "type-juggling",
+        "php-security",
+        "loose-comparison",
+        "authentication-bypass",
+        "magic-hash",
+        "type-coercion",
+        "web-security"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "exploiting-type-juggling-vulnerabilities",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "exploiting-websocket-vulnerabilities",
+      "name": "exploiting-websocket-vulnerabilities",
+      "description": "Testing WebSocket implementations for authentication bypass, cross-site hijacking, injection attacks, and insecure message handling during authorized security assessments.",
+      "category": "security",
+      "tags": [
+        "penetration-testing",
+        "websocket",
+        "web-security",
+        "owasp",
+        "real-time",
+        "burpsuite"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "exploiting-websocket-vulnerabilities",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "implementing-web-application-logging-with-modsecurity",
+      "name": "implementing-web-application-logging-with-modsecurity",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "modsecurity",
+        "waf",
+        "crs",
+        "owasp",
+        "web-security",
+        "audit-logging",
+        "rule-tuning"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "implementing-web-application-logging-with-modsecurity",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "performing-blind-ssrf-exploitation",
+      "name": "performing-blind-ssrf-exploitation",
+      "description": "Detect and exploit blind Server-Side Request Forgery vulnerabilities using out-of-band techniques, DNS interactions, and timing analysis to access internal services and cloud metadata endpoints.",
+      "category": "security",
+      "tags": [
+        "blind-ssrf",
+        "ssrf",
+        "out-of-band",
+        "burp-collaborator",
+        "cloud-metadata",
+        "internal-network",
+        "oob-detection"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "performing-blind-ssrf-exploitation",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "performing-clickjacking-attack-test",
+      "name": "performing-clickjacking-attack-test",
+      "description": "Testing web applications for clickjacking vulnerabilities by assessing frame embedding controls and crafting proof-of-concept overlay attacks during authorized security assessments.",
+      "category": "security",
+      "tags": [
+        "penetration-testing",
+        "clickjacking",
+        "ui-redressing",
+        "web-security",
+        "owasp",
+        "x-frame-options"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "performing-clickjacking-attack-test",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "performing-content-security-policy-bypass",
+      "name": "performing-content-security-policy-bypass",
+      "description": "Analyze and bypass Content Security Policy implementations to achieve cross-site scripting by exploiting misconfigurations, JSONP endpoints, unsafe directives, and policy injection techniques.",
+      "category": "security",
+      "tags": [
+        "csp-bypass",
+        "content-security-policy",
+        "xss",
+        "script-injection",
+        "nonce-bypass",
+        "jsonp",
+        "policy-misconfiguration"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "performing-content-security-policy-bypass",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "performing-csrf-attack-simulation",
+      "name": "performing-csrf-attack-simulation",
+      "description": "Testing web applications for Cross-Site Request Forgery vulnerabilities by crafting forged requests that exploit authenticated user sessions during authorized security assessments.",
+      "category": "security",
+      "tags": [
+        "penetration-testing",
+        "csrf",
+        "owasp",
+        "web-security",
+        "session-management",
+        "burpsuite"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "performing-csrf-attack-simulation",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "performing-directory-traversal-testing",
+      "name": "performing-directory-traversal-testing",
+      "description": "Testing web applications for path traversal vulnerabilities that allow reading or writing arbitrary files on the server by manipulating file path parameters.",
+      "category": "security",
+      "tags": [
+        "penetration-testing",
+        "directory-traversal",
+        "path-traversal",
+        "lfi",
+        "owasp",
+        "web-security"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "performing-directory-traversal-testing",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "performing-graphql-security-assessment",
+      "name": "performing-graphql-security-assessment",
+      "description": "Assessing GraphQL API endpoints for introspection leaks, injection attacks, authorization flaws, and denial-of-service vulnerabilities during authorized security tests.",
+      "category": "security",
+      "tags": [
+        "penetration-testing",
+        "graphql",
+        "api-security",
+        "owasp",
+        "web-security",
+        "introspection"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "performing-graphql-security-assessment",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "performing-http-parameter-pollution-attack",
+      "name": "performing-http-parameter-pollution-attack",
+      "description": "Execute HTTP Parameter Pollution attacks to bypass input validation, WAF rules, and security controls by injecting duplicate parameters that are processed differently by front-end and back-end systems.",
+      "category": "security",
+      "tags": [
+        "http-parameter-pollution",
+        "hpp",
+        "waf-bypass",
+        "input-validation",
+        "web-security",
+        "parameter-injection",
+        "server-parsing"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "performing-http-parameter-pollution-attack",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "performing-second-order-sql-injection",
+      "name": "performing-second-order-sql-injection",
+      "description": "Detect and exploit second-order SQL injection vulnerabilities where malicious input is stored in a database and later executed in an unsafe SQL query during a different application operation.",
+      "category": "security",
+      "tags": [
+        "second-order-sqli",
+        "stored-sql-injection",
+        "sql-injection",
+        "database-security",
+        "web-security",
+        "blind-injection",
+        "persistent-sqli"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "performing-second-order-sql-injection",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "performing-security-headers-audit",
+      "name": "performing-security-headers-audit",
+      "description": "Auditing HTTP security headers including CSP, HSTS, X-Frame-Options, and cookie attributes to identify missing or misconfigured browser-level protections.",
+      "category": "security",
+      "tags": [
+        "penetration-testing",
+        "security-headers",
+        "csp",
+        "hsts",
+        "owasp",
+        "web-security",
+        "hardening"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "performing-security-headers-audit",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "performing-subdomain-enumeration-with-subfinder",
+      "name": "performing-subdomain-enumeration-with-subfinder",
+      "description": "Enumerate subdomains of target domains using ProjectDiscovery's Subfinder passive reconnaissance tool to map the attack surface during security assessments.",
+      "category": "security",
+      "tags": [
+        "subdomain-enumeration",
+        "reconnaissance",
+        "bug-bounty",
+        "attack-surface",
+        "subfinder",
+        "passive-recon",
+        "osint"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "performing-subdomain-enumeration-with-subfinder",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "performing-web-application-firewall-bypass",
+      "name": "performing-web-application-firewall-bypass",
+      "description": "Bypass Web Application Firewall protections using encoding techniques, HTTP method manipulation, parameter pollution, and payload obfuscation to deliver SQL injection, XSS, and other attack payloads past WAF detection rules.",
+      "category": "security",
+      "tags": [
+        "waf-bypass",
+        "waf-evasion",
+        "sql-injection",
+        "xss",
+        "payload-obfuscation",
+        "encoding-bypass",
+        "web-security"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "performing-web-application-firewall-bypass",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "performing-web-cache-deception-attack",
+      "name": "performing-web-cache-deception-attack",
+      "description": "Execute web cache deception attacks by exploiting path normalization discrepancies between CDN caching layers and origin servers to cache and retrieve sensitive authenticated content.",
+      "category": "security",
+      "tags": [
+        "web-cache-deception",
+        "cdn-attack",
+        "cache-poisoning",
+        "path-normalization",
+        "cloudflare",
+        "cache-key",
+        "static-resource"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "performing-web-cache-deception-attack",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "performing-web-cache-poisoning-attack",
+      "name": "performing-web-cache-poisoning-attack",
+      "description": "Exploiting web cache mechanisms to serve malicious content to other users by poisoning cached responses through unkeyed headers and parameters during authorized security tests.",
+      "category": "security",
+      "tags": [
+        "penetration-testing",
+        "cache-poisoning",
+        "web-security",
+        "cdn",
+        "burpsuite",
+        "owasp"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "performing-web-cache-poisoning-attack",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "testing-api-security-with-owasp-top-10",
+      "name": "testing-api-security-with-owasp-top-10",
+      "description": "Systematically assessing REST and GraphQL API endpoints against the OWASP API Security Top 10 risks using automated and manual testing techniques.",
+      "category": "security",
+      "tags": [
+        "penetration-testing",
+        "api-security",
+        "owasp",
+        "rest-api",
+        "graphql",
+        "burpsuite",
+        "postman"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "testing-api-security-with-owasp-top-10",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "testing-cors-misconfiguration",
+      "name": "testing-cors-misconfiguration",
+      "description": "Identifying and exploiting Cross-Origin Resource Sharing misconfigurations that allow unauthorized cross-domain data access and credential theft during security assessments.",
+      "category": "security",
+      "tags": [
+        "penetration-testing",
+        "cors",
+        "web-security",
+        "owasp",
+        "same-origin-policy",
+        "burpsuite"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "testing-cors-misconfiguration",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "testing-for-broken-access-control",
+      "name": "testing-for-broken-access-control",
+      "description": "Systematically testing web applications for broken access control vulnerabilities including privilege escalation, missing function-level checks, and insecure direct object references.",
+      "category": "security",
+      "tags": [
+        "penetration-testing",
+        "access-control",
+        "authorization",
+        "owasp",
+        "privilege-escalation",
+        "web-security"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "testing-for-broken-access-control",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "testing-for-business-logic-vulnerabilities",
+      "name": "testing-for-business-logic-vulnerabilities",
+      "description": "Identifying flaws in application business logic that allow price manipulation, workflow bypass, and privilege escalation beyond what technical vulnerability scanners can detect.",
+      "category": "security",
+      "tags": [
+        "penetration-testing",
+        "business-logic",
+        "owasp",
+        "web-security",
+        "burpsuite",
+        "manual-testing"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "testing-for-business-logic-vulnerabilities",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "testing-for-email-header-injection",
+      "name": "testing-for-email-header-injection",
+      "description": "Test web application email functionality for SMTP header injection vulnerabilities that allow attackers to inject additional email headers, modify recipients, and abuse contact forms for spam relay.",
+      "category": "security",
+      "tags": [
+        "email-injection",
+        "smtp-injection",
+        "crlf-injection",
+        "header-injection",
+        "spam-relay",
+        "contact-form",
+        "email-security"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "testing-for-email-header-injection",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "testing-for-host-header-injection",
+      "name": "testing-for-host-header-injection",
+      "description": "Test web applications for HTTP Host header injection vulnerabilities to identify password reset poisoning, web cache poisoning, SSRF, and virtual host routing manipulation risks.",
+      "category": "security",
+      "tags": [
+        "host-header-injection",
+        "password-reset-poisoning",
+        "cache-poisoning",
+        "virtual-host",
+        "web-security",
+        "header-manipulation",
+        "ssrf"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "testing-for-host-header-injection",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "testing-for-json-web-token-vulnerabilities",
+      "name": "testing-for-json-web-token-vulnerabilities",
+      "description": "Test JWT implementations for critical vulnerabilities including algorithm confusion, none algorithm bypass, kid parameter injection, and weak secret exploitation to achieve authentication bypass and privilege escalation.",
+      "category": "security",
+      "tags": [
+        "jwt",
+        "json-web-token",
+        "algorithm-confusion",
+        "authentication-bypass",
+        "token-forgery",
+        "kid-injection",
+        "jku-attack"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "testing-for-json-web-token-vulnerabilities",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "testing-for-open-redirect-vulnerabilities",
+      "name": "testing-for-open-redirect-vulnerabilities",
+      "description": "Identify and test open redirect vulnerabilities in web applications by analyzing URL redirection parameters, bypass techniques, and exploitation chains for phishing and token theft.",
+      "category": "security",
+      "tags": [
+        "open-redirect",
+        "url-redirect",
+        "phishing",
+        "owasp",
+        "url-validation",
+        "redirect-bypass",
+        "unvalidated-redirect"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "testing-for-open-redirect-vulnerabilities",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "testing-for-sensitive-data-exposure",
+      "name": "testing-for-sensitive-data-exposure",
+      "description": "Identifying sensitive data exposure vulnerabilities including API key leakage, PII in responses, insecure storage, and unprotected data transmission during security assessments.",
+      "category": "security",
+      "tags": [
+        "penetration-testing",
+        "data-exposure",
+        "pii",
+        "owasp",
+        "web-security",
+        "api-keys",
+        "secrets"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "testing-for-sensitive-data-exposure",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "testing-for-xml-injection-vulnerabilities",
+      "name": "testing-for-xml-injection-vulnerabilities",
+      "description": "Test web applications for XML injection vulnerabilities including XXE, XPath injection, and XML entity attacks to identify data exposure and server-side request forgery risks.",
+      "category": "security",
+      "tags": [
+        "xml-injection",
+        "xxe",
+        "xpath-injection",
+        "xml-parsing",
+        "web-security",
+        "entity-injection",
+        "dtd-attack"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "testing-for-xml-injection-vulnerabilities",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "testing-for-xss-vulnerabilities-with-burpsuite",
+      "name": "testing-for-xss-vulnerabilities-with-burpsuite",
+      "description": "Identifying and validating cross-site scripting vulnerabilities using Burp Suite's scanner, intruder, and repeater tools during authorized security assessments.",
+      "category": "security",
+      "tags": [
+        "penetration-testing",
+        "xss",
+        "burpsuite",
+        "owasp",
+        "web-security",
+        "cross-site-scripting"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "testing-for-xss-vulnerabilities-with-burpsuite",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "testing-for-xxe-injection-vulnerabilities",
+      "name": "testing-for-xxe-injection-vulnerabilities",
+      "description": "Discovering and exploiting XML External Entity injection vulnerabilities to read server files, perform SSRF, and exfiltrate data during authorized penetration tests.",
+      "category": "security",
+      "tags": [
+        "penetration-testing",
+        "xxe",
+        "xml-injection",
+        "owasp",
+        "web-security",
+        "burpsuite"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "testing-for-xxe-injection-vulnerabilities",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "testing-jwt-token-security",
+      "name": "testing-jwt-token-security",
+      "description": "Assessing JSON Web Token implementations for cryptographic weaknesses, algorithm confusion attacks, and authorization bypass vulnerabilities during security engagements.",
+      "category": "security",
+      "tags": [
+        "penetration-testing",
+        "jwt",
+        "authentication",
+        "web-security",
+        "token-security",
+        "burpsuite"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "testing-jwt-token-security",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
     }
   ],
   "categories": [
