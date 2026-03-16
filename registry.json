@@ -19705,6 +19705,1755 @@
       "license": "Apache-2.0",
       "author": "mukul975",
       "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "analyzing-persistence-mechanisms-in-linux",
+      "name": "analyzing-persistence-mechanisms-in-linux",
+      "description": "Detect and analyze Linux persistence mechanisms including crontab entries, systemd service units, LD_PRELOAD hijacking, bashrc modifications, and authorized_keys backdoors using auditd and file integrity monitoring",
+      "category": "security",
+      "tags": [
+        "linux-persistence",
+        "crontab",
+        "systemd",
+        "ld-preload",
+        "auditd",
+        "threat-hunting",
+        "incident-response"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "analyzing-persistence-mechanisms-in-linux",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "analyzing-powershell-empire-artifacts",
+      "name": "analyzing-powershell-empire-artifacts",
+      "description": "Detect PowerShell Empire framework artifacts in Windows event logs by identifying Base64 encoded launcher patterns, default user agents, staging URL structures, stager IOCs, and known Empire module signatures in Script Block Logging events.",
+      "category": "security",
+      "tags": [
+        "PowerShell-Empire",
+        "threat-hunting",
+        "Script-Block-Logging",
+        "base64",
+        "stager",
+        "C2",
+        "MITRE-ATT&CK",
+        "T1059.001",
+        "forensics"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "analyzing-powershell-empire-artifacts",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "analyzing-ransomware-network-indicators",
+      "name": "analyzing-ransomware-network-indicators",
+      "description": "Identify ransomware network indicators including C2 beaconing patterns, TOR exit node connections, data exfiltration flows, and encryption key exchange via Zeek conn.log and NetFlow analysis",
+      "category": "security",
+      "tags": [
+        "ransomware",
+        "c2-beaconing",
+        "zeek",
+        "netflow",
+        "tor",
+        "exfiltration",
+        "network-forensics"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "analyzing-ransomware-network-indicators",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "building-threat-hunt-hypothesis-framework",
+      "name": "building-threat-hunt-hypothesis-framework",
+      "description": "Build a systematic threat hunt hypothesis framework that transforms threat intelligence, attack patterns, and environmental data into testable hunting hypotheses.",
+      "category": "security",
+      "tags": [
+        "threat-hunting",
+        "methodology",
+        "hypothesis",
+        "threat-intelligence",
+        "hunting-framework",
+        "proactive-detection"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "building-threat-hunt-hypothesis-framework",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "detecting-credential-dumping-techniques",
+      "name": "detecting-credential-dumping-techniques",
+      "description": "Detect LSASS credential dumping, SAM database extraction, and NTDS.dit theft using Sysmon Event ID 10, Windows Security logs, and SIEM correlation rules",
+      "category": "security",
+      "tags": [],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "detecting-credential-dumping-techniques",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "detecting-credential-dumping-with-edr",
+      "name": "detecting-credential-dumping-with-edr",
+      "description": "Detect OS credential dumping techniques including LSASS access, SAM extraction, and DCSync using EDR telemetry and Sysmon logs.",
+      "category": "security",
+      "tags": [
+        "threat-hunting",
+        "mitre-attack",
+        "credential-dumping",
+        "edr",
+        "lsass",
+        "t1003",
+        "proactive-detection"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "detecting-credential-dumping-with-edr",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "detecting-dcsync-attack-in-active-directory",
+      "name": "detecting-dcsync-attack-in-active-directory",
+      "description": "Detect DCSync attacks where adversaries abuse Active Directory replication privileges to extract password hashes by monitoring for non-domain-controller accounts requesting directory replication via DsGetNCChanges.",
+      "category": "security",
+      "tags": [
+        "threat-hunting",
+        "active-directory",
+        "dcsync",
+        "credential-theft",
+        "mitre-t1003-006",
+        "mimikatz",
+        "kerberos"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "detecting-dcsync-attack-in-active-directory",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "detecting-dll-sideloading-attacks",
+      "name": "detecting-dll-sideloading-attacks",
+      "description": "Detect DLL side-loading attacks where adversaries place malicious DLLs alongside legitimate applications to hijack execution flow for defense evasion.",
+      "category": "security",
+      "tags": [
+        "threat-hunting",
+        "mitre-attack",
+        "dll-sideloading",
+        "defense-evasion",
+        "t1574",
+        "edr",
+        "proactive-detection"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "detecting-dll-sideloading-attacks",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "detecting-email-forwarding-rules-attack",
+      "name": "detecting-email-forwarding-rules-attack",
+      "description": "Detect malicious email forwarding rules created by adversaries to maintain persistent access to email communications for intelligence collection and BEC attacks.",
+      "category": "security",
+      "tags": [
+        "threat-hunting",
+        "mitre-attack",
+        "email-forwarding",
+        "persistence",
+        "bec",
+        "t1114",
+        "proactive-detection"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "detecting-email-forwarding-rules-attack",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "detecting-golden-ticket-attacks-in-kerberos-logs",
+      "name": "detecting-golden-ticket-attacks-in-kerberos-logs",
+      "description": "Detect Golden Ticket attacks in Active Directory by analyzing Kerberos TGT anomalies including mismatched encryption types, impossible ticket lifetimes, non-existent accounts, and forged PAC signatures in domain controller event logs.",
+      "category": "security",
+      "tags": [
+        "threat-hunting",
+        "golden-ticket",
+        "kerberos",
+        "active-directory",
+        "mitre-t1558-001",
+        "credential-abuse"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "detecting-golden-ticket-attacks-in-kerberos-logs",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "detecting-golden-ticket-forgery",
+      "name": "detecting-golden-ticket-forgery",
+      "description": "Detect Kerberos Golden Ticket forgery by analyzing Windows Event ID 4769 for RC4 encryption downgrades (0x17), abnormal ticket lifetimes, and krbtgt account anomalies in Splunk and Elastic SIEM",
+      "category": "security",
+      "tags": [],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "detecting-golden-ticket-forgery",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "detecting-insider-threat-behaviors",
+      "name": "detecting-insider-threat-behaviors",
+      "description": "Detect insider threat behavioral indicators including unusual data access, off-hours activity, mass file downloads, privilege abuse, and resignation-correlated data theft.",
+      "category": "security",
+      "tags": [
+        "threat-hunting",
+        "mitre-attack",
+        "insider-threat",
+        "data-theft",
+        "ueba",
+        "proactive-detection"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "detecting-insider-threat-behaviors",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "detecting-insider-threat-with-ueba",
+      "name": "detecting-insider-threat-with-ueba",
+      "description": "Implement User and Entity Behavior Analytics using Elasticsearch/OpenSearch to build behavioral baselines, calculate anomaly scores, perform peer group analysis, and detect insider threat indicators such as data exfiltration, privilege abuse, and unauthorized access patterns.",
+      "category": "security",
+      "tags": [
+        "ueba",
+        "insider-threat",
+        "anomaly-detection",
+        "elasticsearch",
+        "behavior-analytics",
+        "machine-learning",
+        "siem"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "detecting-insider-threat-with-ueba",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "detecting-kerberoasting-attacks",
+      "name": "detecting-kerberoasting-attacks",
+      "description": "Detect Kerberoasting attacks by monitoring for anomalous Kerberos TGS requests targeting service accounts with SPNs for offline password cracking.",
+      "category": "security",
+      "tags": [
+        "threat-hunting",
+        "mitre-attack",
+        "kerberoasting",
+        "credential-access",
+        "kerberos",
+        "t1558",
+        "proactive-detection"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "detecting-kerberoasting-attacks",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "detecting-lateral-movement-with-splunk",
+      "name": "detecting-lateral-movement-with-splunk",
+      "description": "Detect adversary lateral movement across networks using Splunk SPL queries against Windows authentication logs, SMB traffic, and remote service abuse.",
+      "category": "security",
+      "tags": [
+        "threat-hunting",
+        "mitre-attack",
+        "lateral-movement",
+        "splunk",
+        "siem",
+        "proactive-detection",
+        "ta0008"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "detecting-lateral-movement-with-splunk",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "detecting-living-off-the-land-attacks",
+      "name": "detecting-living-off-the-land-attacks",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "lolbins",
+        "lotl",
+        "fileless-attacks",
+        "process-monitoring"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "detecting-living-off-the-land-attacks",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "detecting-living-off-the-land-with-lolbas",
+      "name": "detecting-living-off-the-land-with-lolbas",
+      "description": "Detect Living Off the Land Binaries (LOLBins/LOLBAS) abuse including certutil, regsvr32, mshta, and rundll32 via process telemetry, Sigma rules, and parent-child process analysis",
+      "category": "security",
+      "tags": [
+        "lolbas",
+        "lolbins",
+        "sigma-rules",
+        "process-monitoring",
+        "sysmon",
+        "endpoint-detection",
+        "threat-hunting"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "detecting-living-off-the-land-with-lolbas",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "detecting-malicious-scheduled-tasks-with-sysmon",
+      "name": "detecting-malicious-scheduled-tasks-with-sysmon",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "sysmon",
+        "scheduled-tasks",
+        "persistence",
+        "detection",
+        "threat-hunting",
+        "windows-security"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "detecting-malicious-scheduled-tasks-with-sysmon",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "detecting-mimikatz-execution-patterns",
+      "name": "detecting-mimikatz-execution-patterns",
+      "description": "Detect Mimikatz execution through command-line patterns, LSASS access signatures, binary indicators, and in-memory detection of known modules.",
+      "category": "security",
+      "tags": [
+        "threat-hunting",
+        "mitre-attack",
+        "mimikatz",
+        "credential-dumping",
+        "edr",
+        "t1003",
+        "proactive-detection"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "detecting-mimikatz-execution-patterns",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "detecting-pass-the-hash-attacks",
+      "name": "detecting-pass-the-hash-attacks",
+      "description": "Detect Pass-the-Hash attacks by analyzing NTLM authentication patterns, identifying Type 3 logons with NTLM where Kerberos is expected, and correlating with credential dumping.",
+      "category": "security",
+      "tags": [
+        "threat-hunting",
+        "mitre-attack",
+        "pass-the-hash",
+        "credential-access",
+        "t1550",
+        "proactive-detection"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "detecting-pass-the-hash-attacks",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "detecting-pass-the-ticket-attacks",
+      "name": "detecting-pass-the-ticket-attacks",
+      "description": "Detect Kerberos Pass-the-Ticket (PtT) attacks by analyzing Windows Event IDs 4768, 4769, and 4771 for anomalous ticket usage patterns in Splunk and Elastic SIEM",
+      "category": "security",
+      "tags": [],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "detecting-pass-the-ticket-attacks",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "detecting-privilege-escalation-attempts",
+      "name": "detecting-privilege-escalation-attempts",
+      "description": "Detect privilege escalation attempts including token manipulation, UAC bypass, unquoted service paths, kernel exploits, and sudo/doas abuse across Windows and Linux.",
+      "category": "security",
+      "tags": [
+        "threat-hunting",
+        "mitre-attack",
+        "privilege-escalation",
+        "token-manipulation",
+        "uac-bypass",
+        "proactive-detection"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "detecting-privilege-escalation-attempts",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "detecting-process-hollowing-technique",
+      "name": "detecting-process-hollowing-technique",
+      "description": "Detect process hollowing (T1055.012) by analyzing memory-mapped sections, hollowed process indicators, and parent-child process anomalies in EDR telemetry.",
+      "category": "security",
+      "tags": [
+        "threat-hunting",
+        "mitre-attack",
+        "process-hollowing",
+        "process-injection",
+        "edr",
+        "t1055",
+        "proactive-detection"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "detecting-process-hollowing-technique",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "detecting-rdp-brute-force-attacks",
+      "name": "detecting-rdp-brute-force-attacks",
+      "description": "Detect RDP brute force attacks by analyzing Windows Security Event Logs for failed authentication patterns (Event ID 4625), successful logons after failures (Event ID 4624), NLA failures, and source IP frequency analysis.",
+      "category": "security",
+      "tags": [
+        "threat-detection",
+        "rdp",
+        "brute-force",
+        "windows-event-logs",
+        "blue-team",
+        "siem"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "detecting-rdp-brute-force-attacks",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "detecting-service-account-abuse",
+      "name": "detecting-service-account-abuse",
+      "description": "Detect abuse of service accounts through anomalous interactive logons, privilege escalation, lateral movement, and unauthorized access patterns.",
+      "category": "security",
+      "tags": [
+        "threat-hunting",
+        "mitre-attack",
+        "service-accounts",
+        "privilege-escalation",
+        "t1078",
+        "proactive-detection"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "detecting-service-account-abuse",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "detecting-suspicious-powershell-execution",
+      "name": "detecting-suspicious-powershell-execution",
+      "description": "Detect suspicious PowerShell execution patterns including encoded commands, download cradles, AMSI bypass attempts, and constrained language mode evasion.",
+      "category": "security",
+      "tags": [
+        "threat-hunting",
+        "mitre-attack",
+        "powershell",
+        "execution",
+        "t1059",
+        "amsi",
+        "proactive-detection"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "detecting-suspicious-powershell-execution",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "detecting-t1003-credential-dumping-with-edr",
+      "name": "detecting-t1003-credential-dumping-with-edr",
+      "description": "Detect OS credential dumping techniques targeting LSASS memory, SAM database, NTDS.dit, and cached credentials using EDR telemetry, Sysmon process access monitoring, and Windows security event correlation.",
+      "category": "security",
+      "tags": [
+        "threat-hunting",
+        "credential-dumping",
+        "lsass",
+        "mitre-t1003",
+        "edr",
+        "mimikatz",
+        "ntds",
+        "sam-database"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "detecting-t1003-credential-dumping-with-edr",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "detecting-t1055-process-injection-with-sysmon",
+      "name": "detecting-t1055-process-injection-with-sysmon",
+      "description": "Detect process injection techniques (T1055) including classic DLL injection, process hollowing, and APC injection by analyzing Sysmon events for cross-process memory operations, remote thread creation, and anomalous DLL loading patterns.",
+      "category": "security",
+      "tags": [
+        "threat-hunting",
+        "process-injection",
+        "sysmon",
+        "mitre-t1055",
+        "defense-evasion",
+        "dll-injection",
+        "process-hollowing"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "detecting-t1055-process-injection-with-sysmon",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "detecting-t1548-abuse-elevation-control-mechanism",
+      "name": "detecting-t1548-abuse-elevation-control-mechanism",
+      "description": "Detect abuse of elevation control mechanisms including UAC bypass, sudo exploitation, and setuid/setgid manipulation by monitoring registry modifications, process elevation flags, and unusual parent-child process relationships.",
+      "category": "security",
+      "tags": [
+        "threat-hunting",
+        "uac-bypass",
+        "privilege-escalation",
+        "mitre-t1548",
+        "elevation-control",
+        "windows-security"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "detecting-t1548-abuse-elevation-control-mechanism",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "detecting-wmi-persistence",
+      "name": "detecting-wmi-persistence",
+      "description": "Detect WMI event subscription persistence by analyzing Sysmon Event IDs 19, 20, and 21 for malicious EventFilter, EventConsumer, and FilterToConsumerBinding creation.",
+      "category": "security",
+      "tags": [
+        "threat-hunting",
+        "wmi",
+        "persistence",
+        "sysmon",
+        "t1546.003",
+        "mitre-attack",
+        "windows",
+        "dfir"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "detecting-wmi-persistence",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "hunting-for-anomalous-powershell-execution",
+      "name": "hunting-for-anomalous-powershell-execution",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "powershell",
+        "script-block-logging",
+        "event-4104",
+        "amsi",
+        "threat-hunting",
+        "evtx",
+        "obfuscation"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "hunting-for-anomalous-powershell-execution",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "hunting-for-beaconing-with-frequency-analysis",
+      "name": "hunting-for-beaconing-with-frequency-analysis",
+      "description": "Identify command-and-control beaconing patterns in network traffic by applying statistical frequency analysis, jitter calculation, and coefficient of variation scoring to detect periodic callbacks from compromised endpoints.",
+      "category": "security",
+      "tags": [
+        "threat-hunting",
+        "beaconing",
+        "c2-detection",
+        "frequency-analysis",
+        "network-traffic",
+        "RITA",
+        "jitter-detection",
+        "mitre-t1071"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "hunting-for-beaconing-with-frequency-analysis",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "hunting-for-cobalt-strike-beacons",
+      "name": "hunting-for-cobalt-strike-beacons",
+      "description": "Detect Cobalt Strike beacon network activity using default TLS certificate signatures (serial 8BB00EE), JA3/JA3S/JARM fingerprints, HTTP C2 profile pattern matching, beacon jitter analysis, and named pipe detection via Zeek, Suricata, and Python PCAP analysis.",
+      "category": "security",
+      "tags": [
+        "cobalt-strike",
+        "beacon",
+        "threat-hunting",
+        "c2",
+        "zeek",
+        "suricata",
+        "ja3",
+        "jarm",
+        "network-forensics"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "hunting-for-cobalt-strike-beacons",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "hunting-for-command-and-control-beaconing",
+      "name": "hunting-for-command-and-control-beaconing",
+      "description": "Detect C2 beaconing patterns in network traffic using frequency analysis, jitter detection, and domain reputation to identify compromised endpoints communicating with adversary infrastructure.",
+      "category": "security",
+      "tags": [
+        "threat-hunting",
+        "mitre-attack",
+        "c2",
+        "beaconing",
+        "network-analysis",
+        "proactive-detection"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "hunting-for-command-and-control-beaconing",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "hunting-for-data-exfiltration-indicators",
+      "name": "hunting-for-data-exfiltration-indicators",
+      "description": "Hunt for data exfiltration through network traffic analysis, detecting unusual data flows, DNS tunneling, cloud storage uploads, and encrypted channel abuse.",
+      "category": "security",
+      "tags": [
+        "threat-hunting",
+        "mitre-attack",
+        "data-exfiltration",
+        "dlp",
+        "network-analysis",
+        "proactive-detection"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "hunting-for-data-exfiltration-indicators",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "hunting-for-data-staging-before-exfiltration",
+      "name": "hunting-for-data-staging-before-exfiltration",
+      "description": "Detect data staging activity before exfiltration by monitoring for archive creation with 7-Zip/RAR, unusual temp folder access, large file consolidation, and staging directory patterns via EDR and process telemetry",
+      "category": "security",
+      "tags": [
+        "data-staging",
+        "exfiltration",
+        "t1074",
+        "archive-detection",
+        "edr",
+        "threat-hunting",
+        "dlp"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "hunting-for-data-staging-before-exfiltration",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "hunting-for-dcsync-attacks",
+      "name": "hunting-for-dcsync-attacks",
+      "description": "Detect DCSync attacks by analyzing Windows Event ID 4662 for unauthorized DS-Replication-Get-Changes requests from non-domain-controller accounts.",
+      "category": "security",
+      "tags": [
+        "threat-hunting",
+        "dcsync",
+        "active-directory",
+        "credential-access",
+        "t1003.006",
+        "mimikatz",
+        "windows",
+        "dfir"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "hunting-for-dcsync-attacks",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "hunting-for-defense-evasion-via-timestomping",
+      "name": "hunting-for-defense-evasion-via-timestomping",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "timestomping",
+        "ntfs-forensics",
+        "mft-analysis",
+        "defense-evasion"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "hunting-for-defense-evasion-via-timestomping",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "hunting-for-dns-based-persistence",
+      "name": "hunting-for-dns-based-persistence",
+      "description": "Hunt for DNS-based persistence mechanisms including DNS hijacking, dangling CNAME records, wildcard DNS abuse, and unauthorized zone modifications using passive DNS databases, SecurityTrails API, and DNS audit log analysis.",
+      "category": "security",
+      "tags": [
+        "dns",
+        "persistence",
+        "threat-hunting",
+        "passive-dns",
+        "dns-hijacking",
+        "subdomain-takeover",
+        "securitytrails"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "hunting-for-dns-based-persistence",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "hunting-for-dns-tunneling-with-zeek",
+      "name": "hunting-for-dns-tunneling-with-zeek",
+      "description": "Detect DNS tunneling and data exfiltration by analyzing Zeek dns.log for high-entropy subdomain queries, excessive query volume, long query lengths, and unusual DNS record types indicating covert channel communication.",
+      "category": "security",
+      "tags": [
+        "threat-hunting",
+        "dns-tunneling",
+        "zeek",
+        "data-exfiltration",
+        "covert-channel",
+        "mitre-t1071-004",
+        "network-monitoring"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "hunting-for-dns-tunneling-with-zeek",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "hunting-for-domain-fronting-c2-traffic",
+      "name": "hunting-for-domain-fronting-c2-traffic",
+      "description": "Detect domain fronting C2 traffic by analyzing SNI vs HTTP Host header mismatches in proxy logs and TLS certificate discrepancies using pyOpenSSL for certificate inspection",
+      "category": "security",
+      "tags": [],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "hunting-for-domain-fronting-c2-traffic",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "hunting-for-lateral-movement-via-wmi",
+      "name": "hunting-for-lateral-movement-via-wmi",
+      "description": "Detect WMI-based lateral movement by analyzing Windows Event ID 4688 process creation and Sysmon Event ID 1 for WmiPrvSE.exe child process patterns, remote process execution, and WMI event subscription persistence.",
+      "category": "security",
+      "tags": [
+        "threat-hunting",
+        "lateral-movement",
+        "wmi",
+        "sysmon",
+        "mitre-attack",
+        "process-creation"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "hunting-for-lateral-movement-via-wmi",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "hunting-for-living-off-the-cloud-techniques",
+      "name": "hunting-for-living-off-the-cloud-techniques",
+      "description": "Hunt for adversary abuse of legitimate cloud services for C2, data staging, and exfiltration including abuse of Azure, AWS, GCP services, and SaaS platforms.",
+      "category": "security",
+      "tags": [
+        "threat-hunting",
+        "mitre-attack",
+        "cloud-abuse",
+        "c2",
+        "lotc",
+        "saas",
+        "proactive-detection"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "hunting-for-living-off-the-cloud-techniques",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "hunting-for-living-off-the-land-binaries",
+      "name": "hunting-for-living-off-the-land-binaries",
+      "description": "Proactively hunt for adversary abuse of legitimate system binaries (LOLBins) to execute malicious payloads while evading detection.",
+      "category": "security",
+      "tags": [
+        "threat-hunting",
+        "mitre-attack",
+        "lolbins",
+        "edr",
+        "siem",
+        "proactive-detection",
+        "defense-evasion"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "hunting-for-living-off-the-land-binaries",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "hunting-for-lolbins-execution-in-endpoint-logs",
+      "name": "hunting-for-lolbins-execution-in-endpoint-logs",
+      "description": "Hunt for adversary abuse of Living Off the Land Binaries (LOLBins) by analyzing endpoint process creation logs for suspicious execution patterns of legitimate Windows system binaries used for malicious purposes.",
+      "category": "security",
+      "tags": [
+        "threat-hunting",
+        "lolbins",
+        "living-off-the-land",
+        "endpoint-detection",
+        "process-monitoring",
+        "mitre-t1218",
+        "defense-evasion"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "hunting-for-lolbins-execution-in-endpoint-logs",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "hunting-for-ntlm-relay-attacks",
+      "name": "hunting-for-ntlm-relay-attacks",
+      "description": "Detect NTLM relay attacks by analyzing Windows Event 4624 logon type 3 with NTLMSSP authentication, identifying IP-to-hostname mismatches, Responder traffic signatures, SMB signing status, and suspicious authentication patterns across the domain.",
+      "category": "security",
+      "tags": [
+        "NTLM-relay",
+        "Windows-events",
+        "Event-4624",
+        "NTLMSSP",
+        "Responder",
+        "SMB-signing",
+        "credential-access",
+        "T1557.001",
+        "Active-Directory"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "hunting-for-ntlm-relay-attacks",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "hunting-for-persistence-mechanisms-in-windows",
+      "name": "hunting-for-persistence-mechanisms-in-windows",
+      "description": "Systematically hunt for adversary persistence mechanisms across Windows endpoints including registry, services, startup folders, and WMI subscriptions.",
+      "category": "security",
+      "tags": [
+        "threat-hunting",
+        "mitre-attack",
+        "persistence",
+        "windows",
+        "registry",
+        "siem",
+        "proactive-detection"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "hunting-for-persistence-mechanisms-in-windows",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "hunting-for-persistence-via-wmi-subscriptions",
+      "name": "hunting-for-persistence-via-wmi-subscriptions",
+      "description": "Hunt for adversary persistence through Windows Management Instrumentation event subscriptions by monitoring WMI consumer, filter, and binding creation events that execute malicious code triggered by system events.",
+      "category": "security",
+      "tags": [
+        "threat-hunting",
+        "wmi-persistence",
+        "mitre-t1546-003",
+        "event-subscription",
+        "windows",
+        "endpoint-detection"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "hunting-for-persistence-via-wmi-subscriptions",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "hunting-for-process-injection-techniques",
+      "name": "hunting-for-process-injection-techniques",
+      "description": "Detect process injection techniques (T1055) including CreateRemoteThread, process hollowing, and DLL injection via Sysmon Event IDs 8 and 10 and EDR process telemetry",
+      "category": "security",
+      "tags": [
+        "process-injection",
+        "t1055",
+        "sysmon",
+        "createremotethread",
+        "dll-injection",
+        "edr",
+        "threat-hunting"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "hunting-for-process-injection-techniques",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "hunting-for-registry-persistence-mechanisms",
+      "name": "hunting-for-registry-persistence-mechanisms",
+      "description": "Hunt for registry-based persistence mechanisms including Run keys, Winlogon modifications, IFEO injection, and COM hijacking in Windows environments.",
+      "category": "security",
+      "tags": [
+        "threat-hunting",
+        "mitre-attack",
+        "registry",
+        "persistence",
+        "windows",
+        "t1547",
+        "proactive-detection"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "hunting-for-registry-persistence-mechanisms",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "hunting-for-registry-run-key-persistence",
+      "name": "hunting-for-registry-run-key-persistence",
+      "description": "Detect MITRE ATT&CK T1547.001 registry Run key persistence by analyzing Sysmon Event ID 13 logs and registry queries to identify malicious auto-start entries.",
+      "category": "security",
+      "tags": [
+        "persistence",
+        "registry-run-keys",
+        "t1547-001",
+        "sysmon",
+        "threat-hunting",
+        "windows-forensics",
+        "mitre-attack"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "hunting-for-registry-run-key-persistence",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "hunting-for-scheduled-task-persistence",
+      "name": "hunting-for-scheduled-task-persistence",
+      "description": "Hunt for adversary persistence via Windows Scheduled Tasks by analyzing task creation events, suspicious task actions, and unusual scheduling patterns.",
+      "category": "security",
+      "tags": [
+        "threat-hunting",
+        "mitre-attack",
+        "scheduled-tasks",
+        "persistence",
+        "t1053",
+        "proactive-detection"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "hunting-for-scheduled-task-persistence",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "hunting-for-shadow-copy-deletion",
+      "name": "hunting-for-shadow-copy-deletion",
+      "description": "Hunt for Volume Shadow Copy deletion activity that indicates ransomware preparation or anti-forensics by monitoring vssadmin, wmic, and PowerShell shadow copy commands.",
+      "category": "security",
+      "tags": [
+        "threat-hunting",
+        "mitre-attack",
+        "shadow-copy",
+        "ransomware",
+        "anti-forensics",
+        "t1490",
+        "proactive-detection"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "hunting-for-shadow-copy-deletion",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "hunting-for-spearphishing-indicators",
+      "name": "hunting-for-spearphishing-indicators",
+      "description": "Hunt for spearphishing campaign indicators across email logs, endpoint telemetry, and network data to detect targeted email attacks.",
+      "category": "security",
+      "tags": [
+        "threat-hunting",
+        "mitre-attack",
+        "spearphishing",
+        "initial-access",
+        "email-security",
+        "t1566",
+        "proactive-detection"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "hunting-for-spearphishing-indicators",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "hunting-for-startup-folder-persistence",
+      "name": "hunting-for-startup-folder-persistence",
+      "description": "Detect T1547.001 startup folder persistence by monitoring Windows startup directories for suspicious file creation, analyzing autoruns entries, and using Python watchdog for real-time filesystem monitoring.",
+      "category": "security",
+      "tags": [
+        "threat-hunting",
+        "T1547.001",
+        "startup-folder",
+        "persistence",
+        "autoruns",
+        "watchdog",
+        "filesystem-monitoring"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "hunting-for-startup-folder-persistence",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "hunting-for-supply-chain-compromise",
+      "name": "hunting-for-supply-chain-compromise",
+      "description": "Hunt for supply chain compromise indicators including trojanized software updates, compromised dependencies, unauthorized code modifications, and tampered build artifacts.",
+      "category": "security",
+      "tags": [
+        "threat-hunting",
+        "mitre-attack",
+        "supply-chain",
+        "initial-access",
+        "t1195",
+        "proactive-detection"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "hunting-for-supply-chain-compromise",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "hunting-for-suspicious-scheduled-tasks",
+      "name": "hunting-for-suspicious-scheduled-tasks",
+      "description": "Hunt for adversary persistence and execution via Windows scheduled tasks by analyzing task creation events, suspicious task properties, and unusual execution patterns that indicate T1053.005 abuse.",
+      "category": "security",
+      "tags": [
+        "threat-hunting",
+        "scheduled-tasks",
+        "persistence",
+        "mitre-t1053-005",
+        "windows",
+        "endpoint-detection"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "hunting-for-suspicious-scheduled-tasks",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "hunting-for-t1098-account-manipulation",
+      "name": "hunting-for-t1098-account-manipulation",
+      "description": "Hunt for MITRE ATT&CK T1098 account manipulation including shadow admin creation, SID history injection, group membership changes, and credential modifications using Windows Security Event Logs.",
+      "category": "security",
+      "tags": [
+        "threat-hunting",
+        "mitre-attack",
+        "t1098",
+        "account-manipulation",
+        "active-directory",
+        "persistence"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "hunting-for-t1098-account-manipulation",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "hunting-for-unusual-network-connections",
+      "name": "hunting-for-unusual-network-connections",
+      "description": "Hunt for unusual network connections by analyzing outbound traffic patterns, rare destinations, non-standard ports, and anomalous connection frequencies from endpoints.",
+      "category": "security",
+      "tags": [
+        "threat-hunting",
+        "mitre-attack",
+        "network-analysis",
+        "c2",
+        "anomaly-detection",
+        "proactive-detection"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "hunting-for-unusual-network-connections",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "hunting-for-unusual-service-installations",
+      "name": "hunting-for-unusual-service-installations",
+      "description": "Detect suspicious Windows service installations (MITRE ATT&CK T1543.003) by parsing System event logs for Event ID 7045, analyzing service binary paths, and identifying indicators of persistence mechanisms.",
+      "category": "security",
+      "tags": [
+        "threat-hunting",
+        "T1543.003",
+        "service-installation",
+        "persistence",
+        "Event-7045",
+        "Sysmon",
+        "Windows-services"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "hunting-for-unusual-service-installations",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "hunting-for-webshell-activity",
+      "name": "hunting-for-webshell-activity",
+      "description": "Hunt for web shell deployments on internet-facing servers by analyzing file creation in web directories, suspicious process spawning from web servers, and anomalous HTTP patterns.",
+      "category": "security",
+      "tags": [
+        "threat-hunting",
+        "mitre-attack",
+        "webshell",
+        "persistence",
+        "web-server",
+        "t1505",
+        "proactive-detection"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "hunting-for-webshell-activity",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "performing-threat-hunting-with-yara-rules",
+      "name": "performing-threat-hunting-with-yara-rules",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "yara",
+        "malware-detection",
+        "threat-hunting",
+        "pattern-matching"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "performing-threat-hunting-with-yara-rules",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
     }
   ],
   "categories": [
