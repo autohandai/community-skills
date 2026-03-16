@@ -8456,6 +8456,65 @@
       "license": "Apache-2.0",
       "author": "mukul975",
       "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "implementing-deception-based-detection-with-canarytoken",
+      "name": "implementing-deception-based-detection-with-canarytoken",
+      "description": "Deploy and monitor Canary Tokens via the Thinkst Canary API for deception-based breach detection using web bug tokens, DNS tokens, document tokens, and AWS key tokens.",
+      "category": "security",
+      "tags": [
+        "canarytoken",
+        "deception",
+        "honeytokens",
+        "breach-detection",
+        "Thinkst-Canary",
+        "tripwire",
+        "early-warning"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "implementing-deception-based-detection-with-canarytoken",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "implementing-network-deception-with-honeypots",
+      "name": "implementing-network-deception-with-honeypots",
+      "description": "Deploy and manage network honeypots using OpenCanary, T-Pot, or Cowrie to detect unauthorized access, lateral movement, and attacker reconnaissance.",
+      "category": "security",
+      "tags": [
+        "deception",
+        "honeypot",
+        "opencanary",
+        "cowrie",
+        "t-pot",
+        "detection",
+        "lateral-movement",
+        "network-security"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "implementing-network-deception-with-honeypots",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
     }
   ],
   "categories": [
