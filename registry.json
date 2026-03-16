@@ -16336,6 +16336,475 @@
       "license": "Apache-2.0",
       "author": "mukul975",
       "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "analyzing-malicious-url-with-urlscan",
+      "name": "analyzing-malicious-url-with-urlscan",
+      "description": "URLScan.io is a free service for scanning and analyzing suspicious URLs. It captures screenshots, DOM content, HTTP transactions, JavaScript behavior, and network connections of web pages in an isolat",
+      "category": "security",
+      "tags": [
+        "phishing",
+        "email-security",
+        "social-engineering",
+        "dmarc",
+        "awareness",
+        "url-analysis",
+        "threat-intelligence"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "analyzing-malicious-url-with-urlscan",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "analyzing-phishing-email-headers",
+      "name": "analyzing-phishing-email-headers",
+      "description": "Email headers contain critical metadata that reveals the true origin, routing path, and authentication status of emails. Analyzing these headers is a foundational skill for identifying phishing attemp",
+      "category": "security",
+      "tags": [
+        "phishing",
+        "email-security",
+        "social-engineering",
+        "dmarc",
+        "awareness",
+        "header-analysis",
+        "forensics"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "analyzing-phishing-email-headers",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "building-phishing-reporting-button-workflow",
+      "name": "building-phishing-reporting-button-workflow",
+      "description": "Implement a phishing report button in email clients with automated triage workflow that analyzes user-reported suspicious emails and provides feedback to reporters.",
+      "category": "security",
+      "tags": [
+        "phishing-reporting",
+        "email-security",
+        "incident-response",
+        "security-awareness",
+        "outlook",
+        "microsoft-365",
+        "soar"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "building-phishing-reporting-button-workflow",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "detecting-business-email-compromise",
+      "name": "detecting-business-email-compromise",
+      "description": "Business Email Compromise (BEC) is a sophisticated fraud scheme where attackers impersonate executives, vendors, or trusted partners to trick employees into transferring funds, sharing sensitive data,",
+      "category": "security",
+      "tags": [
+        "phishing",
+        "email-security",
+        "social-engineering",
+        "dmarc",
+        "awareness",
+        "bec",
+        "fraud"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "detecting-business-email-compromise",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "detecting-business-email-compromise-with-ai",
+      "name": "detecting-business-email-compromise-with-ai",
+      "description": "Deploy AI and NLP-powered detection systems to identify business email compromise attacks by analyzing writing style, behavioral patterns, and contextual anomalies that evade traditional rule-based filters.",
+      "category": "security",
+      "tags": [
+        "bec",
+        "ai",
+        "nlp",
+        "machine-learning",
+        "email-security",
+        "behavioral-analytics",
+        "impersonation",
+        "fraud-detection"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "detecting-business-email-compromise-with-ai",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "detecting-qr-code-phishing-with-email-security",
+      "name": "detecting-qr-code-phishing-with-email-security",
+      "description": "Detect and prevent QR code phishing (quishing) attacks that bypass traditional email security by embedding malicious URLs in QR code images within emails.",
+      "category": "security",
+      "tags": [
+        "quishing",
+        "qr-code",
+        "phishing",
+        "email-security",
+        "image-analysis",
+        "ocr",
+        "mobile-security"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "detecting-qr-code-phishing-with-email-security",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "detecting-spearphishing-with-email-gateway",
+      "name": "detecting-spearphishing-with-email-gateway",
+      "description": "Spearphishing targets specific individuals using personalized, researched content that bypasses generic spam filters. Email security gateways (SEGs) like Microsoft Defender for Office 365, Proofpoint,",
+      "category": "security",
+      "tags": [
+        "phishing",
+        "email-security",
+        "social-engineering",
+        "dmarc",
+        "awareness",
+        "spearphishing",
+        "email-gateway"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "detecting-spearphishing-with-email-gateway",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "implementing-anti-phishing-training-program",
+      "name": "implementing-anti-phishing-training-program",
+      "description": "Security awareness training is the human layer of phishing defense. An effective anti-phishing training program combines regular simulations, interactive learning modules, metric tracking, and positiv",
+      "category": "security",
+      "tags": [
+        "phishing",
+        "email-security",
+        "social-engineering",
+        "dmarc",
+        "awareness",
+        "training",
+        "security-culture"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "implementing-anti-phishing-training-program",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "implementing-dmarc-dkim-spf-email-security",
+      "name": "implementing-dmarc-dkim-spf-email-security",
+      "description": "SPF, DKIM, and DMARC form the three pillars of email authentication. Together they prevent domain spoofing, validate message integrity, and define policies for handling unauthenticated mail. Proper im",
+      "category": "security",
+      "tags": [
+        "phishing",
+        "email-security",
+        "social-engineering",
+        "dmarc",
+        "awareness",
+        "dkim",
+        "spf",
+        "dns"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "implementing-dmarc-dkim-spf-email-security",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "implementing-email-sandboxing-with-proofpoint",
+      "name": "implementing-email-sandboxing-with-proofpoint",
+      "description": "Email sandboxing detonates suspicious attachments and URLs in isolated environments to detect zero-day malware and evasive phishing payloads. Proofpoint Targeted Attack Protection (TAP) is an industry",
+      "category": "security",
+      "tags": [
+        "phishing",
+        "email-security",
+        "social-engineering",
+        "dmarc",
+        "awareness",
+        "sandboxing",
+        "proofpoint"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "implementing-email-sandboxing-with-proofpoint",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "implementing-google-workspace-phishing-protection",
+      "name": "implementing-google-workspace-phishing-protection",
+      "description": "Configure Google Workspace advanced phishing and malware protection settings including pre-delivery scanning, attachment protection, spoofing detection, and Enhanced Safe Browsing.",
+      "category": "security",
+      "tags": [
+        "google-workspace",
+        "gmail",
+        "phishing",
+        "email-security",
+        "safe-browsing",
+        "anti-spoofing",
+        "admin-console"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "implementing-google-workspace-phishing-protection",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "implementing-mimecast-targeted-attack-protection",
+      "name": "implementing-mimecast-targeted-attack-protection",
+      "description": "Deploy Mimecast Targeted Threat Protection including URL Protect, Attachment Protect, Impersonation Protect, and Internal Email Protect to defend against advanced phishing and spearphishing attacks.",
+      "category": "security",
+      "tags": [
+        "mimecast",
+        "email-security",
+        "targeted-threat-protection",
+        "url-protect",
+        "impersonation",
+        "attachment-sandboxing",
+        "phishing"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "implementing-mimecast-targeted-attack-protection",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "implementing-proofpoint-email-security-gateway",
+      "name": "implementing-proofpoint-email-security-gateway",
+      "description": "Deploy and configure Proofpoint Email Protection as a secure email gateway to detect and block phishing, malware, BEC, and spam before messages reach user inboxes.",
+      "category": "security",
+      "tags": [
+        "email-security",
+        "proofpoint",
+        "secure-email-gateway",
+        "phishing",
+        "anti-spam",
+        "anti-malware",
+        "bec",
+        "email-filtering"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "implementing-proofpoint-email-security-gateway",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "performing-adversary-in-the-middle-phishing-detection",
+      "name": "performing-adversary-in-the-middle-phishing-detection",
+      "description": "Detect and respond to Adversary-in-the-Middle (AiTM) phishing attacks that use reverse proxy kits like EvilProxy, Evilginx, and Tycoon 2FA to bypass MFA and steal session tokens.",
+      "category": "security",
+      "tags": [
+        "aitm",
+        "evilproxy",
+        "evilginx",
+        "phishing",
+        "mfa-bypass",
+        "session-hijacking",
+        "reverse-proxy",
+        "credential-theft"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "performing-adversary-in-the-middle-phishing-detection",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "performing-dmarc-policy-enforcement-rollout",
+      "name": "performing-dmarc-policy-enforcement-rollout",
+      "description": "Execute a phased DMARC rollout from p=none monitoring through p=quarantine to p=reject enforcement, ensuring all legitimate email sources are authenticated before blocking unauthorized senders.",
+      "category": "security",
+      "tags": [
+        "dmarc",
+        "spf",
+        "dkim",
+        "email-authentication",
+        "anti-spoofing",
+        "phishing",
+        "dns",
+        "email-security"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "performing-dmarc-policy-enforcement-rollout",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "performing-phishing-simulation-with-gophish",
+      "name": "performing-phishing-simulation-with-gophish",
+      "description": "GoPhish is an open-source phishing simulation framework used by security teams to conduct authorized phishing awareness campaigns. It provides campaign management, email template creation, landing pag",
+      "category": "security",
+      "tags": [
+        "phishing",
+        "email-security",
+        "social-engineering",
+        "dmarc",
+        "awareness",
+        "gophish",
+        "simulation"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "performing-phishing-simulation-with-gophish",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
     }
   ],
   "categories": [
