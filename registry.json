@@ -21454,6 +21454,1469 @@
       "license": "Apache-2.0",
       "author": "mukul975",
       "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "analyzing-apt-group-with-mitre-navigator",
+      "name": "analyzing-apt-group-with-mitre-navigator",
+      "description": "Analyze advanced persistent threat (APT) group techniques using MITRE ATT&CK Navigator to create layered heatmaps of adversary TTPs for detection gap analysis and threat-informed defense.",
+      "category": "security",
+      "tags": [
+        "mitre-attack",
+        "navigator",
+        "apt",
+        "threat-actor",
+        "ttp-analysis",
+        "heatmap",
+        "detection-gap",
+        "threat-intelligence"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "analyzing-apt-group-with-mitre-navigator",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "analyzing-campaign-attribution-evidence",
+      "name": "analyzing-campaign-attribution-evidence",
+      "description": "Campaign attribution analysis involves systematically evaluating evidence to determine which threat actor or group is responsible for a cyber operation. This skill covers collecting and weighting attr",
+      "category": "security",
+      "tags": [
+        "threat-intelligence",
+        "cti",
+        "ioc",
+        "mitre-attack",
+        "stix",
+        "attribution",
+        "campaign-analysis"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "analyzing-campaign-attribution-evidence",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "analyzing-certificate-transparency-for-phishing",
+      "name": "analyzing-certificate-transparency-for-phishing",
+      "description": "Monitor Certificate Transparency logs using crt.sh and Certstream to detect phishing domains, lookalike certificates, and unauthorized certificate issuance targeting your organization.",
+      "category": "security",
+      "tags": [
+        "certificate-transparency",
+        "ct-logs",
+        "phishing",
+        "crt-sh",
+        "certstream",
+        "ssl",
+        "domain-monitoring",
+        "threat-intelligence"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "analyzing-certificate-transparency-for-phishing",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "analyzing-cyber-kill-chain",
+      "name": "analyzing-cyber-kill-chain",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "kill-chain",
+        "Lockheed-Martin",
+        "MITRE-ATT&CK",
+        "intrusion-analysis",
+        "defense-in-depth",
+        "NIST-CSF"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "analyzing-cyber-kill-chain",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "analyzing-indicators-of-compromise",
+      "name": "analyzing-indicators-of-compromise",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "IOC",
+        "VirusTotal",
+        "AbuseIPDB",
+        "MalwareBazaar",
+        "MISP",
+        "threat-intelligence",
+        "STIX",
+        "NIST-CSF"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "analyzing-indicators-of-compromise",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "analyzing-malware-family-relationships-with-malpedia",
+      "name": "analyzing-malware-family-relationships-with-malpedia",
+      "description": "Use the Malpedia platform and API to research malware family relationships, track variant evolution, link families to threat actors, and integrate YARA rules for detection across malware lineages.",
+      "category": "security",
+      "tags": [
+        "malpedia",
+        "malware-family",
+        "yara",
+        "threat-actor",
+        "malware-tracking",
+        "threat-intelligence",
+        "variant-analysis",
+        "malware-intelligence"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "analyzing-malware-family-relationships-with-malpedia",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "analyzing-ransomware-leak-site-intelligence",
+      "name": "analyzing-ransomware-leak-site-intelligence",
+      "description": "Monitor and analyze ransomware group data leak sites (DLS) to track victim postings, extract threat intelligence on group tactics, and assess sector-specific ransomware risk for proactive defense.",
+      "category": "security",
+      "tags": [
+        "ransomware",
+        "leak-site",
+        "data-leak",
+        "extortion",
+        "threat-intelligence",
+        "monitoring",
+        "dls",
+        "victim-tracking"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "analyzing-ransomware-leak-site-intelligence",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "analyzing-threat-actor-ttps-with-mitre-attack",
+      "name": "analyzing-threat-actor-ttps-with-mitre-attack",
+      "description": "MITRE ATT&CK is a globally-accessible knowledge base of adversary tactics, techniques, and procedures (TTPs) based on real-world observations. This skill covers systematically mapping threat actor beh",
+      "category": "security",
+      "tags": [
+        "threat-intelligence",
+        "cti",
+        "ioc",
+        "mitre-attack",
+        "stix",
+        "ttp-analysis",
+        "threat-actors"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "analyzing-threat-actor-ttps-with-mitre-attack",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "analyzing-threat-actor-ttps-with-mitre-navigator",
+      "name": "analyzing-threat-actor-ttps-with-mitre-navigator",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "mitre-attack",
+        "navigator",
+        "threat-intelligence",
+        "apt",
+        "ttp-mapping",
+        "stix",
+        "attackcti"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "analyzing-threat-actor-ttps-with-mitre-navigator",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "analyzing-threat-intelligence-feeds",
+      "name": "analyzing-threat-intelligence-feeds",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "STIX",
+        "TAXII",
+        "MITRE-ATT&CK",
+        "IOC",
+        "ThreatConnect",
+        "Recorded-Future",
+        "MISP",
+        "CTI",
+        "NIST-CSF"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "analyzing-threat-intelligence-feeds",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "analyzing-threat-landscape-with-misp",
+      "name": "analyzing-threat-landscape-with-misp",
+      "description": ">-",
+      "category": "security",
+      "tags": [
+        "analyzing",
+        "threat",
+        "landscape",
+        "with"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "analyzing-threat-landscape-with-misp",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "analyzing-typosquatting-domains-with-dnstwist",
+      "name": "analyzing-typosquatting-domains-with-dnstwist",
+      "description": "Detect typosquatting, homograph phishing, and brand impersonation domains using dnstwist to generate domain permutations and identify registered lookalike domains targeting your organization.",
+      "category": "security",
+      "tags": [
+        "dnstwist",
+        "typosquatting",
+        "phishing",
+        "domain-monitoring",
+        "brand-protection",
+        "homograph",
+        "dns",
+        "threat-intelligence"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "analyzing-typosquatting-domains-with-dnstwist",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "automating-ioc-enrichment",
+      "name": "automating-ioc-enrichment",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "SOAR",
+        "enrichment",
+        "IOC",
+        "Cortex-XSOAR",
+        "Splunk-SOAR",
+        "VirusTotal",
+        "automation",
+        "CTI",
+        "NIST-CSF"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "automating-ioc-enrichment",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "building-adversary-infrastructure-tracking-system",
+      "name": "building-adversary-infrastructure-tracking-system",
+      "description": "Build an automated system to track adversary infrastructure using passive DNS, certificate transparency, WHOIS data, and IP enrichment to map and monitor threat actor command-and-control networks.",
+      "category": "security",
+      "tags": [
+        "infrastructure-tracking",
+        "passive-dns",
+        "c2",
+        "whois",
+        "threat-actor",
+        "pivoting",
+        "threat-intelligence",
+        "domain-analysis"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "building-adversary-infrastructure-tracking-system",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "building-attack-pattern-library-from-cti-reports",
+      "name": "building-attack-pattern-library-from-cti-reports",
+      "description": "Extract and catalog attack patterns from cyber threat intelligence reports into a structured STIX-based library mapped to MITRE ATT&CK for detection engineering and threat-informed defense.",
+      "category": "security",
+      "tags": [
+        "attack-pattern",
+        "cti-reports",
+        "mitre-attack",
+        "stix",
+        "detection-engineering",
+        "threat-intelligence",
+        "nlp",
+        "extraction"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "building-attack-pattern-library-from-cti-reports",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "building-ioc-defanging-and-sharing-pipeline",
+      "name": "building-ioc-defanging-and-sharing-pipeline",
+      "description": "Build an automated pipeline to defang indicators of compromise (URLs, IPs, domains, emails) for safe sharing and distribute them in STIX format through TAXII feeds and threat intelligence platforms.",
+      "category": "security",
+      "tags": [
+        "ioc",
+        "defanging",
+        "threat-sharing",
+        "stix",
+        "pipeline",
+        "indicator",
+        "automation",
+        "threat-intelligence"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "building-ioc-defanging-and-sharing-pipeline",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "building-ioc-enrichment-pipeline-with-opencti",
+      "name": "building-ioc-enrichment-pipeline-with-opencti",
+      "description": "OpenCTI is an open-source platform for managing cyber threat intelligence knowledge, built on STIX 2.1 as its native data model. This skill covers building an automated IOC enrichment pipeline using O",
+      "category": "security",
+      "tags": [
+        "threat-intelligence",
+        "cti",
+        "ioc",
+        "mitre-attack",
+        "stix",
+        "opencti",
+        "enrichment",
+        "virustotal"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "building-ioc-enrichment-pipeline-with-opencti",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "building-threat-actor-profile-from-osint",
+      "name": "building-threat-actor-profile-from-osint",
+      "description": "Build comprehensive threat actor profiles using open-source intelligence (OSINT) techniques to document adversary motivations, capabilities, infrastructure, and TTPs for proactive defense.",
+      "category": "security",
+      "tags": [
+        "osint",
+        "threat-actor",
+        "profiling",
+        "maltego",
+        "spiderfoot",
+        "attribution",
+        "threat-intelligence",
+        "reconnaissance"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "building-threat-actor-profile-from-osint",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "building-threat-feed-aggregation-with-misp",
+      "name": "building-threat-feed-aggregation-with-misp",
+      "description": "Deploy MISP (Malware Information Sharing Platform) to aggregate, correlate, and distribute threat intelligence feeds from multiple sources for centralized IOC management and automated SIEM integration.",
+      "category": "security",
+      "tags": [
+        "misp",
+        "threat-feed",
+        "aggregation",
+        "indicator",
+        "sharing",
+        "correlation",
+        "siem-integration",
+        "threat-intelligence"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "building-threat-feed-aggregation-with-misp",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "building-threat-intelligence-platform",
+      "name": "building-threat-intelligence-platform",
+      "description": "Building a Threat Intelligence Platform (TIP) involves deploying and integrating multiple CTI tools into a unified system for collecting, analyzing, enriching, and disseminating threat intelligence. T",
+      "category": "security",
+      "tags": [
+        "threat-intelligence",
+        "cti",
+        "ioc",
+        "mitre-attack",
+        "stix",
+        "platform-building",
+        "misp",
+        "opencti"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "building-threat-intelligence-platform",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "collecting-open-source-intelligence",
+      "name": "collecting-open-source-intelligence",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "OSINT",
+        "Maltego",
+        "Shodan",
+        "Recon-ng",
+        "SpiderFoot",
+        "threat-intelligence",
+        "ATT&CK-T1591",
+        "NIST-CSF"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "collecting-open-source-intelligence",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "collecting-threat-intelligence-with-misp",
+      "name": "collecting-threat-intelligence-with-misp",
+      "description": "MISP (Malware Information Sharing Platform) is an open-source threat intelligence platform for gathering, sharing, storing, and correlating Indicators of Compromise (IOCs) of targeted attacks, threat",
+      "category": "security",
+      "tags": [
+        "threat-intelligence",
+        "cti",
+        "ioc",
+        "mitre-attack",
+        "stix",
+        "misp",
+        "taxii",
+        "threat-sharing"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "collecting-threat-intelligence-with-misp",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "correlating-threat-campaigns",
+      "name": "correlating-threat-campaigns",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "campaign-analysis",
+        "correlation",
+        "MISP",
+        "ATT&CK",
+        "threat-actor",
+        "intrusion-set",
+        "clustering",
+        "CTI"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "correlating-threat-campaigns",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "evaluating-threat-intelligence-platforms",
+      "name": "evaluating-threat-intelligence-platforms",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "TIP",
+        "ThreatConnect",
+        "MISP",
+        "OpenCTI",
+        "Anomali",
+        "EclecticIQ",
+        "STIX-TAXII",
+        "CTI-program",
+        "procurement"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "evaluating-threat-intelligence-platforms",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "executing-diamond-model-analysis",
+      "name": "executing-diamond-model-analysis",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "Diamond-Model",
+        "intrusion-analysis",
+        "attribution",
+        "campaign-clustering",
+        "CTI",
+        "MITRE-ATT&CK"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "executing-diamond-model-analysis",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "generating-threat-intelligence-reports",
+      "name": "generating-threat-intelligence-reports",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "CTI",
+        "threat-intelligence",
+        "intelligence-products",
+        "TLP",
+        "PIR",
+        "report-writing",
+        "NIST-CSF"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "generating-threat-intelligence-reports",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "hunting-advanced-persistent-threats",
+      "name": "hunting-advanced-persistent-threats",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "MITRE-ATT&CK",
+        "threat-hunting",
+        "APT",
+        "Velociraptor",
+        "osquery",
+        "Zeek",
+        "TTP",
+        "NIST-CSF",
+        "EDR"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "hunting-advanced-persistent-threats",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "implementing-diamond-model-analysis",
+      "name": "implementing-diamond-model-analysis",
+      "description": "The Diamond Model of Intrusion Analysis provides a structured framework for analyzing cyber intrusions by examining four core features: Adversary, Capability, Infrastructure, and Victim. This skill co",
+      "category": "security",
+      "tags": [
+        "threat-intelligence",
+        "cti",
+        "ioc",
+        "mitre-attack",
+        "stix",
+        "diamond-model",
+        "intrusion-analysis"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "implementing-diamond-model-analysis",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "implementing-security-information-sharing-with-stix2",
+      "name": "implementing-security-information-sharing-with-stix2",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "stix",
+        "taxii",
+        "threat-sharing",
+        "intelligence-exchange"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "implementing-security-information-sharing-with-stix2",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "implementing-stix-taxii-feed-integration",
+      "name": "implementing-stix-taxii-feed-integration",
+      "description": "STIX (Structured Threat Information eXpression) and TAXII (Trusted Automated eXchange of Intelligence Information) are OASIS open standards for representing and transporting cyber threat intelligence.",
+      "category": "security",
+      "tags": [
+        "threat-intelligence",
+        "cti",
+        "ioc",
+        "mitre-attack",
+        "stix",
+        "taxii",
+        "feed-integration",
+        "oasis"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "implementing-stix-taxii-feed-integration",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "implementing-taxii-server-with-opentaxii",
+      "name": "implementing-taxii-server-with-opentaxii",
+      "description": "Deploy and configure an OpenTAXII server to share and consume STIX-formatted cyber threat intelligence using the TAXII 2.1 protocol for automated indicator exchange between organizations.",
+      "category": "security",
+      "tags": [
+        "taxii",
+        "stix",
+        "opentaxii",
+        "threat-sharing",
+        "cti",
+        "indicator-exchange",
+        "taxii-server",
+        "automation"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "implementing-taxii-server-with-opentaxii",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "implementing-threat-intelligence-lifecycle-management",
+      "name": "implementing-threat-intelligence-lifecycle-management",
+      "description": "Implement a structured threat intelligence lifecycle encompassing planning, collection, processing, analysis, dissemination, and feedback stages to produce actionable intelligence for organizational decision-making.",
+      "category": "security",
+      "tags": [
+        "threat-intelligence",
+        "lifecycle",
+        "intelligence-cycle",
+        "collection",
+        "analysis",
+        "dissemination",
+        "strategic-intelligence",
+        "cti-program"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "implementing-threat-intelligence-lifecycle-management",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "implementing-threat-intelligence-platform",
+      "name": "implementing-threat-intelligence-platform",
+      "description": ">-",
+      "category": "security",
+      "tags": [
+        "implementing",
+        "threat",
+        "intelligence",
+        "platform"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "implementing-threat-intelligence-platform",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "managing-intelligence-lifecycle",
+      "name": "managing-intelligence-lifecycle",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "CTI",
+        "intelligence-lifecycle",
+        "PIR",
+        "NIST-SP-800-150",
+        "threat-intelligence-program",
+        "NIST-CSF"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "managing-intelligence-lifecycle",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "mapping-mitre-attack-techniques",
+      "name": "mapping-mitre-attack-techniques",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "MITRE-ATT&CK",
+        "ATT&CK-Navigator",
+        "Sigma",
+        "D3FEND",
+        "TTP",
+        "detection-engineering",
+        "NIST-CSF"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "mapping-mitre-attack-techniques",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "monitoring-darkweb-sources",
+      "name": "monitoring-darkweb-sources",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "dark-web",
+        "OSINT",
+        "credential-monitoring",
+        "ransomware-leaks",
+        "Recorded-Future",
+        "SpiderFoot",
+        "CTI"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "monitoring-darkweb-sources",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "performing-brand-monitoring-for-impersonation",
+      "name": "performing-brand-monitoring-for-impersonation",
+      "description": "Monitor for brand impersonation attacks across domains, social media, mobile apps, and dark web channels to detect phishing campaigns, fake sites, and unauthorized brand usage targeting your organization.",
+      "category": "security",
+      "tags": [
+        "brand-monitoring",
+        "impersonation",
+        "phishing",
+        "domain-monitoring",
+        "social-media",
+        "brand-protection",
+        "threat-intelligence"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "performing-brand-monitoring-for-impersonation",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "performing-dark-web-monitoring-for-threats",
+      "name": "performing-dark-web-monitoring-for-threats",
+      "description": "Dark web monitoring involves systematically scanning Tor hidden services, underground forums, paste sites, and dark web marketplaces to identify threats targeting an organization, including leaked cre",
+      "category": "security",
+      "tags": [
+        "threat-intelligence",
+        "cti",
+        "ioc",
+        "mitre-attack",
+        "stix",
+        "dark-web",
+        "tor",
+        "threat-monitoring"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "performing-dark-web-monitoring-for-threats",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "performing-indicator-lifecycle-management",
+      "name": "performing-indicator-lifecycle-management",
+      "description": "Indicator lifecycle management tracks IOCs from initial discovery through validation, enrichment, deployment, monitoring, and eventual retirement. This skill covers implementing systematic processes f",
+      "category": "security",
+      "tags": [
+        "threat-intelligence",
+        "cti",
+        "ioc",
+        "mitre-attack",
+        "stix",
+        "indicator-lifecycle",
+        "ioc-management"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "performing-indicator-lifecycle-management",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "performing-ip-reputation-analysis-with-shodan",
+      "name": "performing-ip-reputation-analysis-with-shodan",
+      "description": "Analyze IP address reputation using the Shodan API to identify open ports, running services, known vulnerabilities, and hosting context for threat intelligence enrichment and incident triage.",
+      "category": "security",
+      "tags": [
+        "shodan",
+        "ip-reputation",
+        "enrichment",
+        "threat-intelligence",
+        "reconnaissance",
+        "vulnerability",
+        "api",
+        "internet-scanning"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "performing-ip-reputation-analysis-with-shodan",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "performing-malware-hash-enrichment-with-virustotal",
+      "name": "performing-malware-hash-enrichment-with-virustotal",
+      "description": "Enrich malware file hashes using the VirusTotal API to retrieve detection rates, behavioral analysis, YARA matches, and contextual threat intelligence for incident triage and IOC validation.",
+      "category": "security",
+      "tags": [
+        "virustotal",
+        "malware-analysis",
+        "hash-enrichment",
+        "ioc",
+        "threat-intelligence",
+        "triage",
+        "api",
+        "detection"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "performing-malware-hash-enrichment-with-virustotal",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "performing-malware-ioc-extraction",
+      "name": "performing-malware-ioc-extraction",
+      "description": "Malware IOC extraction is the process of analyzing malicious software to identify actionable indicators of compromise including file hashes, network indicators (C2 domains, IP addresses, URLs), regist",
+      "category": "security",
+      "tags": [
+        "threat-intelligence",
+        "cti",
+        "ioc",
+        "mitre-attack",
+        "stix",
+        "malware-analysis",
+        "yara",
+        "reverse-engineering"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "performing-malware-ioc-extraction",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "performing-osint-with-spiderfoot",
+      "name": "performing-osint-with-spiderfoot",
+      "description": "Automate OSINT collection using SpiderFoot REST API and CLI for target profiling, module-based reconnaissance, and structured result analysis across 200+ data sources",
+      "category": "security",
+      "tags": [],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "performing-osint-with-spiderfoot",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "performing-paste-site-monitoring-for-credentials",
+      "name": "performing-paste-site-monitoring-for-credentials",
+      "description": "Monitor paste sites like Pastebin and GitHub Gists for leaked credentials, API keys, and sensitive data dumps using automated scraping and keyword matching to detect breaches early.",
+      "category": "security",
+      "tags": [
+        "paste-monitoring",
+        "credential-leak",
+        "pastebin",
+        "data-breach",
+        "threat-intelligence",
+        "osint",
+        "early-warning"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "performing-paste-site-monitoring-for-credentials",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "performing-threat-emulation-with-atomic-red-team",
+      "name": "performing-threat-emulation-with-atomic-red-team",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "performing",
+        "threat",
+        "emulation",
+        "with"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "performing-threat-emulation-with-atomic-red-team",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "performing-threat-intelligence-sharing-with-misp",
+      "name": "performing-threat-intelligence-sharing-with-misp",
+      "description": "Use PyMISP to create, enrich, and share threat intelligence events on a MISP platform, including IOC management, feed integration, STIX export, and community sharing workflows.",
+      "category": "security",
+      "tags": [
+        "misp",
+        "pymisp",
+        "threat-intelligence",
+        "ioc-sharing",
+        "stix",
+        "taxii",
+        "threat-feeds",
+        "information-sharing"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "performing-threat-intelligence-sharing-with-misp",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "performing-threat-landscape-assessment-for-sector",
+      "name": "performing-threat-landscape-assessment-for-sector",
+      "description": "Conduct a sector-specific threat landscape assessment by analyzing threat actor targeting patterns, common attack vectors, and industry-specific vulnerabilities to inform organizational risk management.",
+      "category": "security",
+      "tags": [
+        "threat-landscape",
+        "sector-analysis",
+        "risk-assessment",
+        "threat-intelligence",
+        "industry-targeting",
+        "cti",
+        "strategic-intelligence"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "performing-threat-landscape-assessment-for-sector",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "processing-stix-taxii-feeds",
+      "name": "processing-stix-taxii-feeds",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "STIX-2.1",
+        "TAXII-2.1",
+        "OASIS",
+        "MISP",
+        "CTI",
+        "IOC",
+        "threat-intelligence",
+        "NIST-SP-800-150"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "processing-stix-taxii-feeds",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "profiling-threat-actor-groups",
+      "name": "profiling-threat-actor-groups",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "MITRE-ATT&CK",
+        "threat-actor",
+        "APT",
+        "CrowdStrike",
+        "Mandiant",
+        "attribution",
+        "kill-chain",
+        "NIST-CSF"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "profiling-threat-actor-groups",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "tracking-threat-actor-infrastructure",
+      "name": "tracking-threat-actor-infrastructure",
+      "description": "Threat actor infrastructure tracking involves monitoring and mapping adversary-controlled assets including command-and-control (C2) servers, phishing domains, exploit kit hosts, bulletproof hosting, a",
+      "category": "security",
+      "tags": [
+        "threat-intelligence",
+        "cti",
+        "ioc",
+        "mitre-attack",
+        "stix",
+        "infrastructure-tracking",
+        "shodan",
+        "censys",
+        "passive-dns"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "tracking-threat-actor-infrastructure",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
     }
   ],
   "categories": [
