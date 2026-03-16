@@ -8998,6 +8998,1091 @@
       "license": "Apache-2.0",
       "author": "mukul975",
       "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "acquiring-disk-image-with-dd-and-dcfldd",
+      "name": "acquiring-disk-image-with-dd-and-dcfldd",
+      "description": "Create forensically sound bit-for-bit disk images using dd and dcfldd while preserving evidence integrity through hash verification.",
+      "category": "security",
+      "tags": [
+        "forensics",
+        "disk-imaging",
+        "evidence-acquisition",
+        "dd",
+        "dcfldd",
+        "hash-verification"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "acquiring-disk-image-with-dd-and-dcfldd",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "analyzing-browser-forensics-with-hindsight",
+      "name": "analyzing-browser-forensics-with-hindsight",
+      "description": "Analyze Chromium-based browser artifacts using Hindsight to extract browsing history, downloads, cookies, cached content, autofill data, saved passwords, and browser extensions from Chrome, Edge, Brave, and Opera for forensic investigation.",
+      "category": "security",
+      "tags": [
+        "browser-forensics",
+        "hindsight",
+        "chrome-forensics",
+        "chromium",
+        "edge",
+        "browsing-history",
+        "cookies",
+        "downloads",
+        "cache",
+        "web-artifacts"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "analyzing-browser-forensics-with-hindsight",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "analyzing-disk-image-with-autopsy",
+      "name": "analyzing-disk-image-with-autopsy",
+      "description": "Perform comprehensive forensic analysis of disk images using Autopsy to recover files, examine artifacts, and build investigation timelines.",
+      "category": "security",
+      "tags": [
+        "forensics",
+        "autopsy",
+        "disk-analysis",
+        "sleuth-kit",
+        "file-recovery",
+        "artifact-analysis"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "analyzing-disk-image-with-autopsy",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "analyzing-docker-container-forensics",
+      "name": "analyzing-docker-container-forensics",
+      "description": "Investigate compromised Docker containers by analyzing images, layers, volumes, logs, and runtime artifacts to identify malicious activity and evidence.",
+      "category": "security",
+      "tags": [
+        "forensics",
+        "docker",
+        "container-forensics",
+        "container-security",
+        "image-analysis",
+        "runtime-investigation"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "analyzing-docker-container-forensics",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "analyzing-email-headers-for-phishing-investigation",
+      "name": "analyzing-email-headers-for-phishing-investigation",
+      "description": "Parse and analyze email headers to trace the origin of phishing emails, verify sender authenticity, and identify spoofing through SPF, DKIM, and DMARC validation.",
+      "category": "security",
+      "tags": [
+        "forensics",
+        "email-analysis",
+        "phishing",
+        "spf",
+        "dkim",
+        "dmarc",
+        "header-analysis"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "analyzing-email-headers-for-phishing-investigation",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "analyzing-linux-kernel-rootkits",
+      "name": "analyzing-linux-kernel-rootkits",
+      "description": "Detect kernel-level rootkits in Linux memory dumps using Volatility3 linux plugins (check_syscall, lsmod, hidden_modules), rkhunter system scanning, and /proc vs /sys discrepancy analysis to identify hooked syscalls, hidden kernel modules, and tampered system structures.",
+      "category": "security",
+      "tags": [
+        "rootkit",
+        "linux",
+        "kernel",
+        "volatility3",
+        "memory-forensics",
+        "malware-analysis",
+        "rkhunter",
+        "forensics"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "analyzing-linux-kernel-rootkits",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "analyzing-linux-system-artifacts",
+      "name": "analyzing-linux-system-artifacts",
+      "description": "Examine Linux system artifacts including auth logs, cron jobs, shell history, and system configuration to uncover evidence of compromise or unauthorized activity.",
+      "category": "security",
+      "tags": [
+        "forensics",
+        "linux-forensics",
+        "system-artifacts",
+        "log-analysis",
+        "persistence-detection",
+        "incident-investigation"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "analyzing-linux-system-artifacts",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "analyzing-lnk-file-and-jump-list-artifacts",
+      "name": "analyzing-lnk-file-and-jump-list-artifacts",
+      "description": "Analyze Windows LNK shortcut files and Jump List artifacts to establish evidence of file access, program execution, and user activity using LECmd, JLECmd, and manual binary parsing of the Shell Link Binary format.",
+      "category": "security",
+      "tags": [
+        "lnk-files",
+        "jump-lists",
+        "lecmd",
+        "jlecmd",
+        "windows-forensics",
+        "shell-link",
+        "user-activity",
+        "file-access",
+        "program-execution",
+        "recent-files"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "analyzing-lnk-file-and-jump-list-artifacts",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "analyzing-mft-for-deleted-file-recovery",
+      "name": "analyzing-mft-for-deleted-file-recovery",
+      "description": "Analyze the NTFS Master File Table ($MFT) to recover metadata and content of deleted files by examining MFT record entries, $LogFile, $UsnJrnl, and MFT slack space using MFTECmd, analyzeMFT, and X-Ways Forensics.",
+      "category": "security",
+      "tags": [
+        "mft",
+        "ntfs",
+        "deleted-files",
+        "file-recovery",
+        "mftecmd",
+        "usn-journal",
+        "logfile",
+        "mft-slack-space",
+        "file-system-forensics",
+        "dfir"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "analyzing-mft-for-deleted-file-recovery",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "analyzing-outlook-pst-for-email-forensics",
+      "name": "analyzing-outlook-pst-for-email-forensics",
+      "description": "Analyze Microsoft Outlook PST and OST files for email forensic evidence including message content, headers, attachments, deleted items, and metadata using libpff, pst-utils, and forensic email analysis tools for legal investigations and incident response.",
+      "category": "security",
+      "tags": [
+        "email-forensics",
+        "pst",
+        "ost",
+        "outlook",
+        "mapi",
+        "email-headers",
+        "attachments",
+        "deleted-emails",
+        "libpff",
+        "eml-extraction"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "analyzing-outlook-pst-for-email-forensics",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "analyzing-prefetch-files-for-execution-history",
+      "name": "analyzing-prefetch-files-for-execution-history",
+      "description": "Parse Windows Prefetch files to determine program execution history including run counts, timestamps, and referenced files for forensic investigation.",
+      "category": "security",
+      "tags": [
+        "forensics",
+        "prefetch",
+        "windows-artifacts",
+        "execution-history",
+        "timeline-analysis",
+        "evidence-collection"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "analyzing-prefetch-files-for-execution-history",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "analyzing-slack-space-and-file-system-artifacts",
+      "name": "analyzing-slack-space-and-file-system-artifacts",
+      "description": "Examine file system slack space, MFT entries, USN journal, and alternate data streams to recover hidden data and reconstruct file activity on NTFS volumes.",
+      "category": "security",
+      "tags": [
+        "forensics",
+        "slack-space",
+        "ntfs",
+        "mft",
+        "usn-journal",
+        "alternate-data-streams",
+        "file-system-analysis"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "analyzing-slack-space-and-file-system-artifacts",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "analyzing-usb-device-connection-history",
+      "name": "analyzing-usb-device-connection-history",
+      "description": "Investigate USB device connection history from Windows registry, event logs, and setupapi logs to track removable media usage and potential data exfiltration.",
+      "category": "security",
+      "tags": [
+        "forensics",
+        "usb-forensics",
+        "removable-media",
+        "registry-analysis",
+        "data-exfiltration",
+        "device-history"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "analyzing-usb-device-connection-history",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "analyzing-windows-amcache-artifacts",
+      "name": "analyzing-windows-amcache-artifacts",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "amcache",
+        "windows-forensics",
+        "registry-analysis",
+        "execution-artifacts"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "analyzing-windows-amcache-artifacts",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "analyzing-windows-lnk-files-for-artifacts",
+      "name": "analyzing-windows-lnk-files-for-artifacts",
+      "description": "Parse Windows LNK shortcut files to extract target paths, timestamps, volume information, and machine identifiers for forensic timeline reconstruction.",
+      "category": "security",
+      "tags": [
+        "forensics",
+        "lnk-files",
+        "windows-artifacts",
+        "shortcut-analysis",
+        "timeline-reconstruction",
+        "evidence-collection"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "analyzing-windows-lnk-files-for-artifacts",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "analyzing-windows-prefetch-with-python",
+      "name": "analyzing-windows-prefetch-with-python",
+      "description": "Parse Windows Prefetch files using the windowsprefetch Python library to reconstruct application execution history, detect renamed or masquerading binaries, and identify suspicious program execution patterns.",
+      "category": "security",
+      "tags": [
+        "digital-forensics",
+        "windows",
+        "prefetch",
+        "execution-history",
+        "incident-response",
+        "malware-analysis"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "analyzing-windows-prefetch-with-python",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "analyzing-windows-registry-for-artifacts",
+      "name": "analyzing-windows-registry-for-artifacts",
+      "description": "Extract and analyze Windows Registry hives to uncover user activity, installed software, autostart entries, and evidence of system compromise.",
+      "category": "security",
+      "tags": [
+        "forensics",
+        "windows-registry",
+        "artifact-analysis",
+        "regripper",
+        "registry-explorer",
+        "evidence-collection"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "analyzing-windows-registry-for-artifacts",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "analyzing-windows-shellbag-artifacts",
+      "name": "analyzing-windows-shellbag-artifacts",
+      "description": "Analyze Windows Shellbag registry artifacts to reconstruct folder browsing activity, detect access to removable media and network shares, and establish user interaction with directories even after deletion using SBECmd and ShellBags Explorer.",
+      "category": "security",
+      "tags": [
+        "shellbags",
+        "windows-registry",
+        "sbecmd",
+        "shellbags-explorer",
+        "folder-access",
+        "user-activity",
+        "removable-media",
+        "network-shares",
+        "bagmru",
+        "dfir"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "analyzing-windows-shellbag-artifacts",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "extracting-browser-history-artifacts",
+      "name": "extracting-browser-history-artifacts",
+      "description": "Extract and analyze browser history, cookies, cache, downloads, and bookmarks from Chrome, Firefox, and Edge for forensic evidence of user web activity.",
+      "category": "security",
+      "tags": [
+        "forensics",
+        "browser-forensics",
+        "chrome",
+        "firefox",
+        "edge",
+        "web-history",
+        "artifact-extraction"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "extracting-browser-history-artifacts",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "extracting-credentials-from-memory-dump",
+      "name": "extracting-credentials-from-memory-dump",
+      "description": "Extract cached credentials, password hashes, Kerberos tickets, and authentication tokens from memory dumps using Volatility and Mimikatz for forensic investigation.",
+      "category": "security",
+      "tags": [
+        "forensics",
+        "credential-extraction",
+        "memory-forensics",
+        "volatility",
+        "mimikatz",
+        "password-hashes",
+        "incident-response"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "extracting-credentials-from-memory-dump",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "extracting-windows-event-logs-artifacts",
+      "name": "extracting-windows-event-logs-artifacts",
+      "description": "Extract, parse, and analyze Windows Event Logs (EVTX) using Chainsaw, Hayabusa, and EvtxECmd to detect lateral movement, persistence, and privilege escalation.",
+      "category": "security",
+      "tags": [
+        "forensics",
+        "windows-event-logs",
+        "evtx",
+        "chainsaw",
+        "hayabusa",
+        "sigma-rules",
+        "incident-response"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "extracting-windows-event-logs-artifacts",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "investigating-ransomware-attack-artifacts",
+      "name": "investigating-ransomware-attack-artifacts",
+      "description": "Identify, collect, and analyze ransomware attack artifacts to determine the variant, initial access vector, encryption scope, and recovery options.",
+      "category": "security",
+      "tags": [
+        "forensics",
+        "ransomware",
+        "malware-analysis",
+        "incident-response",
+        "encryption-recovery",
+        "evidence-collection"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "investigating-ransomware-attack-artifacts",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "performing-cloud-forensics-investigation",
+      "name": "performing-cloud-forensics-investigation",
+      "description": "Conduct forensic investigations in cloud environments by collecting and analyzing logs, snapshots, and metadata from AWS, Azure, and GCP services.",
+      "category": "security",
+      "tags": [
+        "forensics",
+        "cloud-forensics",
+        "aws",
+        "azure",
+        "gcp",
+        "incident-response",
+        "log-analysis"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "performing-cloud-forensics-investigation",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "performing-cloud-storage-forensic-acquisition",
+      "name": "performing-cloud-storage-forensic-acquisition",
+      "description": "Perform forensic acquisition and analysis of cloud storage services including Google Drive, OneDrive, Dropbox, and Box by collecting both API-based remote data and local sync client artifacts from endpoint devices.",
+      "category": "security",
+      "tags": [
+        "cloud-forensics",
+        "google-drive",
+        "onedrive",
+        "dropbox",
+        "box",
+        "cloud-acquisition",
+        "api-forensics",
+        "sync-client",
+        "endpoint-artifacts",
+        "magnet-axiom"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "performing-cloud-storage-forensic-acquisition",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "performing-file-carving-with-foremost",
+      "name": "performing-file-carving-with-foremost",
+      "description": "Recover files from disk images and unallocated space using Foremost's header-footer signature carving to extract evidence regardless of file system state.",
+      "category": "security",
+      "tags": [
+        "forensics",
+        "file-carving",
+        "foremost",
+        "data-recovery",
+        "evidence-recovery",
+        "unallocated-space"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "performing-file-carving-with-foremost",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "performing-linux-log-forensics-investigation",
+      "name": "performing-linux-log-forensics-investigation",
+      "description": "Perform forensic investigation of Linux system logs including syslog, auth.log, systemd journal, kern.log, and application logs to reconstruct user activity, detect unauthorized access, and establish event timelines on compromised Linux systems.",
+      "category": "security",
+      "tags": [
+        "linux-forensics",
+        "syslog",
+        "auth-log",
+        "systemd-journal",
+        "journalctl",
+        "linux-logs",
+        "ssh-forensics",
+        "cron",
+        "audit-log",
+        "log-analysis"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "performing-linux-log-forensics-investigation",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "performing-log-analysis-for-forensic-investigation",
+      "name": "performing-log-analysis-for-forensic-investigation",
+      "description": "Collect, parse, and correlate system, application, and security logs to reconstruct events and establish timelines during forensic investigations.",
+      "category": "security",
+      "tags": [
+        "forensics",
+        "log-analysis",
+        "siem",
+        "event-correlation",
+        "timeline-analysis",
+        "evidence-collection"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "performing-log-analysis-for-forensic-investigation",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "performing-malware-persistence-investigation",
+      "name": "performing-malware-persistence-investigation",
+      "description": "Systematically investigate all persistence mechanisms on Windows and Linux systems to identify how malware survives reboots and maintains access.",
+      "category": "security",
+      "tags": [
+        "forensics",
+        "malware-persistence",
+        "autoruns",
+        "registry",
+        "scheduled-tasks",
+        "rootkit-detection",
+        "incident-response"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "performing-malware-persistence-investigation",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "performing-memory-forensics-with-volatility3",
+      "name": "performing-memory-forensics-with-volatility3",
+      "description": "Analyze volatile memory dumps using Volatility 3 to extract running processes, network connections, loaded modules, and evidence of malicious activity.",
+      "category": "security",
+      "tags": [
+        "forensics",
+        "memory-forensics",
+        "volatility",
+        "ram-analysis",
+        "malware-detection",
+        "incident-response"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "performing-memory-forensics-with-volatility3",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "performing-mobile-device-forensics-with-cellebrite",
+      "name": "performing-mobile-device-forensics-with-cellebrite",
+      "description": "Acquire and analyze mobile device data using Cellebrite UFED and open-source tools to extract communications, location data, and application artifacts.",
+      "category": "security",
+      "tags": [
+        "forensics",
+        "mobile-forensics",
+        "cellebrite",
+        "smartphone-analysis",
+        "ios-forensics",
+        "android-forensics"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "performing-mobile-device-forensics-with-cellebrite",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "performing-network-forensics-with-wireshark",
+      "name": "performing-network-forensics-with-wireshark",
+      "description": "Capture and analyze network traffic using Wireshark and tshark to reconstruct network events, extract artifacts, and identify malicious communications.",
+      "category": "security",
+      "tags": [
+        "forensics",
+        "network-forensics",
+        "wireshark",
+        "pcap",
+        "packet-analysis",
+        "traffic-analysis"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "performing-network-forensics-with-wireshark",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "performing-network-packet-capture-analysis",
+      "name": "performing-network-packet-capture-analysis",
+      "description": "Perform forensic analysis of network packet captures (PCAP/PCAPNG) using Wireshark, tshark, and tcpdump to reconstruct network communications, extract transferred files, identify malicious traffic, and establish evidence of data exfiltration or command-and-control activity.",
+      "category": "security",
+      "tags": [
+        "pcap",
+        "wireshark",
+        "tshark",
+        "tcpdump",
+        "network-forensics",
+        "packet-capture",
+        "protocol-analysis",
+        "traffic-analysis",
+        "pcapng",
+        "network-evidence"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "performing-network-packet-capture-analysis",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "performing-sqlite-database-forensics",
+      "name": "performing-sqlite-database-forensics",
+      "description": "Perform forensic analysis of SQLite databases to recover deleted records from freelists and WAL files, decode encoded timestamps, and extract evidence from browser history, messaging apps, and mobile device databases.",
+      "category": "security",
+      "tags": [
+        "sqlite",
+        "database-forensics",
+        "freelist",
+        "wal",
+        "write-ahead-log",
+        "browser-history",
+        "mobile-forensics",
+        "deleted-records",
+        "b-tree",
+        "unallocated-space"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "performing-sqlite-database-forensics",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "performing-steganography-detection",
+      "name": "performing-steganography-detection",
+      "description": "Detect and extract hidden data embedded in images, audio, and other media files using steganalysis tools to uncover covert communication channels.",
+      "category": "security",
+      "tags": [
+        "forensics",
+        "steganography",
+        "steganalysis",
+        "hidden-data",
+        "covert-channels",
+        "image-analysis"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "performing-steganography-detection",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "performing-timeline-reconstruction-with-plaso",
+      "name": "performing-timeline-reconstruction-with-plaso",
+      "description": "Build comprehensive forensic super-timelines using Plaso (log2timeline) to correlate events across file systems, logs, and artifacts into a unified chronological view.",
+      "category": "security",
+      "tags": [
+        "forensics",
+        "timeline-analysis",
+        "plaso",
+        "log2timeline",
+        "super-timeline",
+        "event-correlation"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "performing-timeline-reconstruction-with-plaso",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "performing-windows-artifact-analysis-with-eric-zimmerman-tools",
+      "name": "performing-windows-artifact-analysis-with-eric-zimmerman-tools",
+      "description": "Perform comprehensive Windows forensic artifact analysis using Eric Zimmerman's open-source EZ Tools suite including KAPE, MFTECmd, PECmd, LECmd, JLECmd, and Timeline Explorer for parsing registry hives, prefetch files, event logs, and file system metadata.",
+      "category": "security",
+      "tags": [
+        "eric-zimmerman",
+        "ez-tools",
+        "kape",
+        "mftecmd",
+        "pecmd",
+        "lecmd",
+        "jlecmd",
+        "registry-forensics",
+        "windows-forensics",
+        "timeline-explorer",
+        "dfir",
+        "artifact-analysis"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "performing-windows-artifact-analysis-with-eric-zimmerman-tools",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "recovering-deleted-files-with-photorec",
+      "name": "recovering-deleted-files-with-photorec",
+      "description": "Recover deleted files from disk images and storage media using PhotoRec's file signature-based carving engine regardless of file system damage.",
+      "category": "security",
+      "tags": [
+        "forensics",
+        "file-recovery",
+        "photorec",
+        "file-carving",
+        "data-recovery",
+        "evidence-recovery"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "recovering-deleted-files-with-photorec",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
     }
   ],
   "categories": [
