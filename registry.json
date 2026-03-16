@@ -5401,6 +5401,1693 @@
       "license": "MIT",
       "author": "mukul975",
       "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "analyzing-cloud-storage-access-patterns",
+      "name": "analyzing-cloud-storage-access-patterns",
+      "description": ">-",
+      "category": "security",
+      "tags": [
+        "analyzing",
+        "cloud",
+        "storage",
+        "access"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "analyzing-cloud-storage-access-patterns",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "MIT",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "analyzing-office365-audit-logs-for-compromise",
+      "name": "analyzing-office365-audit-logs-for-compromise",
+      "description": "Parse Office 365 Unified Audit Logs via Microsoft Graph API to detect email forwarding rule creation, inbox delegation, suspicious OAuth app grants, and other indicators of account compromise.",
+      "category": "security",
+      "tags": [
+        "Office365",
+        "Microsoft-Graph",
+        "audit-logs",
+        "email-compromise",
+        "inbox-rules",
+        "OAuth",
+        "BEC"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "analyzing-office365-audit-logs-for-compromise",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "MIT",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "auditing-aws-s3-bucket-permissions",
+      "name": "auditing-aws-s3-bucket-permissions",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "cloud-security",
+        "aws",
+        "s3",
+        "bucket-permissions",
+        "data-protection",
+        "access-control"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "auditing-aws-s3-bucket-permissions",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "MIT",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "auditing-azure-active-directory-configuration",
+      "name": "auditing-azure-active-directory-configuration",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "cloud-security",
+        "azure",
+        "entra-id",
+        "active-directory",
+        "iam-audit",
+        "conditional-access"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "auditing-azure-active-directory-configuration",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "MIT",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "auditing-cloud-with-cis-benchmarks",
+      "name": "auditing-cloud-with-cis-benchmarks",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "cis-benchmarks",
+        "cloud-audit",
+        "compliance-assessment",
+        "prowler",
+        "security-hardening"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "auditing-cloud-with-cis-benchmarks",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "auditing-gcp-iam-permissions",
+      "name": "auditing-gcp-iam-permissions",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "cloud-security",
+        "gcp",
+        "iam",
+        "permissions-audit",
+        "service-accounts",
+        "policy-analyzer"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "auditing-gcp-iam-permissions",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "MIT",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "auditing-kubernetes-cluster-rbac",
+      "name": "auditing-kubernetes-cluster-rbac",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "cloud-security",
+        "kubernetes",
+        "rbac",
+        "access-control",
+        "eks",
+        "gke",
+        "aks"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "auditing-kubernetes-cluster-rbac",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "MIT",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "auditing-terraform-infrastructure-for-security",
+      "name": "auditing-terraform-infrastructure-for-security",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "cloud-security",
+        "terraform",
+        "infrastructure-as-code",
+        "checkov",
+        "tfsec",
+        "policy-as-code"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "auditing-terraform-infrastructure-for-security",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "MIT",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "building-cloud-security-posture-management",
+      "name": "building-cloud-security-posture-management",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "cspm",
+        "cloud-misconfiguration",
+        "security-posture",
+        "drift-detection",
+        "multi-cloud-governance"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "building-cloud-security-posture-management",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "building-cloud-siem-with-sentinel",
+      "name": "building-cloud-siem-with-sentinel",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "microsoft-sentinel",
+        "cloud-siem",
+        "kql-queries",
+        "soar-automation",
+        "threat-detection"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "building-cloud-siem-with-sentinel",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "conducting-cloud-penetration-testing",
+      "name": "conducting-cloud-penetration-testing",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "cloud-pentesting",
+        "offensive-security",
+        "aws-exploitation",
+        "shared-responsibility",
+        "mitre-attack-cloud"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "conducting-cloud-penetration-testing",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "detecting-aws-cloudtrail-anomalies",
+      "name": "detecting-aws-cloudtrail-anomalies",
+      "description": "Detect unusual API call patterns in AWS CloudTrail logs using boto3, statistical baselining, and behavioral analysis to identify credential compromise, privilege escalation, and unauthorized resource access.",
+      "category": "security",
+      "tags": [
+        "cloud-security",
+        "aws",
+        "cloudtrail",
+        "anomaly-detection",
+        "threat-detection",
+        "boto3"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "detecting-aws-cloudtrail-anomalies",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "MIT",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "detecting-aws-credential-exposure-with-trufflehog",
+      "name": "detecting-aws-credential-exposure-with-trufflehog",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "cloud-security",
+        "aws",
+        "credential-exposure",
+        "trufflehog",
+        "secrets-detection",
+        "devsecops"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "detecting-aws-credential-exposure-with-trufflehog",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "MIT",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "detecting-aws-guardduty-findings-automation",
+      "name": "detecting-aws-guardduty-findings-automation",
+      "description": "Automate AWS GuardDuty threat detection findings processing using EventBridge and Lambda to enable real-time incident response, automatic quarantine of compromised resources, and security notification workflows.",
+      "category": "security",
+      "tags": [
+        "aws",
+        "guardduty",
+        "eventbridge",
+        "lambda",
+        "threat-detection",
+        "automation",
+        "incident-response",
+        "siem"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "detecting-aws-guardduty-findings-automation",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "MIT",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "detecting-aws-iam-privilege-escalation",
+      "name": "detecting-aws-iam-privilege-escalation",
+      "description": "Detect AWS IAM privilege escalation paths using boto3 and Cloudsplaining policy analysis to identify overly permissive policies, dangerous permission combinations, and least-privilege violations",
+      "category": "security",
+      "tags": [
+        "aws",
+        "iam",
+        "privilege-escalation",
+        "cloudsplaining",
+        "boto3",
+        "policy-analysis",
+        "least-privilege"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "detecting-aws-iam-privilege-escalation",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "MIT",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "detecting-azure-lateral-movement",
+      "name": "detecting-azure-lateral-movement",
+      "description": "Detect lateral movement in Azure AD/Entra ID environments using Microsoft Graph API audit logs, Azure Sentinel KQL hunting queries, and sign-in anomaly correlation to identify privilege escalation, token theft, and cross-tenant pivoting.",
+      "category": "security",
+      "tags": [
+        "azure",
+        "entra-id",
+        "lateral-movement",
+        "sentinel",
+        "kql",
+        "graph-api",
+        "cloud-security",
+        "threat-hunting"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "detecting-azure-lateral-movement",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "MIT",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "detecting-azure-service-principal-abuse",
+      "name": "detecting-azure-service-principal-abuse",
+      "description": "Detect and investigate Azure service principal abuse including privilege escalation, credential compromise, admin consent bypass, and unauthorized enumeration in Microsoft Entra ID environments.",
+      "category": "security",
+      "tags": [
+        "azure",
+        "entra-id",
+        "service-principal",
+        "privilege-escalation",
+        "credential-abuse",
+        "detection",
+        "splunk",
+        "sentinel"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "detecting-azure-service-principal-abuse",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "MIT",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "detecting-azure-storage-account-misconfigurations",
+      "name": "detecting-azure-storage-account-misconfigurations",
+      "description": "Audit Azure Blob and ADLS storage accounts for public access exposure, weak or long-lived SAS tokens, missing encryption at rest, disabled HTTPS-only traffic, and outdated TLS versions using the azure-mgmt-storage Python SDK.",
+      "category": "security",
+      "tags": [
+        "Azure",
+        "storage-accounts",
+        "blob-storage",
+        "ADLS",
+        "SAS-tokens",
+        "encryption",
+        "public-access",
+        "cloud-misconfiguration",
+        "azure-mgmt-storage"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "detecting-azure-storage-account-misconfigurations",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "MIT",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "detecting-cloud-cryptomining-activity",
+      "name": "detecting-cloud-cryptomining-activity",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "cloud-security",
+        "cryptomining",
+        "threat-detection",
+        "guardduty",
+        "cost-anomaly",
+        "incident-response"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "detecting-cloud-cryptomining-activity",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "MIT",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "detecting-cloud-threats-with-guardduty",
+      "name": "detecting-cloud-threats-with-guardduty",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "amazon-guardduty",
+        "threat-detection",
+        "aws-security",
+        "runtime-monitoring",
+        "cloud-soc"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "detecting-cloud-threats-with-guardduty",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "detecting-compromised-cloud-credentials",
+      "name": "detecting-compromised-cloud-credentials",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "cloud-security",
+        "credential-compromise",
+        "threat-detection",
+        "guardduty",
+        "incident-response",
+        "anomaly-detection"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "detecting-compromised-cloud-credentials",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "MIT",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "detecting-cryptomining-in-cloud",
+      "name": "detecting-cryptomining-in-cloud",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "cryptomining-detection",
+        "cloud-abuse",
+        "resource-hijacking",
+        "guardduty-crypto",
+        "cost-anomaly"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "detecting-cryptomining-in-cloud",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "detecting-misconfigured-azure-storage",
+      "name": "detecting-misconfigured-azure-storage",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "cloud-security",
+        "azure",
+        "storage-security",
+        "blob-storage",
+        "sas-tokens",
+        "data-protection"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "detecting-misconfigured-azure-storage",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "MIT",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "detecting-s3-data-exfiltration-attempts",
+      "name": "detecting-s3-data-exfiltration-attempts",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "cloud-security",
+        "aws",
+        "s3",
+        "data-exfiltration",
+        "guardduty",
+        "macie",
+        "threat-detection"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "detecting-s3-data-exfiltration-attempts",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "MIT",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "detecting-shadow-it-cloud-usage",
+      "name": "detecting-shadow-it-cloud-usage",
+      "description": "Detect unauthorized SaaS and cloud service usage (shadow IT) by analyzing proxy logs, DNS query logs, and netflow data using Python pandas for traffic pattern analysis and domain classification.",
+      "category": "security",
+      "tags": [
+        "shadow-IT",
+        "SaaS-discovery",
+        "proxy-logs",
+        "DNS-analysis",
+        "netflow",
+        "cloud-security",
+        "pandas"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "detecting-shadow-it-cloud-usage",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "MIT",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "detecting-suspicious-oauth-application-consent",
+      "name": "detecting-suspicious-oauth-application-consent",
+      "description": "Detect risky OAuth application consent grants in Azure AD / Microsoft Entra ID using Microsoft Graph API, audit logs, and permission analysis to identify illicit consent grant attacks.",
+      "category": "security",
+      "tags": [
+        "OAuth",
+        "Azure-AD",
+        "Entra-ID",
+        "Microsoft-Graph",
+        "illicit-consent",
+        "cloud-security",
+        "application-permissions"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "detecting-suspicious-oauth-application-consent",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "MIT",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "implementing-aws-config-rules-for-compliance",
+      "name": "implementing-aws-config-rules-for-compliance",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "cloud-security",
+        "aws",
+        "config-rules",
+        "compliance",
+        "automation",
+        "remediation"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "implementing-aws-config-rules-for-compliance",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "MIT",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "implementing-aws-macie-for-data-classification",
+      "name": "implementing-aws-macie-for-data-classification",
+      "description": "Implement Amazon Macie to automatically discover, classify, and protect sensitive data in S3 buckets using machine learning and pattern matching for PII, financial data, and credentials detection.",
+      "category": "security",
+      "tags": [
+        "aws",
+        "macie",
+        "data-classification",
+        "s3",
+        "pii",
+        "sensitive-data",
+        "dlp",
+        "compliance"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "implementing-aws-macie-for-data-classification",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "MIT",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "implementing-aws-security-hub",
+      "name": "implementing-aws-security-hub",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "aws-security-hub",
+        "cspm",
+        "compliance-automation",
+        "security-standards",
+        "finding-aggregation"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "implementing-aws-security-hub",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "implementing-aws-security-hub-compliance",
+      "name": "implementing-aws-security-hub-compliance",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "cloud-security",
+        "aws",
+        "security-hub",
+        "compliance",
+        "cspm",
+        "cis-benchmark"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "implementing-aws-security-hub-compliance",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "MIT",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "implementing-azure-defender-for-cloud",
+      "name": "implementing-azure-defender-for-cloud",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "cloud-security",
+        "azure",
+        "defender-for-cloud",
+        "cspm",
+        "cwpp",
+        "security-recommendations"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "implementing-azure-defender-for-cloud",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "MIT",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "implementing-cloud-dlp-for-data-protection",
+      "name": "implementing-cloud-dlp-for-data-protection",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "cloud-security",
+        "dlp",
+        "data-protection",
+        "macie",
+        "data-classification",
+        "privacy"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "implementing-cloud-dlp-for-data-protection",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "MIT",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "implementing-cloud-security-posture-management",
+      "name": "implementing-cloud-security-posture-management",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "cloud-security",
+        "cspm",
+        "multi-cloud",
+        "compliance",
+        "prowler",
+        "scoutsuite"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "implementing-cloud-security-posture-management",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "MIT",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "implementing-cloud-trail-log-analysis",
+      "name": "implementing-cloud-trail-log-analysis",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "cloud-security",
+        "aws",
+        "cloudtrail",
+        "log-analysis",
+        "threat-detection",
+        "forensics"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "implementing-cloud-trail-log-analysis",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "MIT",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "implementing-cloud-waf-rules",
+      "name": "implementing-cloud-waf-rules",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "cloud-waf",
+        "aws-waf",
+        "azure-waf",
+        "owasp-protection",
+        "rate-limiting"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "implementing-cloud-waf-rules",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "implementing-cloud-workload-protection",
+      "name": "implementing-cloud-workload-protection",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "implementing",
+        "cloud",
+        "workload",
+        "protection"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "implementing-cloud-workload-protection",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "MIT",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "implementing-gcp-binary-authorization",
+      "name": "implementing-gcp-binary-authorization",
+      "description": "Implement GCP Binary Authorization to enforce deploy-time security controls that ensure only trusted, attested container images are deployed to Google Kubernetes Engine and Cloud Run.",
+      "category": "security",
+      "tags": [
+        "gcp",
+        "binary-authorization",
+        "container-security",
+        "supply-chain",
+        "gke",
+        "cloud-run",
+        "attestation",
+        "software-integrity"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "implementing-gcp-binary-authorization",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "MIT",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "implementing-gcp-organization-policy-constraints",
+      "name": "implementing-gcp-organization-policy-constraints",
+      "description": "Implement GCP Organization Policy constraints to enforce security guardrails across the entire resource hierarchy, restricting risky configurations and ensuring compliance at organization, folder, and project levels.",
+      "category": "security",
+      "tags": [
+        "gcp",
+        "organization-policy",
+        "constraints",
+        "governance",
+        "compliance",
+        "cloud-security",
+        "resource-manager"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "implementing-gcp-organization-policy-constraints",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "MIT",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "implementing-gcp-vpc-firewall-rules",
+      "name": "implementing-gcp-vpc-firewall-rules",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "cloud-security",
+        "gcp",
+        "vpc",
+        "firewall-rules",
+        "network-security",
+        "segmentation"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "implementing-gcp-vpc-firewall-rules",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "MIT",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "implementing-secrets-management-with-vault",
+      "name": "implementing-secrets-management-with-vault",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "hashicorp-vault",
+        "secrets-management",
+        "dynamic-secrets",
+        "credential-rotation",
+        "zero-trust"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "implementing-secrets-management-with-vault",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "implementing-zero-trust-in-cloud",
+      "name": "implementing-zero-trust-in-cloud",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "zero-trust",
+        "beyondcorp",
+        "identity-aware-proxy",
+        "micro-segmentation",
+        "continuous-verification"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "implementing-zero-trust-in-cloud",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "implementing-zero-trust-network-access",
+      "name": "implementing-zero-trust-network-access",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "cloud-security",
+        "zero-trust",
+        "ztna",
+        "beyondcorp",
+        "identity-aware-proxy",
+        "micro-segmentation"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "implementing-zero-trust-network-access",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "MIT",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "managing-cloud-identity-with-okta",
+      "name": "managing-cloud-identity-with-okta",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "okta",
+        "cloud-identity",
+        "single-sign-on",
+        "phishing-resistant-mfa",
+        "identity-lifecycle"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "managing-cloud-identity-with-okta",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "performing-aws-account-enumeration-with-scout-suite",
+      "name": "performing-aws-account-enumeration-with-scout-suite",
+      "description": "Perform comprehensive security posture assessment of AWS accounts using ScoutSuite to enumerate resources, identify misconfigurations, and generate actionable security reports.",
+      "category": "security",
+      "tags": [
+        "aws",
+        "scoutsuite",
+        "cloud-security",
+        "enumeration",
+        "misconfiguration",
+        "security-audit",
+        "cspm",
+        "nccgroup"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "performing-aws-account-enumeration-with-scout-suite",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "MIT",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "performing-aws-privilege-escalation-assessment",
+      "name": "performing-aws-privilege-escalation-assessment",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "cloud-security",
+        "aws",
+        "privilege-escalation",
+        "iam",
+        "pacu",
+        "offensive-security"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "performing-aws-privilege-escalation-assessment",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "MIT",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "performing-cloud-asset-inventory-with-cartography",
+      "name": "performing-cloud-asset-inventory-with-cartography",
+      "description": "Perform comprehensive cloud asset inventory and relationship mapping using Cartography to build a Neo4j security graph of infrastructure assets, IAM permissions, and attack paths across AWS, GCP, and Azure.",
+      "category": "security",
+      "tags": [
+        "cartography",
+        "neo4j",
+        "cloud-security",
+        "asset-inventory",
+        "attack-path",
+        "graph-database",
+        "cncf",
+        "lyft"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "performing-cloud-asset-inventory-with-cartography",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "MIT",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "performing-cloud-forensics-with-aws-cloudtrail",
+      "name": "performing-cloud-forensics-with-aws-cloudtrail",
+      "description": "Perform forensic investigation of AWS environments using CloudTrail logs to reconstruct attacker activity, identify compromised credentials, and analyze API call patterns.",
+      "category": "security",
+      "tags": [
+        "cloud-security",
+        "aws",
+        "cloudtrail",
+        "forensics",
+        "incident-response",
+        "dfir",
+        "boto3",
+        "s3"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "performing-cloud-forensics-with-aws-cloudtrail",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "MIT",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "performing-cloud-native-forensics-with-falco",
+      "name": "performing-cloud-native-forensics-with-falco",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "performing",
+        "cloud",
+        "native",
+        "forensics"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "performing-cloud-native-forensics-with-falco",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "MIT",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "performing-cloud-penetration-testing-with-pacu",
+      "name": "performing-cloud-penetration-testing-with-pacu",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "cloud-security",
+        "aws",
+        "pacu",
+        "penetration-testing",
+        "offensive-security",
+        "iam-exploitation"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "performing-cloud-penetration-testing-with-pacu",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "MIT",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "performing-gcp-penetration-testing-with-gcpbucketbrute",
+      "name": "performing-gcp-penetration-testing-with-gcpbucketbrute",
+      "description": "Perform GCP security testing using GCPBucketBrute for storage bucket enumeration, gcloud IAM privilege escalation path analysis, and service account permission auditing",
+      "category": "security",
+      "tags": [
+        "gcp",
+        "cloud-pentesting",
+        "bucket-enumeration",
+        "iam-audit",
+        "privilege-escalation",
+        "gcpbucketbrute"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "performing-gcp-penetration-testing-with-gcpbucketbrute",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "MIT",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "performing-gcp-security-assessment-with-forseti",
+      "name": "performing-gcp-security-assessment-with-forseti",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "cloud-security",
+        "gcp",
+        "forseti",
+        "security-command-center",
+        "iam-audit",
+        "cis-benchmark"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "performing-gcp-security-assessment-with-forseti",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "MIT",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "performing-serverless-function-security-review",
+      "name": "performing-serverless-function-security-review",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "cloud-security",
+        "serverless",
+        "lambda",
+        "azure-functions",
+        "cloud-functions",
+        "security-review"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "performing-serverless-function-security-review",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "MIT",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "remediating-s3-bucket-misconfiguration",
+      "name": "remediating-s3-bucket-misconfiguration",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "s3-security",
+        "bucket-misconfiguration",
+        "data-exposure",
+        "public-access-block",
+        "aws-config"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "remediating-s3-bucket-misconfiguration",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "securing-api-gateway-with-aws-waf",
+      "name": "securing-api-gateway-with-aws-waf",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "cloud-security",
+        "aws",
+        "waf",
+        "api-gateway",
+        "rate-limiting",
+        "bot-protection",
+        "owasp"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "securing-api-gateway-with-aws-waf",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "MIT",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "securing-aws-iam-permissions",
+      "name": "securing-aws-iam-permissions",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "aws-iam",
+        "least-privilege",
+        "permission-boundaries",
+        "access-analyzer",
+        "cloud-identity"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "securing-aws-iam-permissions",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "securing-aws-lambda-execution-roles",
+      "name": "securing-aws-lambda-execution-roles",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "cloud-security",
+        "aws",
+        "lambda",
+        "iam",
+        "least-privilege",
+        "execution-roles"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "securing-aws-lambda-execution-roles",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "MIT",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "securing-azure-with-microsoft-defender",
+      "name": "securing-azure-with-microsoft-defender",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "microsoft-defender",
+        "azure-security",
+        "cnapp",
+        "secure-score",
+        "cloud-workload-protection"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "securing-azure-with-microsoft-defender",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "securing-container-registry-images",
+      "name": "securing-container-registry-images",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "cloud-security",
+        "containers",
+        "registry",
+        "image-scanning",
+        "trivy",
+        "cosign",
+        "supply-chain"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "securing-container-registry-images",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "MIT",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "securing-kubernetes-on-cloud",
+      "name": "securing-kubernetes-on-cloud",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "kubernetes-security",
+        "eks",
+        "aks",
+        "gke",
+        "pod-security-standards",
+        "container-runtime"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "securing-kubernetes-on-cloud",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "securing-serverless-functions",
+      "name": "securing-serverless-functions",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "serverless-security",
+        "aws-lambda",
+        "azure-functions",
+        "function-hardening",
+        "supply-chain"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "securing-serverless-functions",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
     }
   ],
   "categories": [
