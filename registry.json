@@ -10083,6 +10083,477 @@
       "license": "Apache-2.0",
       "author": "mukul975",
       "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "configuring-host-based-intrusion-detection",
+      "name": "configuring-host-based-intrusion-detection",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "endpoint",
+        "HIDS",
+        "Wazuh",
+        "OSSEC",
+        "file-integrity-monitoring",
+        "intrusion-detection"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "configuring-host-based-intrusion-detection",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "configuring-windows-defender-advanced-settings",
+      "name": "configuring-windows-defender-advanced-settings",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "endpoint",
+        "windows-security",
+        "Microsoft-Defender",
+        "ASR",
+        "exploit-protection",
+        "MDE"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "configuring-windows-defender-advanced-settings",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "configuring-windows-event-logging-for-detection",
+      "name": "configuring-windows-event-logging-for-detection",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "endpoint",
+        "windows-security",
+        "event-logging",
+        "audit-policy",
+        "detection-engineering"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "configuring-windows-event-logging-for-detection",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "deploying-edr-agent-with-crowdstrike",
+      "name": "deploying-edr-agent-with-crowdstrike",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "endpoint",
+        "edr",
+        "CrowdStrike",
+        "Falcon",
+        "threat-detection",
+        "sensor-deployment"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "deploying-edr-agent-with-crowdstrike",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "deploying-osquery-for-endpoint-monitoring",
+      "name": "deploying-osquery-for-endpoint-monitoring",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "endpoint",
+        "osquery",
+        "endpoint-monitoring",
+        "threat-hunting",
+        "fleet-management"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "deploying-osquery-for-endpoint-monitoring",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "detecting-evasion-techniques-in-endpoint-logs",
+      "name": "detecting-evasion-techniques-in-endpoint-logs",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "endpoint",
+        "edr",
+        "threat-hunting",
+        "defense-evasion",
+        "MITRE-ATT&CK",
+        "detection-engineering"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "detecting-evasion-techniques-in-endpoint-logs",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "detecting-fileless-attacks-on-endpoints",
+      "name": "detecting-fileless-attacks-on-endpoints",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "endpoint",
+        "fileless-malware",
+        "memory-attacks",
+        "PowerShell",
+        "detection-engineering"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "detecting-fileless-attacks-on-endpoints",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "hardening-linux-endpoint-with-cis-benchmark",
+      "name": "hardening-linux-endpoint-with-cis-benchmark",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "endpoint",
+        "hardening",
+        "linux-security",
+        "CIS-benchmark",
+        "Ubuntu",
+        "RHEL"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "hardening-linux-endpoint-with-cis-benchmark",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "hardening-windows-endpoint-with-cis-benchmark",
+      "name": "hardening-windows-endpoint-with-cis-benchmark",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "endpoint",
+        "hardening",
+        "windows-security",
+        "CIS-benchmark",
+        "GPO",
+        "baseline-configuration"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "hardening-windows-endpoint-with-cis-benchmark",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "implementing-application-whitelisting-with-applocker",
+      "name": "implementing-application-whitelisting-with-applocker",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "endpoint",
+        "AppLocker",
+        "application-whitelisting",
+        "windows-security",
+        "software-restriction"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "implementing-application-whitelisting-with-applocker",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "implementing-disk-encryption-with-bitlocker",
+      "name": "implementing-disk-encryption-with-bitlocker",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "endpoint",
+        "encryption",
+        "BitLocker",
+        "TPM",
+        "data-protection",
+        "windows-security"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "implementing-disk-encryption-with-bitlocker",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "implementing-endpoint-dlp-controls",
+      "name": "implementing-endpoint-dlp-controls",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "endpoint",
+        "DLP",
+        "data-loss-prevention",
+        "data-protection",
+        "content-inspection"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "implementing-endpoint-dlp-controls",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "implementing-file-integrity-monitoring-with-aide",
+      "name": "implementing-file-integrity-monitoring-with-aide",
+      "description": "Configure AIDE (Advanced Intrusion Detection Environment) for file integrity monitoring including baseline creation, scheduled integrity checks, change detection, and alerting",
+      "category": "security",
+      "tags": [
+        "aide",
+        "file-integrity",
+        "hids",
+        "baseline",
+        "intrusion-detection",
+        "compliance",
+        "linux-security"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "implementing-file-integrity-monitoring-with-aide",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "implementing-memory-protection-with-dep-aslr",
+      "name": "implementing-memory-protection-with-dep-aslr",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "endpoint",
+        "memory-protection",
+        "DEP",
+        "ASLR",
+        "exploit-mitigation",
+        "CFG"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "implementing-memory-protection-with-dep-aslr",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "implementing-usb-device-control-policy",
+      "name": "implementing-usb-device-control-policy",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "endpoint",
+        "USB-control",
+        "device-control",
+        "data-loss-prevention",
+        "removable-media"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "implementing-usb-device-control-policy",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "performing-endpoint-forensics-investigation",
+      "name": "performing-endpoint-forensics-investigation",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "endpoint",
+        "forensics",
+        "memory-analysis",
+        "disk-imaging",
+        "incident-investigation",
+        "Volatility"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "performing-endpoint-forensics-investigation",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "performing-endpoint-vulnerability-remediation",
+      "name": "performing-endpoint-vulnerability-remediation",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "endpoint",
+        "vulnerability-management",
+        "patching",
+        "CVE",
+        "remediation",
+        "CVSS"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "performing-endpoint-vulnerability-remediation",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
     }
   ],
   "categories": [
