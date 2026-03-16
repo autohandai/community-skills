@@ -10554,6 +10554,1086 @@
       "license": "Apache-2.0",
       "author": "mukul975",
       "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "analyzing-active-directory-acl-abuse",
+      "name": "analyzing-active-directory-acl-abuse",
+      "description": "Detect dangerous ACL misconfigurations in Active Directory using ldap3 to identify GenericAll, WriteDACL, and WriteOwner abuse paths",
+      "category": "security",
+      "tags": [
+        "active-directory",
+        "acl-abuse",
+        "ldap",
+        "privilege-escalation"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "analyzing-active-directory-acl-abuse",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "building-identity-federation-with-saml-azure-ad",
+      "name": "building-identity-federation-with-saml-azure-ad",
+      "description": "Establish SAML 2.0 identity federation between on-premises Active Directory and Azure AD (Microsoft Entra ID) for seamless cross-domain authentication and SSO to cloud applications.",
+      "category": "security",
+      "tags": [
+        "saml",
+        "azure-ad",
+        "entra-id",
+        "federation",
+        "identity",
+        "sso",
+        "adfs",
+        "hybrid-identity"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "building-identity-federation-with-saml-azure-ad",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "building-identity-governance-lifecycle-process",
+      "name": "building-identity-governance-lifecycle-process",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "identity-governance",
+        "lifecycle-management",
+        "JML",
+        "access-provisioning",
+        "RBAC",
+        "IGA"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "building-identity-governance-lifecycle-process",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "building-role-mining-for-rbac-optimization",
+      "name": "building-role-mining-for-rbac-optimization",
+      "description": "Apply bottom-up and top-down role mining techniques to discover optimal RBAC roles from existing user-permission assignments, reducing role explosion and enforcing least privilege.",
+      "category": "security",
+      "tags": [
+        "rbac",
+        "role-mining",
+        "identity-governance",
+        "access-control",
+        "least-privilege",
+        "clustering"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "building-role-mining-for-rbac-optimization",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "configuring-active-directory-tiered-model",
+      "name": "configuring-active-directory-tiered-model",
+      "description": "Implement Microsoft's Enhanced Security Admin Environment (ESAE) tiered administration model for Active Directory. Covers Tier 0/1/2 separation, privileged access workstations (PAWs), administrative f",
+      "category": "security",
+      "tags": [
+        "iam",
+        "identity",
+        "access-control",
+        "active-directory",
+        "tiered-model",
+        "paw",
+        "esae"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "configuring-active-directory-tiered-model",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "configuring-ldap-security-hardening",
+      "name": "configuring-ldap-security-hardening",
+      "description": "Harden LDAP directory services against common attacks including credential harvesting, LDAP injection, anonymous binding, and channel binding bypass. Covers LDAPS enforcement, channel binding, LDAP si",
+      "category": "security",
+      "tags": [
+        "iam",
+        "identity",
+        "access-control",
+        "ldap",
+        "directory-services",
+        "hardening"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "configuring-ldap-security-hardening",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "configuring-multi-factor-authentication-with-duo",
+      "name": "configuring-multi-factor-authentication-with-duo",
+      "description": "Deploy Cisco Duo multi-factor authentication across enterprise applications, VPN, RDP, and SSH access points. This skill covers Duo integration methods, adaptive authentication policies, device trust",
+      "category": "security",
+      "tags": [
+        "iam",
+        "identity",
+        "access-control",
+        "authentication",
+        "mfa",
+        "duo",
+        "multi-factor"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "configuring-multi-factor-authentication-with-duo",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "configuring-oauth2-authorization-flow",
+      "name": "configuring-oauth2-authorization-flow",
+      "description": "Configure secure OAuth 2.0 authorization flows including Authorization Code with PKCE, Client Credentials, and Device Authorization Grant. This skill covers flow selection, PKCE implementation, token",
+      "category": "security",
+      "tags": [
+        "iam",
+        "identity",
+        "access-control",
+        "authentication",
+        "authorization",
+        "oauth2",
+        "oidc",
+        "pkce"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "configuring-oauth2-authorization-flow",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "detecting-anomalous-authentication-patterns",
+      "name": "detecting-anomalous-authentication-patterns",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "UEBA",
+        "authentication-anomaly",
+        "impossible-travel",
+        "brute-force",
+        "credential-stuffing",
+        "behavioral-analytics"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "detecting-anomalous-authentication-patterns",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "detecting-oauth-token-theft",
+      "name": "detecting-oauth-token-theft",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "oauth",
+        "token-theft",
+        "identity-attacks",
+        "impossible-travel"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "detecting-oauth-token-theft",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "implementing-aws-iam-permission-boundaries",
+      "name": "implementing-aws-iam-permission-boundaries",
+      "description": "Configure IAM permission boundaries in AWS to delegate role creation to developers while enforcing maximum privilege limits set by the security team.",
+      "category": "security",
+      "tags": [
+        "aws",
+        "iam",
+        "permission-boundaries",
+        "least-privilege",
+        "delegation",
+        "cloud-security"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "implementing-aws-iam-permission-boundaries",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "implementing-azure-ad-privileged-identity-management",
+      "name": "implementing-azure-ad-privileged-identity-management",
+      "description": "Configure Microsoft Entra Privileged Identity Management to enforce just-in-time role activation, approval workflows, and access reviews for Azure AD privileged roles.",
+      "category": "security",
+      "tags": [
+        "azure-ad",
+        "pim",
+        "entra-id",
+        "just-in-time",
+        "privileged-roles",
+        "identity-governance",
+        "zero-trust"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "implementing-azure-ad-privileged-identity-management",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "implementing-conditional-access-policies-azure-ad",
+      "name": "implementing-conditional-access-policies-azure-ad",
+      "description": "Configure Microsoft Entra ID (Azure AD) Conditional Access policies for zero trust access control. Covers signal-based policy design, device compliance requirements, risk-based authentication, named l",
+      "category": "security",
+      "tags": [
+        "iam",
+        "identity",
+        "access-control",
+        "azure-ad",
+        "entra-id",
+        "conditional-access",
+        "zero-trust"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "implementing-conditional-access-policies-azure-ad",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "implementing-delinea-secret-server-for-pam",
+      "name": "implementing-delinea-secret-server-for-pam",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "PAM",
+        "Delinea",
+        "Secret-Server",
+        "privileged-access",
+        "password-vault",
+        "credential-management"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "implementing-delinea-secret-server-for-pam",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "implementing-google-workspace-admin-security",
+      "name": "implementing-google-workspace-admin-security",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "Google-Workspace",
+        "admin-security",
+        "MFA",
+        "DMARC",
+        "DLP",
+        "OAuth",
+        "cloud-security"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "implementing-google-workspace-admin-security",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "implementing-google-workspace-sso-configuration",
+      "name": "implementing-google-workspace-sso-configuration",
+      "description": "Configure SAML 2.0 single sign-on for Google Workspace with a third-party identity provider, enabling centralized authentication and enforcing organization-wide access policies.",
+      "category": "security",
+      "tags": [
+        "google-workspace",
+        "sso",
+        "saml",
+        "identity-provider",
+        "authentication",
+        "federation"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "implementing-google-workspace-sso-configuration",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "implementing-hashicorp-vault-dynamic-secrets",
+      "name": "implementing-hashicorp-vault-dynamic-secrets",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "HashiCorp-Vault",
+        "dynamic-secrets",
+        "secrets-management",
+        "database-credentials",
+        "AWS-secrets",
+        "PKI"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "implementing-hashicorp-vault-dynamic-secrets",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "implementing-identity-governance-with-sailpoint",
+      "name": "implementing-identity-governance-with-sailpoint",
+      "description": "Deploy SailPoint IdentityNow or IdentityIQ for identity governance and administration. Covers identity lifecycle management, access request workflows, certification campaigns, role mining, SOD policy",
+      "category": "security",
+      "tags": [
+        "iam",
+        "identity",
+        "access-control",
+        "governance",
+        "sailpoint",
+        "iga",
+        "lifecycle"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "implementing-identity-governance-with-sailpoint",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "implementing-just-in-time-access-provisioning",
+      "name": "implementing-just-in-time-access-provisioning",
+      "description": "Implement Just-In-Time (JIT) access provisioning to eliminate standing privileges by granting temporary, time-bound access only when needed. This skill covers JIT architecture design, approval workflo",
+      "category": "security",
+      "tags": [
+        "iam",
+        "identity",
+        "access-control",
+        "jit",
+        "provisioning",
+        "zero-trust",
+        "least-privilege"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "implementing-just-in-time-access-provisioning",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "implementing-pam-for-database-access",
+      "name": "implementing-pam-for-database-access",
+      "description": "Deploy privileged access management for database systems including Oracle, SQL Server, PostgreSQL, and MySQL. Covers session proxy configuration, credential vaulting, query auditing, dynamic credentia",
+      "category": "security",
+      "tags": [
+        "iam",
+        "identity",
+        "access-control",
+        "privileged-access",
+        "pam",
+        "database",
+        "dba"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "implementing-pam-for-database-access",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "implementing-passwordless-auth-with-microsoft-entra",
+      "name": "implementing-passwordless-auth-with-microsoft-entra",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "passwordless",
+        "FIDO2",
+        "passkeys",
+        "Microsoft-Entra",
+        "Windows-Hello",
+        "phishing-resistant-MFA"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "implementing-passwordless-auth-with-microsoft-entra",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "implementing-passwordless-authentication-with-fido2",
+      "name": "implementing-passwordless-authentication-with-fido2",
+      "description": "Deploy FIDO2/WebAuthn passwordless authentication using security keys and platform authenticators. Covers WebAuthn API integration, FIDO2 server configuration, passkey enrollment, biometric authentica",
+      "category": "security",
+      "tags": [
+        "iam",
+        "identity",
+        "access-control",
+        "authentication",
+        "fido2",
+        "webauthn",
+        "passwordless"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "implementing-passwordless-authentication-with-fido2",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "implementing-privileged-access-management-with-cyberark",
+      "name": "implementing-privileged-access-management-with-cyberark",
+      "description": "Deploy CyberArk Privileged Access Management to discover, vault, rotate, and monitor privileged credentials across enterprise infrastructure. This skill covers vault architecture, session isolation, c",
+      "category": "security",
+      "tags": [
+        "iam",
+        "identity",
+        "access-control",
+        "privileged-access",
+        "pam",
+        "cyberark"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "implementing-privileged-access-management-with-cyberark",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "implementing-privileged-access-workstation",
+      "name": "implementing-privileged-access-workstation",
+      "description": "Design and implement Privileged Access Workstations (PAWs) with device hardening, just-in-time access, and integration with CyberArk or BeyondTrust for secure administrative operations.",
+      "category": "security",
+      "tags": [
+        "privileged-access",
+        "PAW",
+        "zero-trust",
+        "device-hardening",
+        "CyberArk",
+        "BeyondTrust",
+        "just-in-time-access"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "implementing-privileged-access-workstation",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "implementing-privileged-identity-management-with-azure",
+      "name": "implementing-privileged-identity-management-with-azure",
+      "description": "Configure Azure AD Privileged Identity Management (PIM) using Microsoft Graph API to manage eligible role assignments, just-in-time activation, access reviews, and role management policies for zero-trust privileged access.",
+      "category": "security",
+      "tags": [
+        "Azure-AD",
+        "PIM",
+        "privileged-access",
+        "just-in-time",
+        "eligible-roles",
+        "Microsoft-Graph",
+        "zero-trust",
+        "access-reviews",
+        "Entra-ID"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "implementing-privileged-identity-management-with-azure",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "implementing-privileged-session-monitoring",
+      "name": "implementing-privileged-session-monitoring",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "pam",
+        "session-monitoring",
+        "privileged-access",
+        "audit-logging"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "implementing-privileged-session-monitoring",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "implementing-rbac-for-kubernetes-cluster",
+      "name": "implementing-rbac-for-kubernetes-cluster",
+      "description": "Configure Kubernetes Role-Based Access Control (RBAC) to enforce least-privilege access to cluster resources. This skill covers Role/ClusterRole design, RoleBinding configuration, service account secu",
+      "category": "security",
+      "tags": [
+        "iam",
+        "identity",
+        "access-control",
+        "authorization",
+        "rbac",
+        "kubernetes",
+        "k8s"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "implementing-rbac-for-kubernetes-cluster",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "implementing-saml-sso-with-okta",
+      "name": "implementing-saml-sso-with-okta",
+      "description": "Implement SAML 2.0 Single Sign-On (SSO) using Okta as the Identity Provider (IdP). This skill covers end-to-end configuration of SAML authentication flows, attribute mapping, certificate management, a",
+      "category": "security",
+      "tags": [
+        "iam",
+        "identity",
+        "access-control",
+        "authentication",
+        "saml",
+        "sso",
+        "okta"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "implementing-saml-sso-with-okta",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "implementing-scim-provisioning-with-okta",
+      "name": "implementing-scim-provisioning-with-okta",
+      "description": "Implement automated user provisioning and deprovisioning using SCIM 2.0 protocol with Okta as the identity provider.",
+      "category": "security",
+      "tags": [
+        "scim",
+        "okta",
+        "provisioning",
+        "identity-management",
+        "automation",
+        "sso",
+        "lifecycle-management"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "implementing-scim-provisioning-with-okta",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "implementing-zero-standing-privilege-with-cyberark",
+      "name": "implementing-zero-standing-privilege-with-cyberark",
+      "description": "Deploy CyberArk Secure Cloud Access to eliminate standing privileges in hybrid and multi-cloud environments using just-in-time access with time, entitlement, and approval controls.",
+      "category": "security",
+      "tags": [
+        "cyberark",
+        "zero-standing-privilege",
+        "jit-access",
+        "pam",
+        "cloud-security",
+        "least-privilege"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "implementing-zero-standing-privilege-with-cyberark",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "performing-access-recertification-with-saviynt",
+      "name": "performing-access-recertification-with-saviynt",
+      "description": "Configure and execute access recertification campaigns in Saviynt Enterprise Identity Cloud to validate user entitlements, revoke excessive access, and maintain compliance with SOX, SOC2, and HIPAA.",
+      "category": "security",
+      "tags": [
+        "saviynt",
+        "access-recertification",
+        "identity-governance",
+        "compliance",
+        "certification-campaign",
+        "iga"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "performing-access-recertification-with-saviynt",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "performing-access-review-and-certification",
+      "name": "performing-access-review-and-certification",
+      "description": "Conduct systematic access reviews and certifications to ensure users have appropriate access rights aligned with their roles. This skill covers review campaign design, reviewer selection, risk-based p",
+      "category": "security",
+      "tags": [
+        "iam",
+        "identity",
+        "access-control",
+        "access-review",
+        "certification",
+        "compliance",
+        "governance"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "performing-access-review-and-certification",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "performing-entitlement-review-with-sailpoint-iiq",
+      "name": "performing-entitlement-review-with-sailpoint-iiq",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "SailPoint",
+        "IdentityIQ",
+        "access-review",
+        "entitlement-certification",
+        "IGA",
+        "access-governance"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "performing-entitlement-review-with-sailpoint-iiq",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "performing-oauth-scope-minimization-review",
+      "name": "performing-oauth-scope-minimization-review",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "OAuth",
+        "scope-minimization",
+        "API-security",
+        "consent-review",
+        "third-party-risk",
+        "token-audit"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "performing-oauth-scope-minimization-review",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "performing-privileged-account-access-review",
+      "name": "performing-privileged-account-access-review",
+      "description": "Conduct systematic reviews of privileged accounts to validate access rights, identify excessive permissions, and enforce least privilege across PAM infrastructure.",
+      "category": "security",
+      "tags": [
+        "pam",
+        "access-review",
+        "privileged-accounts",
+        "least-privilege",
+        "compliance",
+        "audit",
+        "identity-governance"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "performing-privileged-account-access-review",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "performing-privileged-account-discovery",
+      "name": "performing-privileged-account-discovery",
+      "description": "Discover and inventory all privileged accounts across enterprise infrastructure including domain admins, local admins, service accounts, database admins, cloud IAM roles, and application admin account",
+      "category": "security",
+      "tags": [
+        "iam",
+        "identity",
+        "access-control",
+        "privileged-access",
+        "discovery",
+        "inventory"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "performing-privileged-account-discovery",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "performing-service-account-audit",
+      "name": "performing-service-account-audit",
+      "description": "Audit service accounts across enterprise infrastructure to identify orphaned, over-privileged, and non-compliant accounts. This skill covers discovery of service accounts in Active Directory, cloud pl",
+      "category": "security",
+      "tags": [
+        "iam",
+        "identity",
+        "access-control",
+        "service-accounts",
+        "audit",
+        "governance"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "performing-service-account-audit",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "performing-service-account-credential-rotation",
+      "name": "performing-service-account-credential-rotation",
+      "description": "Automate credential rotation for service accounts across Active Directory, cloud platforms, and application databases to eliminate stale secrets and reduce compromise risk.",
+      "category": "security",
+      "tags": [
+        "service-accounts",
+        "credential-rotation",
+        "secrets-management",
+        "pam",
+        "automation",
+        "vault"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "performing-service-account-credential-rotation",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
     }
   ],
   "categories": [
