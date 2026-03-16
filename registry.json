@@ -7088,6 +7088,992 @@
       "license": "MIT",
       "author": "mukul975",
       "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "implementing-gdpr-data-protection-controls",
+      "name": "implementing-gdpr-data-protection-controls",
+      "description": "The General Data Protection Regulation (EU) 2016/679 (GDPR) is the EU's comprehensive data protection law governing the collection, processing, storage, and transfer of personal data. This skill cover",
+      "category": "security",
+      "tags": [
+        "compliance",
+        "governance",
+        "gdpr",
+        "privacy",
+        "data-protection",
+        "eu-regulation"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "implementing-gdpr-data-protection-controls",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "MIT",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "implementing-iso-27001-information-security-management",
+      "name": "implementing-iso-27001-information-security-management",
+      "description": "ISO/IEC 27001:2022 is the international standard for establishing, implementing, maintaining, and continually improving an Information Security Management System (ISMS). This skill covers the complete",
+      "category": "security",
+      "tags": [
+        "compliance",
+        "governance",
+        "iso27001",
+        "isms",
+        "risk-management",
+        "certification"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "implementing-iso-27001-information-security-management",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "MIT",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "implementing-pci-dss-compliance-controls",
+      "name": "implementing-pci-dss-compliance-controls",
+      "description": "PCI DSS 4.0.1 establishes 12 requirements across 6 control objectives for organizations that store, process, or transmit cardholder data. With PCI DSS 3.2.1 retiring April 2024 and 51 new requirements",
+      "category": "security",
+      "tags": [
+        "compliance",
+        "governance",
+        "pci-dss",
+        "payment-security",
+        "cardholder-data"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "implementing-pci-dss-compliance-controls",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "MIT",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "performing-nist-csf-maturity-assessment",
+      "name": "performing-nist-csf-maturity-assessment",
+      "description": "The NIST Cybersecurity Framework (CSF) 2.0, released in February 2024, provides a comprehensive taxonomy for managing cybersecurity risk through six core Functions: Govern, Identify, Protect, Detect,",
+      "category": "security",
+      "tags": [
+        "compliance",
+        "governance",
+        "nist",
+        "csf",
+        "maturity-assessment",
+        "risk-management"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "performing-nist-csf-maturity-assessment",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "MIT",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "performing-soc-2-type-ii-audit-preparation",
+      "name": "performing-soc-2-type-ii-audit-preparation",
+      "description": "SOC 2 Type II audit preparation involves designing, implementing, and demonstrating the operational effectiveness of controls aligned to the AICPA Trust Services Criteria (TSC) over a defined audit pe",
+      "category": "security",
+      "tags": [
+        "compliance",
+        "governance",
+        "soc2",
+        "audit",
+        "trust-services-criteria",
+        "aicpa"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "performing-soc-2-type-ii-audit-preparation",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "MIT",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "analyzing-kubernetes-audit-logs",
+      "name": "analyzing-kubernetes-audit-logs",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "analyzing",
+        "kubernetes",
+        "audit",
+        "logs"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "analyzing-kubernetes-audit-logs",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "auditing-kubernetes-rbac-permissions",
+      "name": "auditing-kubernetes-rbac-permissions",
+      "description": "Kubernetes Role-Based Access Control (RBAC) auditing systematically reviews roles, cluster roles, bindings, and service account permissions to identify overly permissive access, privilege escalation p",
+      "category": "security",
+      "tags": [
+        "containers",
+        "kubernetes",
+        "security",
+        "RBAC",
+        "access-control"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "auditing-kubernetes-rbac-permissions",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "detecting-container-drift-at-runtime",
+      "name": "detecting-container-drift-at-runtime",
+      "description": "Detect unauthorized modifications to running containers by monitoring for binary execution drift, file system changes, and configuration deviations from the original container image.",
+      "category": "security",
+      "tags": [
+        "container-drift",
+        "runtime-security",
+        "immutable-containers",
+        "falco",
+        "kubernetes",
+        "container-security",
+        "drift-detection",
+        "microsoft-defender"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "detecting-container-drift-at-runtime",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "detecting-container-escape-attempts",
+      "name": "detecting-container-escape-attempts",
+      "description": "Container escape is a critical attack technique where an adversary breaks out of container isolation to access the host system or other containers. Detection involves monitoring for escape indicators",
+      "category": "security",
+      "tags": [
+        "containers",
+        "kubernetes",
+        "docker",
+        "security",
+        "runtime-security",
+        "escape-detection"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "detecting-container-escape-attempts",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "detecting-container-escape-with-falco-rules",
+      "name": "detecting-container-escape-with-falco-rules",
+      "description": "Detect container escape attempts in real-time using Falco runtime security rules that monitor syscalls, file access, and privilege escalation.",
+      "category": "security",
+      "tags": [
+        "falco",
+        "container-escape",
+        "runtime-security",
+        "syscall-monitoring",
+        "kubernetes",
+        "detection"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "detecting-container-escape-with-falco-rules",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "detecting-privilege-escalation-in-kubernetes-pods",
+      "name": "detecting-privilege-escalation-in-kubernetes-pods",
+      "description": "Detect and prevent privilege escalation in Kubernetes pods by monitoring security contexts, capabilities, and syscall patterns with Falco and OPA policies.",
+      "category": "security",
+      "tags": [
+        "kubernetes",
+        "privilege-escalation",
+        "security-context",
+        "capabilities",
+        "detection",
+        "pod-security"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "detecting-privilege-escalation-in-kubernetes-pods",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "hardening-docker-containers-for-production",
+      "name": "hardening-docker-containers-for-production",
+      "description": "Hardening Docker containers for production involves applying security best practices aligned with CIS Docker Benchmark v1.8.0 to minimize attack surface, prevent privilege escalation, and enforce leas",
+      "category": "security",
+      "tags": [
+        "containers",
+        "docker",
+        "security",
+        "hardening",
+        "CIS-benchmark"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "hardening-docker-containers-for-production",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "hardening-docker-daemon-configuration",
+      "name": "hardening-docker-daemon-configuration",
+      "description": "Harden the Docker daemon by configuring daemon.json with user namespace remapping, TLS authentication, rootless mode, and CIS benchmark controls.",
+      "category": "security",
+      "tags": [
+        "docker",
+        "daemon-hardening",
+        "container-security",
+        "cis-benchmark",
+        "rootless",
+        "userns-remap"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "hardening-docker-daemon-configuration",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "implementing-container-image-minimal-base-with-distroless",
+      "name": "implementing-container-image-minimal-base-with-distroless",
+      "description": "Reduce container attack surface by building application images on Google distroless base images that contain only the application runtime with no shell, package manager, or unnecessary OS utilities.",
+      "category": "security",
+      "tags": [
+        "distroless",
+        "container-images",
+        "minimal-base",
+        "attack-surface",
+        "docker",
+        "security-hardening",
+        "supply-chain",
+        "kubernetes"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "implementing-container-image-minimal-base-with-distroless",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "implementing-container-network-policies-with-calico",
+      "name": "implementing-container-network-policies-with-calico",
+      "description": "Enforce Kubernetes network segmentation using Calico CNI network policies and global network policies to control pod-to-pod traffic, restrict egress, and implement zero-trust microsegmentation.",
+      "category": "security",
+      "tags": [
+        "container-security",
+        "kubernetes",
+        "calico",
+        "network-policy",
+        "microsegmentation",
+        "cni"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "implementing-container-network-policies-with-calico",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "implementing-image-provenance-verification-with-cosign",
+      "name": "implementing-image-provenance-verification-with-cosign",
+      "description": "Sign and verify container image provenance using Sigstore Cosign with keyless OIDC-based signing, attestations, and Kubernetes admission enforcement.",
+      "category": "security",
+      "tags": [
+        "cosign",
+        "sigstore",
+        "image-signing",
+        "supply-chain",
+        "provenance",
+        "keyless",
+        "slsa"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "implementing-image-provenance-verification-with-cosign",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "implementing-kubernetes-network-policy-with-calico",
+      "name": "implementing-kubernetes-network-policy-with-calico",
+      "description": "Implement Kubernetes network segmentation using Calico NetworkPolicy and GlobalNetworkPolicy for zero-trust pod-to-pod communication.",
+      "category": "security",
+      "tags": [
+        "calico",
+        "kubernetes",
+        "network-policy",
+        "network-segmentation",
+        "zero-trust",
+        "cni"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "implementing-kubernetes-network-policy-with-calico",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "implementing-kubernetes-pod-security-standards",
+      "name": "implementing-kubernetes-pod-security-standards",
+      "description": "Pod Security Standards (PSS) define three levels of security policies -- Privileged, Baseline, and Restricted -- enforced by the Pod Security Admission (PSA) controller built into Kubernetes 1.25+. PS",
+      "category": "security",
+      "tags": [
+        "containers",
+        "kubernetes",
+        "security",
+        "pod-security",
+        "PSA"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "implementing-kubernetes-pod-security-standards",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "implementing-network-policies-for-kubernetes",
+      "name": "implementing-network-policies-for-kubernetes",
+      "description": "Kubernetes NetworkPolicies provide pod-level network segmentation by defining ingress and egress rules that control traffic flow between pods, namespaces, and external endpoints. Combined with CNI plu",
+      "category": "security",
+      "tags": [
+        "containers",
+        "kubernetes",
+        "security",
+        "network-policies",
+        "microsegmentation"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "implementing-network-policies-for-kubernetes",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "implementing-opa-gatekeeper-for-policy-enforcement",
+      "name": "implementing-opa-gatekeeper-for-policy-enforcement",
+      "description": "Enforce Kubernetes admission policies using OPA Gatekeeper with ConstraintTemplates, Rego rules, and the Gatekeeper policy library.",
+      "category": "security",
+      "tags": [
+        "opa",
+        "gatekeeper",
+        "kubernetes",
+        "admission-control",
+        "policy-as-code",
+        "rego"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "implementing-opa-gatekeeper-for-policy-enforcement",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "implementing-pod-security-admission-controller",
+      "name": "implementing-pod-security-admission-controller",
+      "description": "Implement Kubernetes Pod Security Admission to enforce baseline and restricted security profiles at namespace level using built-in admission controller.",
+      "category": "security",
+      "tags": [
+        "kubernetes",
+        "pod-security-admission",
+        "psa",
+        "pod-security-standards",
+        "admission-controller"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "implementing-pod-security-admission-controller",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "implementing-rbac-hardening-for-kubernetes",
+      "name": "implementing-rbac-hardening-for-kubernetes",
+      "description": "Harden Kubernetes Role-Based Access Control by implementing least-privilege policies, auditing role bindings, eliminating cluster-admin sprawl, and integrating external identity providers.",
+      "category": "security",
+      "tags": [
+        "kubernetes",
+        "rbac",
+        "access-control",
+        "least-privilege",
+        "security-hardening",
+        "iam",
+        "oidc",
+        "service-accounts"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "implementing-rbac-hardening-for-kubernetes",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "implementing-runtime-security-with-tetragon",
+      "name": "implementing-runtime-security-with-tetragon",
+      "description": "Implement eBPF-based runtime security observability and enforcement in Kubernetes clusters using Cilium Tetragon for kernel-level threat detection and policy enforcement.",
+      "category": "security",
+      "tags": [
+        "tetragon",
+        "ebpf",
+        "runtime-security",
+        "kubernetes",
+        "cilium",
+        "container-security",
+        "observability",
+        "kernel-security",
+        "cncf"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "implementing-runtime-security-with-tetragon",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "implementing-supply-chain-security-with-in-toto",
+      "name": "implementing-supply-chain-security-with-in-toto",
+      "description": "Implement software supply chain integrity verification for container builds using the in-toto framework to create cryptographically signed attestations across CI/CD pipeline steps.",
+      "category": "security",
+      "tags": [
+        "in-toto",
+        "supply-chain-security",
+        "attestation",
+        "slsa",
+        "sigstore",
+        "container-security",
+        "cncf",
+        "provenance",
+        "sbom"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "implementing-supply-chain-security-with-in-toto",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "performing-container-escape-detection",
+      "name": "performing-container-escape-detection",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "performing",
+        "container",
+        "escape",
+        "detection"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "performing-container-escape-detection",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "performing-container-security-scanning-with-trivy",
+      "name": "performing-container-security-scanning-with-trivy",
+      "description": "Scan container images, filesystems, and Kubernetes manifests for vulnerabilities, misconfigurations, exposed secrets, and license compliance issues using Aqua Security Trivy with SBOM generation and CI/CD integration.",
+      "category": "security",
+      "tags": [
+        "trivy",
+        "container-security",
+        "vulnerability-scanning",
+        "sbom",
+        "docker",
+        "kubernetes",
+        "devsecops",
+        "supply-chain"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "performing-container-security-scanning-with-trivy",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "performing-docker-bench-security-assessment",
+      "name": "performing-docker-bench-security-assessment",
+      "description": "Docker Bench for Security is an open-source script that checks dozens of common best practices around deploying Docker containers in production. Based on the CIS Docker Benchmark, it audits host confi",
+      "category": "security",
+      "tags": [
+        "containers",
+        "docker",
+        "security",
+        "CIS-benchmark",
+        "assessment"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "performing-docker-bench-security-assessment",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "performing-kubernetes-cis-benchmark-with-kube-bench",
+      "name": "performing-kubernetes-cis-benchmark-with-kube-bench",
+      "description": "Audit Kubernetes cluster security posture against CIS benchmarks using kube-bench with automated checks for control plane, worker nodes, and RBAC.",
+      "category": "security",
+      "tags": [
+        "kube-bench",
+        "cis-benchmark",
+        "kubernetes",
+        "compliance",
+        "hardening",
+        "aquasecurity"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "performing-kubernetes-cis-benchmark-with-kube-bench",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "performing-kubernetes-etcd-security-assessment",
+      "name": "performing-kubernetes-etcd-security-assessment",
+      "description": "Assess the security posture of Kubernetes etcd clusters by evaluating encryption at rest, TLS configuration, access controls, backup encryption, and network isolation.",
+      "category": "security",
+      "tags": [
+        "kubernetes",
+        "etcd",
+        "encryption",
+        "tls",
+        "security-assessment",
+        "backup",
+        "secrets",
+        "control-plane"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "performing-kubernetes-etcd-security-assessment",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "performing-kubernetes-penetration-testing",
+      "name": "performing-kubernetes-penetration-testing",
+      "description": "Kubernetes penetration testing systematically evaluates cluster security by simulating attacker techniques against the API server, kubelet, etcd, pods, RBAC, network policies, and secrets. Using tools",
+      "category": "security",
+      "tags": [
+        "containers",
+        "kubernetes",
+        "security",
+        "penetration-testing",
+        "offensive-security"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "performing-kubernetes-penetration-testing",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "scanning-container-images-with-grype",
+      "name": "scanning-container-images-with-grype",
+      "description": "Scan container images for known vulnerabilities using Anchore Grype with SBOM-based matching and configurable severity thresholds.",
+      "category": "security",
+      "tags": [
+        "grype",
+        "vulnerability-scanning",
+        "container-security",
+        "sbom",
+        "anchore",
+        "supply-chain"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "scanning-container-images-with-grype",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "scanning-docker-images-with-trivy",
+      "name": "scanning-docker-images-with-trivy",
+      "description": "Trivy is a comprehensive open-source vulnerability scanner by Aqua Security that detects vulnerabilities in OS packages, language-specific dependencies, misconfigurations, secrets, and license violati",
+      "category": "security",
+      "tags": [
+        "containers",
+        "docker",
+        "security",
+        "trivy",
+        "vulnerability-scanning"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "scanning-docker-images-with-trivy",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "scanning-kubernetes-manifests-with-kubesec",
+      "name": "scanning-kubernetes-manifests-with-kubesec",
+      "description": "Perform security risk analysis on Kubernetes resource manifests using Kubesec to identify misconfigurations, privilege escalation risks, and deviations from security best practices.",
+      "category": "security",
+      "tags": [
+        "kubesec",
+        "kubernetes",
+        "manifest-scanning",
+        "security-scanning",
+        "devsecops",
+        "misconfiguration",
+        "static-analysis",
+        "ci-cd"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "scanning-kubernetes-manifests-with-kubesec",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "securing-container-registry-with-harbor",
+      "name": "securing-container-registry-with-harbor",
+      "description": "Harbor is an open-source container registry that provides security features including vulnerability scanning (integrated Trivy), image signing (Notary/Cosign), RBAC, content trust policies, replicatio",
+      "category": "security",
+      "tags": [
+        "containers",
+        "kubernetes",
+        "docker",
+        "security",
+        "registry",
+        "harbor"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "securing-container-registry-with-harbor",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "securing-helm-chart-deployments",
+      "name": "securing-helm-chart-deployments",
+      "description": "Secure Helm chart deployments by validating chart integrity, scanning templates for misconfigurations, and enforcing security contexts in Kubernetes releases.",
+      "category": "security",
+      "tags": [
+        "helm",
+        "kubernetes",
+        "chart-security",
+        "supply-chain",
+        "configuration-security",
+        "deployment"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "securing-helm-chart-deployments",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
     }
   ],
   "categories": [
