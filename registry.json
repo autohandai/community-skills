@@ -12325,6 +12325,1087 @@
       "license": "Apache-2.0",
       "author": "mukul975",
       "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "analyzing-android-malware-with-apktool",
+      "name": "analyzing-android-malware-with-apktool",
+      "description": "Perform static analysis of Android APK malware samples using apktool for decompilation, jadx for Java source recovery, and androguard for permission analysis, manifest inspection, and suspicious API call detection.",
+      "category": "security",
+      "tags": [
+        "Android",
+        "APK",
+        "apktool",
+        "jadx",
+        "androguard",
+        "mobile-malware",
+        "static-analysis",
+        "reverse-engineering"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "analyzing-android-malware-with-apktool",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "analyzing-bootkit-and-rootkit-samples",
+      "name": "analyzing-bootkit-and-rootkit-samples",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "malware",
+        "bootkit",
+        "rootkit",
+        "UEFI",
+        "MBR-analysis"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "analyzing-bootkit-and-rootkit-samples",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "analyzing-cobalt-strike-beacon-configuration",
+      "name": "analyzing-cobalt-strike-beacon-configuration",
+      "description": "Extract and analyze Cobalt Strike beacon configuration from PE files and memory dumps to identify C2 infrastructure, malleable profiles, and operator tradecraft.",
+      "category": "security",
+      "tags": [
+        "cobalt-strike",
+        "beacon",
+        "c2",
+        "malware-analysis",
+        "config-extraction",
+        "threat-hunting",
+        "red-team-tools"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "analyzing-cobalt-strike-beacon-configuration",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "analyzing-cobaltstrike-malleable-c2-profiles",
+      "name": "analyzing-cobaltstrike-malleable-c2-profiles",
+      "description": "Parse and analyze Cobalt Strike Malleable C2 profiles using dissect.cobaltstrike and pyMalleableC2 to extract C2 indicators, detect evasion techniques, and generate network detection signatures.",
+      "category": "security",
+      "tags": [
+        "cobalt-strike",
+        "malleable-c2",
+        "c2-detection",
+        "beacon-analysis",
+        "network-signatures",
+        "threat-hunting",
+        "red-team-tools"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "analyzing-cobaltstrike-malleable-c2-profiles",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "analyzing-command-and-control-communication",
+      "name": "analyzing-command-and-control-communication",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "malware",
+        "C2",
+        "command-and-control",
+        "beacon",
+        "protocol-analysis"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "analyzing-command-and-control-communication",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "analyzing-golang-malware-with-ghidra",
+      "name": "analyzing-golang-malware-with-ghidra",
+      "description": "Reverse engineer Go-compiled malware using Ghidra with specialized scripts for function recovery, string extraction, and type reconstruction in stripped Go binaries.",
+      "category": "security",
+      "tags": [
+        "golang",
+        "ghidra",
+        "reverse-engineering",
+        "malware-analysis",
+        "binary-analysis",
+        "go-malware",
+        "disassembly"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "analyzing-golang-malware-with-ghidra",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "analyzing-heap-spray-exploitation",
+      "name": "analyzing-heap-spray-exploitation",
+      "description": "Detect and analyze heap spray attacks in memory dumps using Volatility3 plugins to identify NOP sled patterns, shellcode landing zones, and suspicious large allocations in process virtual address space.",
+      "category": "security",
+      "tags": [
+        "malware-analysis",
+        "memory-forensics",
+        "heap-spray",
+        "volatility3",
+        "exploit-analysis"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "analyzing-heap-spray-exploitation",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "analyzing-linux-elf-malware",
+      "name": "analyzing-linux-elf-malware",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "malware",
+        "Linux",
+        "ELF",
+        "reverse-engineering",
+        "server-malware"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "analyzing-linux-elf-malware",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "analyzing-macro-malware-in-office-documents",
+      "name": "analyzing-macro-malware-in-office-documents",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "malware",
+        "macro",
+        "Office",
+        "VBA",
+        "document-malware"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "analyzing-macro-malware-in-office-documents",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "analyzing-malicious-pdf-with-peepdf",
+      "name": "analyzing-malicious-pdf-with-peepdf",
+      "description": "Perform static analysis of malicious PDF documents using peepdf, pdfid, and pdf-parser to extract embedded JavaScript, shellcode, and suspicious objects.",
+      "category": "security",
+      "tags": [
+        "malware-analysis",
+        "pdf",
+        "peepdf",
+        "pdfid",
+        "pdf-parser",
+        "static-analysis",
+        "reverse-engineering",
+        "dfir"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "analyzing-malicious-pdf-with-peepdf",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "analyzing-malware-behavior-with-cuckoo-sandbox",
+      "name": "analyzing-malware-behavior-with-cuckoo-sandbox",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "malware",
+        "dynamic-analysis",
+        "sandbox",
+        "Cuckoo",
+        "behavioral-analysis"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "analyzing-malware-behavior-with-cuckoo-sandbox",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "analyzing-malware-persistence-with-autoruns",
+      "name": "analyzing-malware-persistence-with-autoruns",
+      "description": "Use Sysinternals Autoruns to systematically identify and analyze malware persistence mechanisms across registry keys, scheduled tasks, services, drivers, and startup locations on Windows systems.",
+      "category": "security",
+      "tags": [
+        "autoruns",
+        "persistence",
+        "malware-analysis",
+        "sysinternals",
+        "windows",
+        "registry",
+        "startup",
+        "incident-response"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "analyzing-malware-persistence-with-autoruns",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "analyzing-malware-sandbox-evasion-techniques",
+      "name": "analyzing-malware-sandbox-evasion-techniques",
+      "description": "Detect sandbox evasion techniques in malware samples by analyzing timing checks, VM artifact queries, user interaction detection, and sleep inflation patterns from Cuckoo/AnyRun behavioral reports",
+      "category": "security",
+      "tags": [],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "analyzing-malware-sandbox-evasion-techniques",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "analyzing-memory-dumps-with-volatility",
+      "name": "analyzing-memory-dumps-with-volatility",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "malware",
+        "memory-forensics",
+        "Volatility",
+        "RAM-analysis",
+        "incident-response"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "analyzing-memory-dumps-with-volatility",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "analyzing-network-covert-channels-in-malware",
+      "name": "analyzing-network-covert-channels-in-malware",
+      "description": "Detect and analyze covert communication channels used by malware including DNS tunneling, ICMP exfiltration, steganographic HTTP, and protocol abuse for C2 and data exfiltration.",
+      "category": "security",
+      "tags": [
+        "covert-channels",
+        "dns-tunneling",
+        "icmp-exfiltration",
+        "malware-analysis",
+        "network-forensics",
+        "c2-detection",
+        "data-exfiltration"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "analyzing-network-covert-channels-in-malware",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "analyzing-network-traffic-of-malware",
+      "name": "analyzing-network-traffic-of-malware",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "malware",
+        "network-analysis",
+        "PCAP",
+        "Wireshark",
+        "C2-detection"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "analyzing-network-traffic-of-malware",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "analyzing-packed-malware-with-upx-unpacker",
+      "name": "analyzing-packed-malware-with-upx-unpacker",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "malware",
+        "unpacking",
+        "UPX",
+        "packing",
+        "static-analysis"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "analyzing-packed-malware-with-upx-unpacker",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "analyzing-pdf-malware-with-pdfid",
+      "name": "analyzing-pdf-malware-with-pdfid",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "malware",
+        "PDF-analysis",
+        "document-malware",
+        "PDFiD",
+        "static-analysis"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "analyzing-pdf-malware-with-pdfid",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "analyzing-ransomware-encryption-mechanisms",
+      "name": "analyzing-ransomware-encryption-mechanisms",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "malware",
+        "ransomware",
+        "encryption",
+        "cryptanalysis",
+        "reverse-engineering"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "analyzing-ransomware-encryption-mechanisms",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "analyzing-supply-chain-malware-artifacts",
+      "name": "analyzing-supply-chain-malware-artifacts",
+      "description": "Investigate supply chain attack artifacts including trojanized software updates, compromised build pipelines, and sideloaded dependencies to identify intrusion vectors and scope of compromise.",
+      "category": "security",
+      "tags": [
+        "supply-chain",
+        "malware-analysis",
+        "trojanized-software",
+        "solarwinds",
+        "3cx",
+        "dependency-confusion",
+        "software-integrity"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "analyzing-supply-chain-malware-artifacts",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "deobfuscating-javascript-malware",
+      "name": "deobfuscating-javascript-malware",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "malware",
+        "JavaScript",
+        "deobfuscation",
+        "web-malware",
+        "script-analysis"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "deobfuscating-javascript-malware",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "deobfuscating-powershell-obfuscated-malware",
+      "name": "deobfuscating-powershell-obfuscated-malware",
+      "description": "Systematically deobfuscate multi-layer PowerShell malware using AST analysis, dynamic tracing, and tools like PSDecode and PowerDecode to reveal hidden payloads and C2 infrastructure.",
+      "category": "security",
+      "tags": [
+        "powershell",
+        "deobfuscation",
+        "malware-analysis",
+        "scripting",
+        "obfuscation",
+        "ast-analysis",
+        "incident-response"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "deobfuscating-powershell-obfuscated-malware",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "detecting-fileless-malware-techniques",
+      "name": "detecting-fileless-malware-techniques",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "malware",
+        "fileless",
+        "LOLBins",
+        "memory-analysis",
+        "detection"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "detecting-fileless-malware-techniques",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "detecting-process-injection-techniques",
+      "name": "detecting-process-injection-techniques",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "malware",
+        "process-injection",
+        "detection",
+        "memory-forensics",
+        "defense-evasion"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "detecting-process-injection-techniques",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "detecting-rootkit-activity",
+      "name": "detecting-rootkit-activity",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "malware",
+        "rootkit",
+        "detection",
+        "kernel-analysis",
+        "memory-forensics"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "detecting-rootkit-activity",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "extracting-config-from-agent-tesla-rat",
+      "name": "extracting-config-from-agent-tesla-rat",
+      "description": "Extract embedded configuration from Agent Tesla RAT samples including SMTP/FTP/Telegram exfiltration credentials, keylogger settings, and C2 endpoints using .NET decompilation and memory analysis.",
+      "category": "security",
+      "tags": [
+        "agent-tesla",
+        "rat",
+        "config-extraction",
+        "dotnet",
+        "malware-analysis",
+        "keylogger",
+        "credential-theft"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "extracting-config-from-agent-tesla-rat",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "extracting-iocs-from-malware-samples",
+      "name": "extracting-iocs-from-malware-samples",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "malware",
+        "IOC-extraction",
+        "threat-intelligence",
+        "indicators",
+        "detection"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "extracting-iocs-from-malware-samples",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "performing-automated-malware-analysis-with-cape",
+      "name": "performing-automated-malware-analysis-with-cape",
+      "description": "Deploy and operate CAPEv2 sandbox for automated malware analysis with behavioral monitoring, payload extraction, configuration parsing, and anti-evasion capabilities.",
+      "category": "security",
+      "tags": [
+        "cape",
+        "sandbox",
+        "automated-analysis",
+        "malware-analysis",
+        "behavioral-analysis",
+        "payload-extraction",
+        "cuckoo"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "performing-automated-malware-analysis-with-cape",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "performing-dynamic-analysis-with-any-run",
+      "name": "performing-dynamic-analysis-with-any-run",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "malware",
+        "dynamic-analysis",
+        "sandbox",
+        "ANY.RUN",
+        "interactive-analysis"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "performing-dynamic-analysis-with-any-run",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "performing-firmware-malware-analysis",
+      "name": "performing-firmware-malware-analysis",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "malware",
+        "firmware",
+        "IoT",
+        "UEFI",
+        "embedded-security"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "performing-firmware-malware-analysis",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "performing-malware-triage-with-yara",
+      "name": "performing-malware-triage-with-yara",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "malware",
+        "YARA",
+        "triage",
+        "classification",
+        "pattern-matching"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "performing-malware-triage-with-yara",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "performing-memory-forensics-with-volatility3-plugins",
+      "name": "performing-memory-forensics-with-volatility3-plugins",
+      "description": "Analyze memory dumps using Volatility3 plugins to detect injected code, rootkits, credential theft, and malware artifacts in Windows, Linux, and macOS memory images.",
+      "category": "security",
+      "tags": [
+        "memory-forensics",
+        "volatility3",
+        "malware-analysis",
+        "incident-response",
+        "process-injection",
+        "rootkit-detection",
+        "dfir"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "performing-memory-forensics-with-volatility3-plugins",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "performing-static-malware-analysis-with-pe-studio",
+      "name": "performing-static-malware-analysis-with-pe-studio",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "malware",
+        "static-analysis",
+        "PE-analysis",
+        "PEStudio",
+        "reverse-engineering"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "performing-static-malware-analysis-with-pe-studio",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "performing-yara-rule-development-for-detection",
+      "name": "performing-yara-rule-development-for-detection",
+      "description": "Develop precise YARA rules for malware detection by identifying unique byte patterns, strings, and behavioral indicators in executable files while minimizing false positives.",
+      "category": "security",
+      "tags": [
+        "yara",
+        "malware-detection",
+        "signature-development",
+        "threat-hunting",
+        "pattern-matching",
+        "yara-x",
+        "indicator-development"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "performing-yara-rule-development-for-detection",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "reverse-engineering-android-malware-with-jadx",
+      "name": "reverse-engineering-android-malware-with-jadx",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "malware",
+        "Android",
+        "reverse-engineering",
+        "JADX",
+        "mobile-malware"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "reverse-engineering-android-malware-with-jadx",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "reverse-engineering-dotnet-malware-with-dnspy",
+      "name": "reverse-engineering-dotnet-malware-with-dnspy",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "malware",
+        "dotnet",
+        "reverse-engineering",
+        "dnSpy",
+        "decompilation"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "reverse-engineering-dotnet-malware-with-dnspy",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "reverse-engineering-malware-with-ghidra",
+      "name": "reverse-engineering-malware-with-ghidra",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "malware",
+        "reverse-engineering",
+        "Ghidra",
+        "disassembly",
+        "decompilation"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "reverse-engineering-malware-with-ghidra",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "reverse-engineering-ransomware-encryption-routine",
+      "name": "reverse-engineering-ransomware-encryption-routine",
+      "description": "Reverse engineer ransomware encryption routines to identify cryptographic algorithms, key generation flaws, and potential decryption opportunities using static and dynamic analysis.",
+      "category": "security",
+      "tags": [
+        "ransomware",
+        "encryption",
+        "reverse-engineering",
+        "cryptanalysis",
+        "aes",
+        "rsa",
+        "decryption",
+        "malware-analysis"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "reverse-engineering-ransomware-encryption-routine",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "reverse-engineering-rust-malware",
+      "name": "reverse-engineering-rust-malware",
+      "description": "Reverse engineer Rust-compiled malware using IDA Pro and Ghidra with techniques for handling non-null-terminated strings, crate dependency extraction, and Rust-specific control flow analysis.",
+      "category": "security",
+      "tags": [
+        "rust",
+        "reverse-engineering",
+        "malware-analysis",
+        "ghidra",
+        "ida-pro",
+        "binary-analysis",
+        "rust-malware"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "reverse-engineering-rust-malware",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
     }
   ],
   "categories": [
