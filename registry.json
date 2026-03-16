@@ -15687,6 +15687,655 @@
       "license": "Apache-2.0",
       "author": "mukul975",
       "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "conducting-api-security-testing",
+      "name": "conducting-api-security-testing",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "API-security",
+        "OWASP-API-Top10",
+        "REST",
+        "GraphQL",
+        "authorization-testing"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "conducting-api-security-testing",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "conducting-cloud-infrastructure-penetration-test",
+      "name": "conducting-cloud-infrastructure-penetration-test",
+      "description": "Perform a cloud infrastructure penetration test across AWS, Azure, and GCP to identify IAM misconfigurations, exposed storage buckets, insecure serverless functions, and cloud-native attack paths using Pacu, ScoutSuite, and Prowler.",
+      "category": "security",
+      "tags": [
+        "cloud-pentest",
+        "AWS",
+        "Azure",
+        "GCP",
+        "Pacu",
+        "ScoutSuite",
+        "Prowler",
+        "IAM",
+        "S3",
+        "cloud-security"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "conducting-cloud-infrastructure-penetration-test",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "conducting-external-reconnaissance-with-osint",
+      "name": "conducting-external-reconnaissance-with-osint",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "OSINT",
+        "reconnaissance",
+        "attack-surface",
+        "footprinting",
+        "passive-recon"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "conducting-external-reconnaissance-with-osint",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "conducting-internal-network-penetration-test",
+      "name": "conducting-internal-network-penetration-test",
+      "description": "Execute an internal network penetration test simulating an insider threat or post-breach attacker to identify lateral movement paths, privilege escalation vectors, and sensitive data exposure within the corporate network.",
+      "category": "security",
+      "tags": [
+        "internal-pentest",
+        "lateral-movement",
+        "privilege-escalation",
+        "Responder",
+        "Impacket",
+        "assumed-breach",
+        "network-security"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "conducting-internal-network-penetration-test",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "conducting-mobile-app-penetration-test",
+      "name": "conducting-mobile-app-penetration-test",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "mobile-pentest",
+        "OWASP-MASTG",
+        "Android-security",
+        "iOS-security",
+        "mobile-application-security"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "conducting-mobile-app-penetration-test",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "conducting-mobile-application-penetration-test",
+      "name": "conducting-mobile-application-penetration-test",
+      "description": "Perform a mobile application penetration test on Android and iOS apps to identify insecure data storage, certificate pinning bypass, API vulnerabilities, binary protections, and runtime manipulation using Frida, Objection, and MobSF.",
+      "category": "security",
+      "tags": [
+        "mobile-pentest",
+        "Android",
+        "iOS",
+        "Frida",
+        "Objection",
+        "MobSF",
+        "OWASP-MASTG",
+        "certificate-pinning",
+        "APK-analysis"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "conducting-mobile-application-penetration-test",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "conducting-network-penetration-test",
+      "name": "conducting-network-penetration-test",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "network-pentest",
+        "Nmap",
+        "Metasploit",
+        "vulnerability-exploitation",
+        "infrastructure-security"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "conducting-network-penetration-test",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "conducting-social-engineering-penetration-test",
+      "name": "conducting-social-engineering-penetration-test",
+      "description": "Design and execute a social engineering penetration test including phishing, vishing, smishing, and physical pretexting campaigns to measure human security resilience and identify training gaps.",
+      "category": "security",
+      "tags": [
+        "social-engineering",
+        "phishing",
+        "vishing",
+        "pretexting",
+        "GoPhish",
+        "SET",
+        "OSINT",
+        "security-awareness",
+        "red-team"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "conducting-social-engineering-penetration-test",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "conducting-wireless-network-penetration-test",
+      "name": "conducting-wireless-network-penetration-test",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "wireless-pentest",
+        "WiFi-security",
+        "WPA2",
+        "WPA3",
+        "evil-twin"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "conducting-wireless-network-penetration-test",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "executing-active-directory-attack-simulation",
+      "name": "executing-active-directory-attack-simulation",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "Active-Directory",
+        "BloodHound",
+        "Mimikatz",
+        "Kerberoasting",
+        "domain-compromise"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "executing-active-directory-attack-simulation",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "executing-phishing-simulation-campaign",
+      "name": "executing-phishing-simulation-campaign",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "phishing-simulation",
+        "social-engineering",
+        "GoPhish",
+        "email-security",
+        "security-awareness"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "executing-phishing-simulation-campaign",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "executing-red-team-exercise",
+      "name": "executing-red-team-exercise",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "red-team",
+        "adversary-emulation",
+        "MITRE-ATT&CK",
+        "Cobalt-Strike",
+        "detection-assessment"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "executing-red-team-exercise",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "exploiting-sql-injection-vulnerabilities",
+      "name": "exploiting-sql-injection-vulnerabilities",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "SQL-injection",
+        "sqlmap",
+        "database-security",
+        "OWASP-A03",
+        "injection-testing"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "exploiting-sql-injection-vulnerabilities",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "performing-active-directory-penetration-test",
+      "name": "performing-active-directory-penetration-test",
+      "description": "Conduct a focused Active Directory penetration test to enumerate domain objects, discover attack paths with BloodHound, exploit Kerberos weaknesses, escalate privileges via ADCS/DCSync, and demonstrate domain compromise.",
+      "category": "security",
+      "tags": [
+        "active-directory",
+        "BloodHound",
+        "Kerberoasting",
+        "Impacket",
+        "DCSync",
+        "ADCS",
+        "domain-compromise",
+        "privilege-escalation"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "performing-active-directory-penetration-test",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "performing-cloud-penetration-testing",
+      "name": "performing-cloud-penetration-testing",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "cloud-pentest",
+        "AWS-security",
+        "Azure-security",
+        "IAM-exploitation",
+        "cloud-infrastructure"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "performing-cloud-penetration-testing",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "performing-external-network-penetration-test",
+      "name": "performing-external-network-penetration-test",
+      "description": "Conduct a comprehensive external network penetration test to identify vulnerabilities in internet-facing infrastructure using PTES methodology, reconnaissance, scanning, exploitation, and reporting.",
+      "category": "security",
+      "tags": [
+        "external-pentest",
+        "network-security",
+        "PTES",
+        "OSSTMM",
+        "Nmap",
+        "Metasploit",
+        "vulnerability-assessment",
+        "reconnaissance",
+        "exploitation"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "performing-external-network-penetration-test",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "performing-iot-security-assessment",
+      "name": "performing-iot-security-assessment",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "IoT-security",
+        "firmware-analysis",
+        "embedded-systems",
+        "hardware-hacking",
+        "UART-JTAG"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "performing-iot-security-assessment",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "performing-privilege-escalation-assessment",
+      "name": "performing-privilege-escalation-assessment",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "privilege-escalation",
+        "post-exploitation",
+        "Linux-privesc",
+        "Windows-privesc",
+        "local-exploitation"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "performing-privilege-escalation-assessment",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "performing-thick-client-application-penetration-test",
+      "name": "performing-thick-client-application-penetration-test",
+      "description": "Conduct a thick client application penetration test to identify insecure local storage, hardcoded credentials, DLL hijacking, memory manipulation, and insecure API communication in desktop applications using dnSpy, Procmon, and Burp Suite.",
+      "category": "security",
+      "tags": [
+        "thick-client",
+        "desktop-application",
+        "dnSpy",
+        "Procmon",
+        "DLL-hijacking",
+        "binary-analysis",
+        "API-interception"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "performing-thick-client-application-penetration-test",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "performing-vulnerability-scanning-with-nessus",
+      "name": "performing-vulnerability-scanning-with-nessus",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "vulnerability-scanning",
+        "Nessus",
+        "CVE",
+        "patch-management",
+        "Tenable"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "performing-vulnerability-scanning-with-nessus",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "performing-web-application-penetration-test",
+      "name": "performing-web-application-penetration-test",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "web-application-pentest",
+        "OWASP",
+        "Burp-Suite",
+        "WSTG",
+        "application-security"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "performing-web-application-penetration-test",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "performing-wireless-network-penetration-test",
+      "name": "performing-wireless-network-penetration-test",
+      "description": "Execute a wireless network penetration test to assess WiFi security by capturing handshakes, cracking WPA2/WPA3 keys, detecting rogue access points, and testing wireless segmentation using Aircrack-ng and related tools.",
+      "category": "security",
+      "tags": [
+        "wireless-pentest",
+        "WiFi",
+        "Aircrack-ng",
+        "WPA2",
+        "WPA3",
+        "rogue-AP",
+        "evil-twin",
+        "802.11",
+        "Kismet"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "performing-wireless-network-penetration-test",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "testing-for-xss-vulnerabilities",
+      "name": "testing-for-xss-vulnerabilities",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "XSS",
+        "cross-site-scripting",
+        "client-side-security",
+        "OWASP-A03",
+        "JavaScript-injection"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "testing-for-xss-vulnerabilities",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
     }
   ],
   "categories": [
