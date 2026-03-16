@@ -4453,6 +4453,810 @@
       "version": "2.1.0",
       "license": "MIT",
       "author": "autohandai"
+    },
+    {
+      "id": "detecting-api-enumeration-attacks",
+      "name": "detecting-api-enumeration-attacks",
+      "description": "Detect and prevent API enumeration attacks including BOLA and IDOR exploitation by monitoring sequential identifier access patterns and authorization failures.",
+      "category": "security",
+      "tags": [
+        "api-security",
+        "enumeration",
+        "bola",
+        "idor",
+        "broken-object-level-authorization",
+        "owasp-api-top-10",
+        "access-control",
+        "rate-limiting"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "detecting-api-enumeration-attacks",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "MIT",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "detecting-broken-object-property-level-authorization",
+      "name": "detecting-broken-object-property-level-authorization",
+      "description": "Detect and test for OWASP API3:2023 Broken Object Property Level Authorization vulnerabilities including excessive data exposure and mass assignment attacks.",
+      "category": "security",
+      "tags": [
+        "api-security",
+        "bopla",
+        "owasp-api3",
+        "mass-assignment",
+        "excessive-data-exposure",
+        "property-level-authorization",
+        "api-testing",
+        "penetration-testing"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "detecting-broken-object-property-level-authorization",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "MIT",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "detecting-shadow-api-endpoints",
+      "name": "detecting-shadow-api-endpoints",
+      "description": "Discover and inventory shadow API endpoints that operate outside documented specifications using traffic analysis, code scanning, and API discovery platforms.",
+      "category": "security",
+      "tags": [
+        "api-security",
+        "shadow-apis",
+        "api-discovery",
+        "undocumented-apis",
+        "zombie-apis",
+        "api-inventory",
+        "attack-surface-management",
+        "api-governance"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "detecting-shadow-api-endpoints",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "MIT",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "exploiting-api-injection-vulnerabilities",
+      "name": "exploiting-api-injection-vulnerabilities",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "api-security",
+        "owasp",
+        "injection",
+        "sqli",
+        "nosql",
+        "ssrf",
+        "command-injection"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "exploiting-api-injection-vulnerabilities",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "exploiting-broken-function-level-authorization",
+      "name": "exploiting-broken-function-level-authorization",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "api-security",
+        "owasp",
+        "authorization",
+        "bfla",
+        "privilege-escalation",
+        "access-control"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "exploiting-broken-function-level-authorization",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "exploiting-excessive-data-exposure-in-api",
+      "name": "exploiting-excessive-data-exposure-in-api",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "api-security",
+        "owasp",
+        "data-exposure",
+        "rest-security",
+        "pii-leakage"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "exploiting-excessive-data-exposure-in-api",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "exploiting-jwt-algorithm-confusion-attack",
+      "name": "exploiting-jwt-algorithm-confusion-attack",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "api-security",
+        "jwt",
+        "algorithm-confusion",
+        "token-forgery",
+        "cryptographic-attack"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "exploiting-jwt-algorithm-confusion-attack",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "implementing-api-abuse-detection-with-rate-limiting",
+      "name": "implementing-api-abuse-detection-with-rate-limiting",
+      "description": "Implement API abuse detection using token bucket, sliding window, and adaptive rate limiting algorithms to prevent DDoS, brute force, and credential stuffing attacks.",
+      "category": "security",
+      "tags": [
+        "api-security",
+        "rate-limiting",
+        "token-bucket",
+        "sliding-window",
+        "ddos-protection",
+        "brute-force-prevention",
+        "api-abuse",
+        "api-gateway"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "implementing-api-abuse-detection-with-rate-limiting",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "MIT",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "implementing-api-gateway-security-controls",
+      "name": "implementing-api-gateway-security-controls",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "api-security",
+        "api-gateway",
+        "kong",
+        "aws-api-gateway",
+        "rate-limiting",
+        "waf"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "implementing-api-gateway-security-controls",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "implementing-api-key-security-controls",
+      "name": "implementing-api-key-security-controls",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "api-security",
+        "api-keys",
+        "credential-management",
+        "key-rotation",
+        "secret-management"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "implementing-api-key-security-controls",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "implementing-api-rate-limiting-and-throttling",
+      "name": "implementing-api-rate-limiting-and-throttling",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "api-security",
+        "rate-limiting",
+        "throttling",
+        "redis",
+        "token-bucket",
+        "abuse-prevention"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "implementing-api-rate-limiting-and-throttling",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "implementing-api-schema-validation-security",
+      "name": "implementing-api-schema-validation-security",
+      "description": "Implement API schema validation using OpenAPI specifications and JSON Schema to enforce input/output contracts and prevent injection, data exposure, and mass assignment attacks.",
+      "category": "security",
+      "tags": [
+        "api-security",
+        "schema-validation",
+        "openapi",
+        "json-schema",
+        "input-validation",
+        "data-leakage-prevention",
+        "mass-assignment",
+        "api-gateway"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "implementing-api-schema-validation-security",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "MIT",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "implementing-api-security-posture-management",
+      "name": "implementing-api-security-posture-management",
+      "description": "Implement API Security Posture Management to continuously discover, classify, and score APIs based on risk while enforcing security policies across the API lifecycle.",
+      "category": "security",
+      "tags": [
+        "api-security",
+        "aspm",
+        "api-posture-management",
+        "api-discovery",
+        "risk-scoring",
+        "api-governance",
+        "continuous-monitoring",
+        "api-inventory"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "implementing-api-security-posture-management",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "MIT",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "implementing-api-security-testing-with-42crunch",
+      "name": "implementing-api-security-testing-with-42crunch",
+      "description": "Implement comprehensive API security testing using the 42Crunch platform to perform static audit and dynamic conformance scanning of OpenAPI specifications.",
+      "category": "security",
+      "tags": [
+        "api-security",
+        "42crunch",
+        "openapi",
+        "api-audit",
+        "api-scan",
+        "conformance-testing",
+        "shift-left",
+        "ci-cd-security",
+        "owasp-api-top-10"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "implementing-api-security-testing-with-42crunch",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "MIT",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "implementing-api-threat-protection-with-apigee",
+      "name": "implementing-api-threat-protection-with-apigee",
+      "description": "Implement API threat protection using Google Apigee policies including JSON/XML threat protection, OAuth 2.0, SpikeArrest, and Advanced API Security for OWASP Top 10 defense.",
+      "category": "security",
+      "tags": [
+        "apigee",
+        "api-gateway",
+        "threat-protection",
+        "json-threat-protection",
+        "xml-threat-protection",
+        "spike-arrest",
+        "oauth2",
+        "google-cloud",
+        "owasp-api-top-10"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "implementing-api-threat-protection-with-apigee",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "MIT",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "performing-api-fuzzing-with-restler",
+      "name": "performing-api-fuzzing-with-restler",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "api-security",
+        "fuzzing",
+        "restler",
+        "automated-testing",
+        "openapi",
+        "stateful-testing"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "performing-api-fuzzing-with-restler",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "performing-api-inventory-and-discovery",
+      "name": "performing-api-inventory-and-discovery",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "api-security",
+        "owasp",
+        "api-discovery",
+        "shadow-api",
+        "inventory",
+        "attack-surface"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "performing-api-inventory-and-discovery",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "performing-api-rate-limiting-bypass",
+      "name": "performing-api-rate-limiting-bypass",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "api-security",
+        "owasp",
+        "rate-limiting",
+        "throttling",
+        "brute-force",
+        "dos-prevention"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "performing-api-rate-limiting-bypass",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "performing-api-security-testing-with-postman",
+      "name": "performing-api-security-testing-with-postman",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "api-security",
+        "postman",
+        "owasp",
+        "automated-testing",
+        "security-validation"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "performing-api-security-testing-with-postman",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "performing-graphql-depth-limit-attack",
+      "name": "performing-graphql-depth-limit-attack",
+      "description": "Execute and test GraphQL depth limit attacks using deeply nested recursive queries to identify denial-of-service vulnerabilities in GraphQL APIs.",
+      "category": "security",
+      "tags": [
+        "graphql",
+        "depth-limit",
+        "denial-of-service",
+        "nested-queries",
+        "api-security",
+        "query-complexity",
+        "resource-exhaustion",
+        "penetration-testing"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "performing-graphql-depth-limit-attack",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "MIT",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "performing-graphql-introspection-attack",
+      "name": "performing-graphql-introspection-attack",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "api-security",
+        "graphql",
+        "introspection",
+        "schema-extraction",
+        "query-abuse"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "performing-graphql-introspection-attack",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "performing-jwt-none-algorithm-attack",
+      "name": "performing-jwt-none-algorithm-attack",
+      "description": "Execute and test the JWT none algorithm attack to bypass signature verification by manipulating the alg header field in JSON Web Tokens.",
+      "category": "security",
+      "tags": [
+        "jwt",
+        "none-algorithm",
+        "authentication-bypass",
+        "token-manipulation",
+        "signature-bypass",
+        "penetration-testing",
+        "owasp",
+        "web-security"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "performing-jwt-none-algorithm-attack",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "MIT",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "performing-soap-web-service-security-testing",
+      "name": "performing-soap-web-service-security-testing",
+      "description": "Perform security testing of SOAP web services by analyzing WSDL definitions and testing for XML injection, XXE, WS-Security bypass, and SOAPAction spoofing.",
+      "category": "security",
+      "tags": [
+        "soap",
+        "web-services",
+        "wsdl",
+        "xml-injection",
+        "xxe",
+        "ws-security",
+        "penetration-testing",
+        "soapaction-spoofing",
+        "xpath-injection"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "performing-soap-web-service-security-testing",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "MIT",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "testing-api-authentication-weaknesses",
+      "name": "testing-api-authentication-weaknesses",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "api-security",
+        "owasp",
+        "authentication",
+        "jwt",
+        "session-management",
+        "credential-security"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "testing-api-authentication-weaknesses",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "testing-api-for-broken-object-level-authorization",
+      "name": "testing-api-for-broken-object-level-authorization",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "api-security",
+        "owasp",
+        "bola",
+        "idor",
+        "authorization",
+        "rest-security"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "testing-api-for-broken-object-level-authorization",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "testing-api-for-mass-assignment-vulnerability",
+      "name": "testing-api-for-mass-assignment-vulnerability",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "api-security",
+        "owasp",
+        "mass-assignment",
+        "auto-binding",
+        "parameter-tampering"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "testing-api-for-mass-assignment-vulnerability",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "testing-oauth2-implementation-flaws",
+      "name": "testing-oauth2-implementation-flaws",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "api-security",
+        "oauth2",
+        "oidc",
+        "authentication",
+        "redirect-uri",
+        "token-security"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "testing-oauth2-implementation-flaws",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "testing-websocket-api-security",
+      "name": "testing-websocket-api-security",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "api-security",
+        "websocket",
+        "cswsh",
+        "real-time",
+        "injection",
+        "authentication"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "testing-websocket-api-security",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
     }
   ],
   "categories": [
