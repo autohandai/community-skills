@@ -17781,6 +17781,957 @@
       "license": "Apache-2.0",
       "author": "mukul975",
       "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "analyzing-api-gateway-access-logs",
+      "name": "analyzing-api-gateway-access-logs",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "analyzing",
+        "api",
+        "gateway",
+        "access"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "analyzing-api-gateway-access-logs",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "analyzing-azure-activity-logs-for-threats",
+      "name": "analyzing-azure-activity-logs-for-threats",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "analyzing",
+        "azure",
+        "activity",
+        "logs"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "analyzing-azure-activity-logs-for-threats",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "analyzing-cobalt-strike-malleable-profiles",
+      "name": "analyzing-cobalt-strike-malleable-profiles",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "analyzing",
+        "cobalt",
+        "strike",
+        "malleable"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "analyzing-cobalt-strike-malleable-profiles",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "analyzing-linux-audit-logs-for-intrusion",
+      "name": "analyzing-linux-audit-logs-for-intrusion",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "auditd",
+        "linux-forensics",
+        "syscall-monitoring",
+        "intrusion-detection"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "analyzing-linux-audit-logs-for-intrusion",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "analyzing-memory-forensics-with-lime-and-volatility",
+      "name": "analyzing-memory-forensics-with-lime-and-volatility",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "analyzing",
+        "memory",
+        "forensics",
+        "with"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "analyzing-memory-forensics-with-lime-and-volatility",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "analyzing-powershell-script-block-logging",
+      "name": "analyzing-powershell-script-block-logging",
+      "description": ">-",
+      "category": "security",
+      "tags": [
+        "analyzing",
+        "powershell",
+        "script",
+        "block"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "analyzing-powershell-script-block-logging",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "analyzing-tls-certificate-transparency-logs",
+      "name": "analyzing-tls-certificate-transparency-logs",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "analyzing",
+        "tls",
+        "certificate",
+        "transparency"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "analyzing-tls-certificate-transparency-logs",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "analyzing-web-server-logs-for-intrusion",
+      "name": "analyzing-web-server-logs-for-intrusion",
+      "description": ">-",
+      "category": "security",
+      "tags": [
+        "analyzing",
+        "web",
+        "server",
+        "logs"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "analyzing-web-server-logs-for-intrusion",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "configuring-microsegmentation-for-zero-trust",
+      "name": "configuring-microsegmentation-for-zero-trust",
+      "description": "Configuring Microsegmentation For Zero Trust",
+      "category": "security",
+      "tags": [
+        "cybersecurity"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "configuring-microsegmentation-for-zero-trust",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "deploying-software-defined-perimeter",
+      "name": "deploying-software-defined-perimeter",
+      "description": "Deploying Software Defined Perimeter",
+      "category": "security",
+      "tags": [
+        "cybersecurity"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "deploying-software-defined-perimeter",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "detecting-beaconing-patterns-with-zeek",
+      "name": "detecting-beaconing-patterns-with-zeek",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "detecting",
+        "beaconing",
+        "patterns",
+        "with"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "detecting-beaconing-patterns-with-zeek",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "detecting-golden-ticket-attacks",
+      "name": "detecting-golden-ticket-attacks",
+      "description": ">-",
+      "category": "security",
+      "tags": [
+        "detecting",
+        "golden",
+        "ticket",
+        "attacks"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "detecting-golden-ticket-attacks",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "detecting-insider-data-exfiltration-via-dlp",
+      "name": "detecting-insider-data-exfiltration-via-dlp",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "detecting",
+        "insider",
+        "data",
+        "exfiltration"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "detecting-insider-data-exfiltration-via-dlp",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "detecting-sql-injection-via-waf-logs",
+      "name": "detecting-sql-injection-via-waf-logs",
+      "description": ">-",
+      "category": "security",
+      "tags": [
+        "detecting",
+        "sql",
+        "injection",
+        "via"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "detecting-sql-injection-via-waf-logs",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "detecting-supply-chain-attacks-in-ci-cd",
+      "name": "detecting-supply-chain-attacks-in-ci-cd",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "detecting",
+        "supply",
+        "chain",
+        "attacks"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "detecting-supply-chain-attacks-in-ci-cd",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "extracting-memory-artifacts-with-rekall",
+      "name": "extracting-memory-artifacts-with-rekall",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "extracting",
+        "memory",
+        "artifacts",
+        "with"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "extracting-memory-artifacts-with-rekall",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "hunting-credential-stuffing-attacks",
+      "name": "hunting-credential-stuffing-attacks",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "hunting",
+        "credential",
+        "stuffing",
+        "attacks"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "hunting-credential-stuffing-attacks",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "hunting-for-webshells-in-web-servers",
+      "name": "hunting-for-webshells-in-web-servers",
+      "description": ">-",
+      "category": "security",
+      "tags": [
+        "hunting",
+        "for",
+        "webshells",
+        "web"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "hunting-for-webshells-in-web-servers",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "hunting-living-off-the-land-binaries",
+      "name": "hunting-living-off-the-land-binaries",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "hunting",
+        "living",
+        "off",
+        "the"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "hunting-living-off-the-land-binaries",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "implementing-email-security-with-dmarc-dkim-spf",
+      "name": "implementing-email-security-with-dmarc-dkim-spf",
+      "description": ">-",
+      "category": "security",
+      "tags": [
+        "implementing",
+        "email",
+        "security",
+        "with"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "implementing-email-security-with-dmarc-dkim-spf",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "implementing-endpoint-detection-with-wazuh",
+      "name": "implementing-endpoint-detection-with-wazuh",
+      "description": "Deploy and configure Wazuh SIEM/XDR for endpoint detection including agent management, custom decoder and rule XML creation, alert querying via the Wazuh REST API, and automated response actions.",
+      "category": "security",
+      "tags": [
+        "siem",
+        "xdr",
+        "wazuh",
+        "endpoint-detection",
+        "custom-rules",
+        "incident-response"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "implementing-endpoint-detection-with-wazuh",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "implementing-honeytokens-for-breach-detection",
+      "name": "implementing-honeytokens-for-breach-detection",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "implementing",
+        "honeytokens",
+        "for",
+        "breach"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "implementing-honeytokens-for-breach-detection",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "implementing-identity-verification-for-zero-trust",
+      "name": "implementing-identity-verification-for-zero-trust",
+      "description": "Implementing Identity Verification For Zero Trust",
+      "category": "security",
+      "tags": [
+        "cybersecurity"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "implementing-identity-verification-for-zero-trust",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "implementing-log-forwarding-with-fluentd",
+      "name": "implementing-log-forwarding-with-fluentd",
+      "description": "Configure Fluentd and Fluent Bit for centralized log aggregation, routing, filtering, and enrichment across distributed infrastructure",
+      "category": "security",
+      "tags": [
+        "fluentd",
+        "fluent-bit",
+        "log-aggregation",
+        "log-forwarding",
+        "siem",
+        "centralized-logging",
+        "observability"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "implementing-log-forwarding-with-fluentd",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "implementing-log-integrity-with-blockchain",
+      "name": "implementing-log-integrity-with-blockchain",
+      "description": ">-",
+      "category": "security",
+      "tags": [
+        "implementing",
+        "log",
+        "integrity",
+        "with"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "implementing-log-integrity-with-blockchain",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "implementing-mtls-for-zero-trust-services",
+      "name": "implementing-mtls-for-zero-trust-services",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "implementing",
+        "mtls",
+        "for",
+        "zero"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "implementing-mtls-for-zero-trust-services",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "implementing-osquery-for-endpoint-monitoring",
+      "name": "implementing-osquery-for-endpoint-monitoring",
+      "description": ">-",
+      "category": "security",
+      "tags": [
+        "implementing",
+        "osquery",
+        "for",
+        "endpoint"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "implementing-osquery-for-endpoint-monitoring",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "implementing-security-chaos-engineering",
+      "name": "implementing-security-chaos-engineering",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "implementing",
+        "security",
+        "chaos",
+        "engineering"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "implementing-security-chaos-engineering",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "implementing-security-monitoring-with-datadog",
+      "name": "implementing-security-monitoring-with-datadog",
+      "description": "Implement security monitoring using Datadog's Cloud SIEM, log analysis, and threat detection capabilities to identify and respond to security events across cloud infrastructure.",
+      "category": "security",
+      "tags": [
+        "siem",
+        "monitoring",
+        "datadog",
+        "cloud-security",
+        "log-analysis"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "implementing-security-monitoring-with-datadog",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "implementing-siem-correlation-rules-for-apt",
+      "name": "implementing-siem-correlation-rules-for-apt",
+      "description": ">-",
+      "category": "security",
+      "tags": [
+        "implementing",
+        "siem",
+        "correlation",
+        "rules"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "implementing-siem-correlation-rules-for-apt",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "implementing-siem-use-case-tuning",
+      "name": "implementing-siem-use-case-tuning",
+      "description": "Tune SIEM detection rules to reduce false positives by analyzing alert volumes, creating whitelists, adjusting thresholds, and measuring detection efficacy metrics in Splunk and Elastic",
+      "category": "security",
+      "tags": [],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "implementing-siem-use-case-tuning",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "implementing-soar-playbook-for-phishing",
+      "name": "implementing-soar-playbook-for-phishing",
+      "description": "Automate phishing incident response using Splunk SOAR REST API to create containers, add artifacts, and trigger playbooks",
+      "category": "security",
+      "tags": [
+        "soar",
+        "splunk-phantom",
+        "phishing",
+        "incident-response"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "implementing-soar-playbook-for-phishing",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "implementing-syslog-centralization-with-rsyslog",
+      "name": "implementing-syslog-centralization-with-rsyslog",
+      "description": ">-",
+      "category": "security",
+      "tags": [
+        "implementing",
+        "syslog",
+        "centralization",
+        "with"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "implementing-syslog-centralization-with-rsyslog",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "implementing-zero-trust-network-access-with-zscaler",
+      "name": "implementing-zero-trust-network-access-with-zscaler",
+      "description": "Implementing Zero Trust Network Access With Zscaler",
+      "category": "security",
+      "tags": [
+        "cybersecurity"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "implementing-zero-trust-network-access-with-zscaler",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "performing-dns-tunneling-detection",
+      "name": "performing-dns-tunneling-detection",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "performing",
+        "dns",
+        "tunneling",
+        "detection"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "performing-dns-tunneling-detection",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "performing-red-team-phishing-with-gophish",
+      "name": "performing-red-team-phishing-with-gophish",
+      "description": ">-",
+      "category": "security",
+      "tags": [
+        "performing",
+        "red",
+        "team",
+        "phishing"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "performing-red-team-phishing-with-gophish",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "performing-ssrf-vulnerability-exploitation",
+      "name": "performing-ssrf-vulnerability-exploitation",
+      "description": ">-",
+      "category": "security",
+      "tags": [
+        "performing",
+        "ssrf",
+        "vulnerability",
+        "exploitation"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "performing-ssrf-vulnerability-exploitation",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
     }
   ],
   "categories": [
