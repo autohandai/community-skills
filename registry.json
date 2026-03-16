@@ -5371,6 +5371,36 @@
       "license": "MIT",
       "author": "mukul975",
       "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "analyzing-ethereum-smart-contract-vulnerabilities",
+      "name": "analyzing-ethereum-smart-contract-vulnerabilities",
+      "description": "Perform static and symbolic analysis of Solidity smart contracts using Slither and Mythril to detect reentrancy, integer overflow, access control, and other vulnerability classes before deployment to Ethereum mainnet.",
+      "category": "security",
+      "tags": [
+        "ethereum",
+        "solidity",
+        "smart-contract",
+        "slither",
+        "mythril",
+        "blockchain",
+        "defi",
+        "audit"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "analyzing-ethereum-smart-contract-vulnerabilities",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "MIT",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
     }
   ],
   "categories": [
