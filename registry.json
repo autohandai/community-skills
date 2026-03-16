@@ -17001,6 +17001,786 @@
       "license": "Apache-2.0",
       "author": "mukul975",
       "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "building-c2-infrastructure-with-sliver-framework",
+      "name": "building-c2-infrastructure-with-sliver-framework",
+      "description": "Build and configure a resilient command-and-control infrastructure using BishopFox's Sliver C2 framework with redirectors, HTTPS listeners, and multi-operator support for authorized red team engagements.",
+      "category": "security",
+      "tags": [
+        "red-team",
+        "c2-framework",
+        "sliver",
+        "command-and-control",
+        "adversary-simulation",
+        "infrastructure",
+        "post-exploitation"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "building-c2-infrastructure-with-sliver-framework",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "building-red-team-c2-infrastructure-with-havoc",
+      "name": "building-red-team-c2-infrastructure-with-havoc",
+      "description": "Deploy and configure the Havoc C2 framework with teamserver, HTTPS listeners, redirectors, and Demon agents for authorized red team operations.",
+      "category": "security",
+      "tags": [
+        "havoc-c2",
+        "command-and-control",
+        "red-team-infrastructure",
+        "post-exploitation",
+        "adversary-emulation",
+        "demon-agent"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "building-red-team-c2-infrastructure-with-havoc",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "conducting-domain-persistence-with-dcsync",
+      "name": "conducting-domain-persistence-with-dcsync",
+      "description": "Perform DCSync attacks to replicate Active Directory credentials and establish domain persistence by extracting KRBTGT, Domain Admin, and service account hashes for Golden Ticket creation.",
+      "category": "security",
+      "tags": [
+        "red-team",
+        "active-directory",
+        "dcsync",
+        "persistence",
+        "credential-dumping",
+        "golden-ticket",
+        "mimikatz"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "conducting-domain-persistence-with-dcsync",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "conducting-full-scope-red-team-engagement",
+      "name": "conducting-full-scope-red-team-engagement",
+      "description": "Plan and execute a comprehensive red team engagement covering reconnaissance through post-exploitation using MITRE ATT&CK-aligned TTPs to evaluate an organization's detection and response capabilities.",
+      "category": "security",
+      "tags": [
+        "red-team",
+        "adversary-emulation",
+        "mitre-attack",
+        "penetration-testing",
+        "offensive-security",
+        "purple-team",
+        "ttp-mapping"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "conducting-full-scope-red-team-engagement",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "conducting-internal-reconnaissance-with-bloodhound-ce",
+      "name": "conducting-internal-reconnaissance-with-bloodhound-ce",
+      "description": "Conduct internal Active Directory reconnaissance using BloodHound Community Edition to map attack paths, identify privilege escalation chains, and discover misconfigurations in domain environments.",
+      "category": "security",
+      "tags": [
+        "red-team",
+        "reconnaissance",
+        "bloodhound",
+        "active-directory",
+        "attack-paths",
+        "privilege-escalation",
+        "graph-analysis"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "conducting-internal-reconnaissance-with-bloodhound-ce",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "conducting-pass-the-ticket-attack",
+      "name": "conducting-pass-the-ticket-attack",
+      "description": "Pass-the-Ticket (PtT) is a lateral movement technique that uses stolen Kerberos tickets (TGT or TGS) to authenticate to services without knowing the user's password. By extracting Kerberos tickets fro",
+      "category": "security",
+      "tags": [
+        "red-team",
+        "adversary-simulation",
+        "mitre-attack",
+        "exploitation",
+        "post-exploitation",
+        "kerberos",
+        "pass-the-ticket",
+        "lateral-movement"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "conducting-pass-the-ticket-attack",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "conducting-social-engineering-pretext-call",
+      "name": "conducting-social-engineering-pretext-call",
+      "description": "Plan and execute authorized vishing (voice phishing) pretext calls to assess employee susceptibility to social engineering and evaluate security awareness controls.",
+      "category": "security",
+      "tags": [
+        "social-engineering",
+        "vishing",
+        "pretext-call",
+        "security-awareness",
+        "red-team",
+        "phishing",
+        "human-risk"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "conducting-social-engineering-pretext-call",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "conducting-spearphishing-simulation-campaign",
+      "name": "conducting-spearphishing-simulation-campaign",
+      "description": "Spearphishing simulation is a targeted social engineering attack vector used by red teams to gain initial access. Unlike broad phishing campaigns, spearphishing uses OSINT-derived intelligence to craf",
+      "category": "security",
+      "tags": [
+        "red-team",
+        "adversary-simulation",
+        "mitre-attack",
+        "exploitation",
+        "post-exploitation",
+        "spearphishing",
+        "social-engineering"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "conducting-spearphishing-simulation-campaign",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "executing-red-team-engagement-planning",
+      "name": "executing-red-team-engagement-planning",
+      "description": "Red team engagement planning is the foundational phase that defines scope, objectives, rules of engagement (ROE), threat model selection, and operational timelines before any offensive testing begins.",
+      "category": "security",
+      "tags": [
+        "red-team",
+        "adversary-simulation",
+        "mitre-attack",
+        "exploitation",
+        "post-exploitation",
+        "engagement-planning",
+        "rules-of-engagement"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "executing-red-team-engagement-planning",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "exploiting-active-directory-certificate-services-esc1",
+      "name": "exploiting-active-directory-certificate-services-esc1",
+      "description": "Exploit misconfigured Active Directory Certificate Services (AD CS) ESC1 vulnerability to request certificates as high-privileged users and escalate domain privileges during authorized red team assessments.",
+      "category": "security",
+      "tags": [
+        "red-team",
+        "active-directory",
+        "ad-cs",
+        "esc1",
+        "certificate-abuse",
+        "privilege-escalation",
+        "domain-escalation"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "exploiting-active-directory-certificate-services-esc1",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "exploiting-active-directory-with-bloodhound",
+      "name": "exploiting-active-directory-with-bloodhound",
+      "description": "BloodHound is a graph-based Active Directory reconnaissance tool that uses graph theory to reveal hidden and unintended relationships within AD environments. Red teams use BloodHound to identify attac",
+      "category": "security",
+      "tags": [
+        "red-team",
+        "adversary-simulation",
+        "mitre-attack",
+        "exploitation",
+        "post-exploitation",
+        "active-directory",
+        "bloodhound"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "exploiting-active-directory-with-bloodhound",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "exploiting-constrained-delegation-abuse",
+      "name": "exploiting-constrained-delegation-abuse",
+      "description": "Exploit Kerberos Constrained Delegation misconfigurations in Active Directory to impersonate privileged users via S4U2self and S4U2proxy extensions for lateral movement and privilege escalation.",
+      "category": "security",
+      "tags": [
+        "red-team",
+        "active-directory",
+        "kerberos",
+        "constrained-delegation",
+        "s4u2proxy",
+        "privilege-escalation",
+        "lateral-movement"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "exploiting-constrained-delegation-abuse",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "exploiting-kerberoasting-with-impacket",
+      "name": "exploiting-kerberoasting-with-impacket",
+      "description": "Perform Kerberoasting attacks using Impacket's GetUserSPNs to extract and crack Kerberos TGS tickets for Active Directory service accounts.",
+      "category": "security",
+      "tags": [
+        "kerberoasting",
+        "impacket",
+        "active-directory",
+        "credential-access",
+        "kerberos",
+        "t1558-003",
+        "service-accounts"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "exploiting-kerberoasting-with-impacket",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "exploiting-ms17-010-eternalblue-vulnerability",
+      "name": "exploiting-ms17-010-eternalblue-vulnerability",
+      "description": "MS17-010 (EternalBlue) is a critical vulnerability in Microsoft's SMBv1 implementation that allows remote code execution. Originally discovered by the NSA and leaked by the Shadow Brokers in 2017, it",
+      "category": "security",
+      "tags": [
+        "red-team",
+        "adversary-simulation",
+        "mitre-attack",
+        "exploitation",
+        "post-exploitation",
+        "eternalblue",
+        "smb",
+        "remote-code-execution"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "exploiting-ms17-010-eternalblue-vulnerability",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "exploiting-nopac-cve-2021-42278-42287",
+      "name": "exploiting-nopac-cve-2021-42278-42287",
+      "description": "Exploit the noPac vulnerability chain (CVE-2021-42278 sAMAccountName spoofing and CVE-2021-42287 KDC PAC confusion) to escalate from standard domain user to Domain Admin in Active Directory environments.",
+      "category": "security",
+      "tags": [
+        "red-team",
+        "active-directory",
+        "nopac",
+        "cve-2021-42278",
+        "cve-2021-42287",
+        "privilege-escalation",
+        "domain-escalation"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "exploiting-nopac-cve-2021-42278-42287",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "exploiting-zerologon-vulnerability-cve-2020-1472",
+      "name": "exploiting-zerologon-vulnerability-cve-2020-1472",
+      "description": "Exploit the Zerologon vulnerability (CVE-2020-1472) in the Netlogon Remote Protocol to achieve domain controller compromise by resetting the machine account password to empty.",
+      "category": "security",
+      "tags": [
+        "zerologon",
+        "cve-2020-1472",
+        "netlogon",
+        "domain-controller",
+        "privilege-escalation",
+        "active-directory",
+        "ms-nrpc"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "exploiting-zerologon-vulnerability-cve-2020-1472",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "performing-active-directory-bloodhound-analysis",
+      "name": "performing-active-directory-bloodhound-analysis",
+      "description": "Use BloodHound and SharpHound to enumerate Active Directory relationships and identify attack paths from compromised users to Domain Admin.",
+      "category": "security",
+      "tags": [
+        "bloodhound",
+        "active-directory",
+        "sharphound",
+        "attack-path",
+        "ad-enumeration",
+        "graph-theory",
+        "privilege-escalation"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "performing-active-directory-bloodhound-analysis",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "performing-active-directory-forest-trust-attack",
+      "name": "performing-active-directory-forest-trust-attack",
+      "description": "Enumerate and audit Active Directory forest trust relationships using impacket for SID filtering analysis, trust key extraction, cross-forest SID history abuse detection, and inter-realm Kerberos ticket assessment.",
+      "category": "security",
+      "tags": [
+        "active-directory",
+        "forest-trust",
+        "impacket",
+        "SID-filtering",
+        "kerberos",
+        "red-team",
+        "trust-enumeration"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "performing-active-directory-forest-trust-attack",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "performing-binary-exploitation-analysis",
+      "name": "performing-binary-exploitation-analysis",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "binary-exploitation",
+        "pwntools",
+        "rop-chains",
+        "buffer-overflow"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "performing-binary-exploitation-analysis",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "performing-credential-access-with-lazagne",
+      "name": "performing-credential-access-with-lazagne",
+      "description": "Extract stored credentials from compromised endpoints using the LaZagne post-exploitation tool to recover passwords from browsers, databases, system vaults, and applications during authorized red team operations.",
+      "category": "security",
+      "tags": [
+        "red-team",
+        "credential-access",
+        "lazagne",
+        "post-exploitation",
+        "password-recovery",
+        "credential-dumping",
+        "lateral-movement"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "performing-credential-access-with-lazagne",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "performing-initial-access-with-evilginx3",
+      "name": "performing-initial-access-with-evilginx3",
+      "description": "Perform authorized initial access using EvilGinx3 adversary-in-the-middle phishing framework to capture session tokens and bypass multi-factor authentication during red team engagements.",
+      "category": "security",
+      "tags": [
+        "red-team",
+        "initial-access",
+        "phishing",
+        "evilginx",
+        "mfa-bypass",
+        "adversary-in-the-middle",
+        "credential-theft"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "performing-initial-access-with-evilginx3",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "performing-kerberoasting-attack",
+      "name": "performing-kerberoasting-attack",
+      "description": "Kerberoasting is a post-exploitation technique that targets service accounts in Active Directory by requesting Kerberos TGS (Ticket Granting Service) tickets for accounts with Service Principal Names",
+      "category": "security",
+      "tags": [
+        "red-team",
+        "adversary-simulation",
+        "mitre-attack",
+        "exploitation",
+        "post-exploitation",
+        "kerberoasting",
+        "active-directory",
+        "credential-access"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "performing-kerberoasting-attack",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "performing-lateral-movement-with-wmiexec",
+      "name": "performing-lateral-movement-with-wmiexec",
+      "description": "Perform lateral movement across Windows networks using WMI-based remote execution techniques including Impacket wmiexec.py, CrackMapExec, and native WMI commands for stealthy post-exploitation during red team engagements.",
+      "category": "security",
+      "tags": [
+        "red-team",
+        "lateral-movement",
+        "wmiexec",
+        "wmi",
+        "post-exploitation",
+        "impacket",
+        "windows"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "performing-lateral-movement-with-wmiexec",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "performing-open-source-intelligence-gathering",
+      "name": "performing-open-source-intelligence-gathering",
+      "description": "Open Source Intelligence (OSINT) gathering is the first active phase of a red team engagement, where operators collect publicly available information about the target organization to identify attack s",
+      "category": "security",
+      "tags": [
+        "red-team",
+        "adversary-simulation",
+        "mitre-attack",
+        "exploitation",
+        "post-exploitation",
+        "osint",
+        "reconnaissance"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "performing-open-source-intelligence-gathering",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "performing-physical-intrusion-assessment",
+      "name": "performing-physical-intrusion-assessment",
+      "description": "Conduct authorized physical penetration testing using tailgating, badge cloning, lock bypassing, and rogue device deployment to evaluate facility security controls.",
+      "category": "security",
+      "tags": [
+        "physical-security",
+        "red-team",
+        "tailgating",
+        "badge-cloning",
+        "lock-picking",
+        "rfid",
+        "physical-pentest"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "performing-physical-intrusion-assessment",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "performing-privilege-escalation-on-linux",
+      "name": "performing-privilege-escalation-on-linux",
+      "description": "Linux privilege escalation involves elevating from a low-privilege user account to root access on a compromised system. Red teams exploit misconfigurations, vulnerable services, kernel exploits, and w",
+      "category": "security",
+      "tags": [
+        "red-team",
+        "adversary-simulation",
+        "mitre-attack",
+        "exploitation",
+        "post-exploitation",
+        "privilege-escalation",
+        "linux"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "performing-privilege-escalation-on-linux",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "performing-red-team-with-covenant",
+      "name": "performing-red-team-with-covenant",
+      "description": "Conduct red team operations using the Covenant C2 framework for authorized adversary simulation, including listener setup, grunt deployment, task execution, and lateral movement tracking.",
+      "category": "security",
+      "tags": [
+        "red-team",
+        "c2",
+        "covenant",
+        "adversary-simulation",
+        "penetration-testing"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "performing-red-team-with-covenant",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
     }
   ],
   "categories": [
