@@ -16805,6 +16805,202 @@
       "license": "Apache-2.0",
       "author": "mukul975",
       "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "deploying-ransomware-canary-files",
+      "name": "deploying-ransomware-canary-files",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "ransomware",
+        "canary-files",
+        "watchdog",
+        "detection",
+        "early-warning",
+        "deception",
+        "defense"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "deploying-ransomware-canary-files",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "detecting-ransomware-precursors-in-network",
+      "name": "detecting-ransomware-precursors-in-network",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "ransomware",
+        "detection",
+        "network-security",
+        "incident-response",
+        "defense"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "detecting-ransomware-precursors-in-network",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "implementing-honeypot-for-ransomware-detection",
+      "name": "implementing-honeypot-for-ransomware-detection",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "ransomware",
+        "detection",
+        "honeypot",
+        "canary",
+        "defense",
+        "deception"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "implementing-honeypot-for-ransomware-detection",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "implementing-immutable-backup-with-restic",
+      "name": "implementing-immutable-backup-with-restic",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "restic",
+        "backup",
+        "immutable",
+        "ransomware",
+        "s3",
+        "object-lock",
+        "worm",
+        "recovery"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "implementing-immutable-backup-with-restic",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "implementing-ransomware-backup-strategy",
+      "name": "implementing-ransomware-backup-strategy",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "ransomware",
+        "backup",
+        "incident-response",
+        "defense",
+        "recovery",
+        "immutable-storage"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "implementing-ransomware-backup-strategy",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "performing-ransomware-tabletop-exercise",
+      "name": "performing-ransomware-tabletop-exercise",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "ransomware",
+        "incident-response",
+        "tabletop-exercise",
+        "defense",
+        "preparedness"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "performing-ransomware-tabletop-exercise",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "recovering-from-ransomware-attack",
+      "name": "recovering-from-ransomware-attack",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "ransomware",
+        "recovery",
+        "incident-response",
+        "backup",
+        "defense"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "recovering-from-ransomware-attack",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
     }
   ],
   "categories": [
