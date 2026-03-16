@@ -8515,6 +8515,489 @@
       "license": "Apache-2.0",
       "author": "mukul975",
       "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "building-devsecops-pipeline-with-gitlab-ci",
+      "name": "building-devsecops-pipeline-with-gitlab-ci",
+      "description": "Design and implement a comprehensive DevSecOps pipeline in GitLab CI/CD integrating SAST, DAST, container scanning, dependency scanning, and secret detection.",
+      "category": "security",
+      "tags": [
+        "gitlab-ci",
+        "devsecops",
+        "sast",
+        "dast",
+        "container-scanning",
+        "dependency-scanning",
+        "secret-detection",
+        "cicd-security"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "building-devsecops-pipeline-with-gitlab-ci",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "implementing-aqua-security-for-container-scanning",
+      "name": "implementing-aqua-security-for-container-scanning",
+      "description": "Deploy Aqua Security's Trivy scanner to detect vulnerabilities, misconfigurations, secrets, and license issues in container images across CI/CD pipelines and registries.",
+      "category": "security",
+      "tags": [
+        "aqua-security",
+        "trivy",
+        "container-scanning",
+        "vulnerability-scanning",
+        "sbom",
+        "image-security",
+        "supply-chain"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "implementing-aqua-security-for-container-scanning",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "implementing-code-signing-for-artifacts",
+      "name": "implementing-code-signing-for-artifacts",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "devsecops",
+        "cicd",
+        "code-signing",
+        "supply-chain",
+        "sigstore",
+        "secure-sdlc"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "implementing-code-signing-for-artifacts",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "implementing-fuzz-testing-in-cicd-with-aflplusplus",
+      "name": "implementing-fuzz-testing-in-cicd-with-aflplusplus",
+      "description": "Integrate AFL++ coverage-guided fuzz testing into CI/CD pipelines to discover memory corruption, input handling, and logic vulnerabilities in C/C++ and compiled applications.",
+      "category": "security",
+      "tags": [
+        "aflplusplus",
+        "fuzz-testing",
+        "cicd",
+        "coverage-guided-fuzzing",
+        "security-testing",
+        "vulnerability-discovery",
+        "afl"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "implementing-fuzz-testing-in-cicd-with-aflplusplus",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "implementing-github-advanced-security-for-code-scanning",
+      "name": "implementing-github-advanced-security-for-code-scanning",
+      "description": "Configure GitHub Advanced Security with CodeQL to perform automated static analysis and vulnerability detection across repositories at enterprise scale.",
+      "category": "security",
+      "tags": [
+        "github-advanced-security",
+        "codeql",
+        "sast",
+        "code-scanning",
+        "supply-chain-security",
+        "devops-security",
+        "shift-left"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "implementing-github-advanced-security-for-code-scanning",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "implementing-infrastructure-as-code-security-scanning",
+      "name": "implementing-infrastructure-as-code-security-scanning",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "devsecops",
+        "cicd",
+        "iac-security",
+        "checkov",
+        "tfsec",
+        "terraform",
+        "secure-sdlc"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "implementing-infrastructure-as-code-security-scanning",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "implementing-policy-as-code-with-open-policy-agent",
+      "name": "implementing-policy-as-code-with-open-policy-agent",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "devsecops",
+        "cicd",
+        "opa",
+        "gatekeeper",
+        "policy-as-code",
+        "kubernetes",
+        "secure-sdlc"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "implementing-policy-as-code-with-open-policy-agent",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "implementing-secret-scanning-with-gitleaks",
+      "name": "implementing-secret-scanning-with-gitleaks",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "devsecops",
+        "cicd",
+        "secret-scanning",
+        "gitleaks",
+        "pre-commit",
+        "secure-sdlc"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "implementing-secret-scanning-with-gitleaks",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "implementing-secrets-scanning-in-ci-cd",
+      "name": "implementing-secrets-scanning-in-ci-cd",
+      "description": "Integrate gitleaks and trufflehog into CI/CD pipelines to detect leaked secrets before deployment",
+      "category": "security",
+      "tags": [
+        "secrets-scanning",
+        "gitleaks",
+        "trufflehog",
+        "ci-cd"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "implementing-secrets-scanning-in-ci-cd",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "implementing-semgrep-for-custom-sast-rules",
+      "name": "implementing-semgrep-for-custom-sast-rules",
+      "description": "Write custom Semgrep SAST rules in YAML to detect application-specific vulnerabilities, enforce coding standards, and integrate into CI/CD pipelines.",
+      "category": "security",
+      "tags": [
+        "semgrep",
+        "sast",
+        "static-analysis",
+        "custom-rules",
+        "devsecops",
+        "code-security"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "implementing-semgrep-for-custom-sast-rules",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "integrating-dast-with-owasp-zap-in-pipeline",
+      "name": "integrating-dast-with-owasp-zap-in-pipeline",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "devsecops",
+        "cicd",
+        "dast",
+        "owasp-zap",
+        "dynamic-testing",
+        "secure-sdlc"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "integrating-dast-with-owasp-zap-in-pipeline",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "integrating-sast-into-github-actions-pipeline",
+      "name": "integrating-sast-into-github-actions-pipeline",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "devsecops",
+        "cicd",
+        "sast",
+        "codeql",
+        "semgrep",
+        "secure-sdlc"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "integrating-sast-into-github-actions-pipeline",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "performing-container-image-hardening",
+      "name": "performing-container-image-hardening",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "devsecops",
+        "cicd",
+        "container-hardening",
+        "docker",
+        "cis-benchmark",
+        "secure-sdlc"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "performing-container-image-hardening",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "performing-sca-dependency-scanning-with-snyk",
+      "name": "performing-sca-dependency-scanning-with-snyk",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "devsecops",
+        "cicd",
+        "sca",
+        "snyk",
+        "dependency-scanning",
+        "secure-sdlc"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "performing-sca-dependency-scanning-with-snyk",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "performing-threat-modeling-with-owasp-threat-dragon",
+      "name": "performing-threat-modeling-with-owasp-threat-dragon",
+      "description": "Use OWASP Threat Dragon to create data flow diagrams, identify threats using STRIDE and LINDDUN methodologies, and generate threat model reports for secure design review.",
+      "category": "security",
+      "tags": [
+        "threat-modeling",
+        "owasp",
+        "threat-dragon",
+        "stride",
+        "linddun",
+        "secure-design",
+        "dfd",
+        "data-flow"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "performing-threat-modeling-with-owasp-threat-dragon",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "scanning-containers-with-trivy-in-cicd",
+      "name": "scanning-containers-with-trivy-in-cicd",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "devsecops",
+        "cicd",
+        "trivy",
+        "container-security",
+        "vulnerability-scanning",
+        "secure-sdlc"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "scanning-containers-with-trivy-in-cicd",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "securing-github-actions-workflows",
+      "name": "securing-github-actions-workflows",
+      "description": ">",
+      "category": "security",
+      "tags": [
+        "devsecops",
+        "cicd",
+        "github-actions",
+        "supply-chain",
+        "workflow-security",
+        "secure-sdlc"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "securing-github-actions-workflows",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "Apache-2.0",
+      "author": "mukul975",
+      "source": "mukul975/Anthropic-Cybersecurity-Skills"
     }
   ],
   "categories": [
