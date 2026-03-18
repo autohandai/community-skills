@@ -25284,6 +25284,81 @@
       "license": "Apache-2.0",
       "author": "mukul975",
       "source": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "id": "userinterface-wiki",
+      "name": "userinterface-wiki",
+      "description": "152 UI/UX best practices across 12 categories: animation, timing, exit animations, CSS pseudo-elements, audio feedback, sound synthesis, morphing icons, container animation, laws of UX, predictive prefetching, typography, and visual design.",
+      "category": "ui-design",
+      "tags": [
+        "ui",
+        "ux",
+        "design",
+        "animation",
+        "css",
+        "typography",
+        "accessibility",
+        "web",
+        "motion",
+        "best-practices"
+      ],
+      "languages": [
+        "typescript",
+        "javascript",
+        "css"
+      ],
+      "frameworks": [
+        "react",
+        "nextjs"
+      ],
+      "isFeatured": true,
+      "isCurated": true,
+      "rating": 4.9,
+      "downloadCount": 0,
+      "directory": "userinterface-wiki",
+      "files": [
+        "SKILL.md",
+        "AGENTS.md"
+      ],
+      "version": "3.0.0",
+      "license": "MIT",
+      "author": "raphael-salaja",
+      "source": "raphaelsalaja/userinterface-wiki"
+    },
+    {
+      "id": "swiftui-expert-skill",
+      "name": "swiftui-expert-skill",
+      "description": "Write, review, or improve SwiftUI code following best practices for state management, view composition, performance, macOS-specific APIs, and iOS 26+ Liquid Glass adoption.",
+      "category": "macos-ios",
+      "tags": [
+        "swiftui",
+        "swift",
+        "ios",
+        "macos",
+        "apple",
+        "xcode",
+        "liquid-glass",
+        "accessibility",
+        "animations",
+        "charts"
+      ],
+      "languages": [
+        "swift"
+      ],
+      "frameworks": [
+        "swiftui"
+      ],
+      "isFeatured": true,
+      "isCurated": true,
+      "rating": 4.9,
+      "downloadCount": 0,
+      "directory": "swiftui-expert-skill",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "autohandai"
     }
   ],
   "categories": [
@@ -25364,6 +25439,18 @@
       "name": "Workflows",
       "icon": "workflow",
       "count": 42
+    },
+    {
+      "id": "ui-design",
+      "name": "UI & Design",
+      "icon": "paintbrush",
+      "count": 1
+    },
+    {
+      "id": "macos-ios",
+      "name": "macOS/iOS",
+      "icon": "apple",
+      "count": 1
     }
   ]
 }
