@@ -1510,6 +1510,38 @@
       "source": "toolshell/skills"
     },
     {
+      "id": "tweetclaw-x-twitter-workflows",
+      "name": "tweetclaw-x-twitter-workflows",
+      "description": "Plan TweetClaw X/Twitter source packets and approval-gated OpenClaw workflows.",
+      "category": "workflows",
+      "tags": [
+        "twitter",
+        "x",
+        "tweet-scraper",
+        "openclaw",
+        "mcp"
+      ],
+      "languages": [
+        "typescript",
+        "javascript"
+      ],
+      "frameworks": [
+        "openclaw"
+      ],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "tweetclaw-x-twitter-workflows",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "kriptoburak",
+      "source": "Xquik-dev/tweetclaw"
+    },
+    {
       "id": "test-driven-development",
       "name": "test-driven-development",
       "description": "Use when implementing any feature or bugfix, before writing implementation code",
@@ -25438,7 +25470,7 @@
       "id": "workflows",
       "name": "Workflows",
       "icon": "workflow",
-      "count": 42
+      "count": 43
     },
     {
       "id": "ui-design",
