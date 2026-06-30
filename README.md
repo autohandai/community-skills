@@ -112,6 +112,7 @@ Inside an Autohand session, use these `/skills` commands:
 | Workflows | 42 | Git, CI/CD, testing, API design, deployment |
 | Cloud | 40 | AWS, Azure, GCP, Kubernetes, Terraform |
 | Marketing | 25 | SEO, analytics, content strategy, A/B testing |
+| Migrations | 7 | COBOL, mainframe, and legacy modernization workflows |
 | Agent Skills | 21 | Browser automation, email, evaluation, configuration |
 | Frameworks | 16 | React, Next.js, Vue, FastAPI, Django, Rails |
 | Design | 15 | UI patterns, Tailwind, accessibility, responsive |

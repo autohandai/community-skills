@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-03-16T00:00:00Z",
+  "updatedAt": "2026-06-30T00:00:00Z",
   "skills": [
     {
       "id": "typescript-refactoring-patterns",
@@ -25359,6 +25359,249 @@
       "version": "1.0.0",
       "license": "MIT",
       "author": "autohandai"
+    },
+    {
+      "id": "cobol-o-matic",
+      "name": "cobol-o-matic",
+      "description": "Reverse-engineer COBOL systems into structured requirements, business rules, and dependency maps with cobol-o-matic.",
+      "category": "migrations",
+      "tags": [
+        "cobol",
+        "mainframe",
+        "reverse-engineering",
+        "business-rules",
+        "modernization"
+      ],
+      "languages": [
+        "cobol"
+      ],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "cobol-o-matic",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "dsheard",
+      "source": "dsheard/cobol-o-matic",
+      "sourceUrl": "https://github.com/dsheard/cobol-o-matic",
+      "sourceLicense": "MIT",
+      "originalType": "Reverse Engineering"
+    },
+    {
+      "id": "legacy-modernization-agents",
+      "name": "legacy-modernization-agents",
+      "description": "Modernize COBOL systems to Java Quarkus or .NET with Microsoft Legacy Modernization Agents workflows.",
+      "category": "migrations",
+      "tags": [
+        "cobol",
+        "java",
+        "csharp",
+        "quarkus",
+        "modernization"
+      ],
+      "languages": [
+        "cobol",
+        "java",
+        "csharp"
+      ],
+      "frameworks": [
+        "quarkus",
+        ".net",
+        "microsoft-agent-framework"
+      ],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "legacy-modernization-agents",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "Microsoft",
+      "source": "Azure-Samples/Legacy-Modernization-Agents",
+      "sourceUrl": "https://github.com/Azure-Samples/Legacy-Modernization-Agents",
+      "sourceLicense": "NOASSERTION",
+      "originalType": "Migration (COBOL to Java/C#)"
+    },
+    {
+      "id": "legacybridge-oss-cobol",
+      "name": "legacybridge-oss-cobol",
+      "description": "Plan and execute AI-assisted COBOL to Java migrations with LegacyBridge OSS COBOL.",
+      "category": "migrations",
+      "tags": [
+        "cobol",
+        "java",
+        "python",
+        "atomic-agents",
+        "modernization"
+      ],
+      "languages": [
+        "cobol",
+        "java",
+        "python"
+      ],
+      "frameworks": [
+        "atomic-agents",
+        "instructor"
+      ],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "legacybridge-oss-cobol",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "ltoscano",
+      "source": "ltoscano/legacybridge-oss-cobol",
+      "sourceUrl": "https://github.com/ltoscano/legacybridge-oss-cobol",
+      "sourceLicense": "NOASSERTION",
+      "originalType": "Migration (COBOL to Java)"
+    },
+    {
+      "id": "atlas-toolkit-discovery",
+      "name": "atlas-toolkit-discovery",
+      "description": "Inventory COBOL estates and classify modernization go/no-go readiness with ATLAS toolkit discovery.",
+      "category": "migrations",
+      "tags": [
+        "cobol",
+        "discovery",
+        "assessment",
+        "inventory",
+        "modernization"
+      ],
+      "languages": [
+        "cobol"
+      ],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "atlas-toolkit-discovery",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "Vivantro",
+      "source": "Vivantro/atlas-toolkit-discovery",
+      "sourceUrl": "https://github.com/Vivantro/atlas-toolkit-discovery",
+      "sourceLicense": "NOASSERTION",
+      "originalType": "Discovery/Assessment"
+    },
+    {
+      "id": "mainframe-ai",
+      "name": "mainframe-ai",
+      "description": "Use AI assistance for IBM z/OS and mainframe modernization tasks from the mainframe-ai project.",
+      "category": "migrations",
+      "tags": [
+        "mainframe",
+        "zos",
+        "cobol",
+        "jcl",
+        "modernization"
+      ],
+      "languages": [
+        "cobol",
+        "jcl"
+      ],
+      "frameworks": [
+        "zos"
+      ],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "mainframe-ai",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "W00t3k",
+      "source": "W00t3k/mainframe-ai",
+      "sourceUrl": "https://github.com/W00t3k/mainframe-ai",
+      "sourceLicense": "NOASSERTION",
+      "originalType": "IBM z/OS Assistant"
+    },
+    {
+      "id": "legacy-modernization-orchestrator",
+      "name": "legacy-modernization-orchestrator",
+      "description": "Orchestrate multi-agent legacy modernization assessment, planning, and code-conversion workflows.",
+      "category": "migrations",
+      "tags": [
+        "legacy-modernization",
+        "orchestration",
+        "cobol",
+        "agents",
+        "migration"
+      ],
+      "languages": [
+        "cobol",
+        "java",
+        "csharp"
+      ],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "legacy-modernization-orchestrator",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "atesibrahim",
+      "source": "atesibrahim/legacy-modernization-orchestrator",
+      "sourceUrl": "https://github.com/atesibrahim/legacy-modernization-orchestrator",
+      "sourceLicense": "MIT",
+      "originalType": "General Legacy Modernization"
+    },
+    {
+      "id": "mainframe",
+      "name": "mainframe",
+      "description": "Use the Mainframe AI-native Bash runtime and bundled skills for legacy system analysis automation.",
+      "category": "migrations",
+      "tags": [
+        "mainframe",
+        "bash",
+        "mcp",
+        "lsp",
+        "automation"
+      ],
+      "languages": [
+        "bash"
+      ],
+      "frameworks": [
+        "mcp",
+        "lsp"
+      ],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "mainframe",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "gtwatts",
+      "source": "gtwatts/mainframe",
+      "sourceUrl": "https://github.com/gtwatts/mainframe",
+      "sourceLicense": "MIT",
+      "originalType": "Bash Library + Skills"
     }
   ],
   "categories": [
@@ -25427,6 +25670,12 @@
       "name": "Marketing",
       "icon": "megaphone",
       "count": 25
+    },
+    {
+      "id": "migrations",
+      "name": "Migrations",
+      "icon": "shuffle",
+      "count": 7
     },
     {
       "id": "quality",
