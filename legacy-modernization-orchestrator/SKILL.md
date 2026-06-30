@@ -16,6 +16,8 @@ Use this skill to coordinate a multi-step modernization effort across discovery,
 
 Compatibility: COBOL, legacy modernization, Codex, Claude, and Copilot.
 
+Repository table context: listed as a Both-tool modernization repository with 2 stars, 3 contributors, 0 .NET skills, and 10+ Java modernization agents in the provided inventory.
+
 ## Workflow
 
 1. Define the modernization objective, target platform, scope boundaries, success criteria, and non-goals.
