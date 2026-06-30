@@ -1,6 +1,6 @@
 # Autohand Community Skills
 
-A curated collection of 200+ skills for the [Autohand](https://autohand.ai) CLI coding agent.
+A curated collection of 1,100+ skills for the [Autohand](https://autohand.ai) CLI coding agent.
 
 Browse all skills at [skilled.autohand.ai](https://skilled.autohand.ai).
 
@@ -112,8 +112,10 @@ Inside an Autohand session, use these `/skills` commands:
 | Workflows | 42 | Git, CI/CD, testing, API design, deployment |
 | Cloud | 40 | AWS, Azure, GCP, Kubernetes, Terraform |
 | Marketing | 25 | SEO, analytics, content strategy, A/B testing |
+| Migrations | 7 | COBOL, mainframe, and legacy modernization workflows |
+| .NET | 19 | .NET, C#, Azure SDK, and agent workflow skills |
 | Agent Skills | 21 | Browser automation, email, evaluation, configuration |
-| Frameworks | 16 | React, Next.js, Vue, FastAPI, Django, Rails |
+| Frameworks | 19 | React, Next.js, Vue, FastAPI, Django, Rails, Spring Boot, Quarkus |
 | Design | 15 | UI patterns, Tailwind, accessibility, responsive |
 | AI Tools | 12 | LLM integration, image/video generation, embeddings |
 | Quality | 9 | Code review, linting, security, performance |
