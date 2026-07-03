@@ -376,6 +376,36 @@
       "source": "vercel-labs/skills"
     },
     {
+      "id": "deep-research-skills",
+      "name": "deep-research-skills",
+      "description": "Run Weizhena's Deep Research workflow in Autohand Code for outline generation, deep web investigation, structured evidence capture, and final research reports.",
+      "category": "agent-skills",
+      "tags": [
+        "research",
+        "deep-research",
+        "web-search",
+        "reports",
+        "agent-workflow"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "deep-research-skills",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "Weizhena",
+      "source": "Weizhena/Deep-Research-skills",
+      "sourceUrl": "https://github.com/Weizhena/Deep-Research-skills",
+      "sourceLicense": "MIT",
+      "upstreamCommit": "e5479f8"
+    },
+    {
       "id": "vercel-react-best-practices",
       "name": "vercel-react-best-practices",
       "description": "React and Next.js performance optimization guidelines from Vercel Engineering. This skill should be used when writing, reviewing, or refactoring React/Next.js code to ensure optimal performance patterns. Triggers on tasks involving React components, Next.js pages, data fetching, bundle optimization, or performance improvements.",
@@ -32426,7 +32456,7 @@
       "id": "agent-skills",
       "name": "Agent Skills",
       "icon": "bot",
-      "count": 21
+      "count": 22
     },
     {
       "id": "ai-tools",

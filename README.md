@@ -114,7 +114,7 @@ Inside an Autohand session, use these `/skills` commands:
 | Marketing | 25 | SEO, analytics, content strategy, A/B testing |
 | Migrations | 7 | COBOL, mainframe, and legacy modernization workflows |
 | .NET | 19 | .NET, C#, Azure SDK, and agent workflow skills |
-| Agent Skills | 21 | Browser automation, email, evaluation, configuration |
+| Agent Skills | 22 | Browser automation, email, evaluation, configuration |
 | Frameworks | 19 | React, Next.js, Vue, FastAPI, Django, Rails, Spring Boot, Quarkus |
 | Design | 15 | UI patterns, Tailwind, accessibility, responsive |
 | AI Tools | 12 | LLM integration, image/video generation, embeddings |
