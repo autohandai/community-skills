@@ -91,6 +91,16 @@ autohand --skill-install typescript-refactoring-patterns
 autohand --skill-install react-component-architecture --project
 ```
 
+#### npx skills / skills.sh
+
+Install the extension authoring skill through the open Agent Skills ecosystem:
+
+```bash
+npx skills add https://github.com/autohandai/community-skills/tree/main/extension-builder --skill extension-builder -g -a codex -y
+```
+
+Successful installs are indexed by [skills.sh](https://skills.sh) through the Skills CLI's anonymous telemetry.
+
 ## Managing Skills
 
 Inside an Autohand session, use these `/skills` commands:
@@ -114,7 +124,7 @@ Inside an Autohand session, use these `/skills` commands:
 | Marketing | 25 | SEO, analytics, content strategy, A/B testing |
 | Migrations | 7 | COBOL, mainframe, and legacy modernization workflows |
 | .NET | 19 | .NET, C#, Azure SDK, and agent workflow skills |
-| Agent Skills | 22 | Browser automation, email, evaluation, configuration |
+| Agent Skills | 23 | Browser automation, email, evaluation, configuration |
 | Frameworks | 19 | React, Next.js, Vue, FastAPI, Django, Rails, Spring Boot, Quarkus |
 | Design | 15 | UI patterns, Tailwind, accessibility, responsive |
 | AI Tools | 12 | LLM integration, image/video generation, embeddings |

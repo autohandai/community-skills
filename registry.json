@@ -406,6 +406,42 @@
       "upstreamCommit": "e5479f8"
     },
     {
+      "id": "extension-builder",
+      "name": "extension-builder",
+      "description": "Create, extend, convert, validate, and install Autohand Code extensions, including reviewed Pi and pi-mono adaptations.",
+      "category": "agent-skills",
+      "tags": [
+        "autohand",
+        "extensions",
+        "pi-mono",
+        "agent-skills",
+        "developer-tools"
+      ],
+      "languages": [
+        "typescript"
+      ],
+      "frameworks": [
+        "autohand",
+        "pi"
+      ],
+      "isFeatured": true,
+      "isCurated": true,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "extension-builder",
+      "files": [
+        "SKILL.md",
+        "references/autohand-extension-v1.md",
+        "references/pi-compatibility.md",
+        "agents/openai.yaml"
+      ],
+      "version": "1.0.0",
+      "license": "Apache-2.0",
+      "author": "autohandai",
+      "source": "autohandai/community-skills",
+      "sourceUrl": "https://github.com/autohandai/community-skills/tree/main/extension-builder"
+    },
+    {
       "id": "vercel-react-best-practices",
       "name": "vercel-react-best-practices",
       "description": "React and Next.js performance optimization guidelines from Vercel Engineering. This skill should be used when writing, reviewing, or refactoring React/Next.js code to ensure optimal performance patterns. Triggers on tasks involving React components, Next.js pages, data fetching, bundle optimization, or performance improvements.",
@@ -32456,7 +32492,7 @@
       "id": "agent-skills",
       "name": "Agent Skills",
       "icon": "bot",
-      "count": 22
+      "count": 23
     },
     {
       "id": "ai-tools",
