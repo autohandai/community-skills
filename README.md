@@ -96,7 +96,7 @@ autohand --skill-install react-component-architecture --project
 Install the extension authoring skill through the open Agent Skills ecosystem:
 
 ```bash
-npx skills add https://github.com/autohandai/community-skills/tree/main/extension-builder --skill extension-builder -g -a codex -y
+npx skills add https://github.com/autohandai/community-skills --skill extension-builder -g -a codex -y
 ```
 
 Successful installs are indexed by [skills.sh](https://skills.sh) through the Skills CLI's anonymous telemetry.
