@@ -428,7 +428,7 @@
       "isCurated": true,
       "rating": 0,
       "downloadCount": 0,
-      "directory": "extension-builder",
+      "directory": "skills/extension-builder",
       "files": [
         "SKILL.md",
         "references/autohand-extension-v1.md",
@@ -439,7 +439,7 @@
       "license": "Apache-2.0",
       "author": "autohandai",
       "source": "autohandai/community-skills",
-      "sourceUrl": "https://github.com/autohandai/community-skills/tree/main/extension-builder"
+      "sourceUrl": "https://github.com/autohandai/community-skills/tree/main/skills/extension-builder"
     },
     {
       "id": "vercel-react-best-practices",
