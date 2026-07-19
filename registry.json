@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-06-30T00:00:00Z",
+  "updatedAt": "2026-07-19T00:00:00Z",
   "skills": [
     {
       "id": "typescript-refactoring-patterns",
@@ -7285,7 +7285,7 @@
       "isCurated": false,
       "rating": 0,
       "downloadCount": 0,
-      "directory": "performing-soc-2-type-ii-audit-preparation",
+      "directory": "performing-soc2-type2-audit-preparation",
       "files": [
         "SKILL.md"
       ],
@@ -7634,7 +7634,7 @@
     {
       "id": "implementing-kubernetes-pod-security-standards",
       "name": "implementing-kubernetes-pod-security-standards",
-      "description": "Pod Security Standards (PSS) define three levels of security policies -- Privileged, Baseline, and Restricted -- enforced by the Pod Security Admission (PSA) controller built into Kubernetes 1.25+. PS",
+      "description": "Pod Security Standards (PSS) define three levels of security policies: Privileged, Baseline, and Restricted. The Pod Security Admission (PSA) controller enforces them in Kubernetes 1.25+. PS",
       "category": "security",
       "tags": [
         "containers",
@@ -32485,6 +32485,37 @@
         "stars": "3,400",
         "contributors": "57"
       }
+    },
+    {
+      "id": "xquik-x-data",
+      "name": "xquik-x-data",
+      "description": "X/Twitter data extraction, monitoring, REST API, MCP, and webhooks with Xquik",
+      "category": "agent-skills",
+      "tags": [
+        "x-twitter",
+        "mcp",
+        "api",
+        "webhooks"
+      ],
+      "languages": [],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "xquik-x-data",
+      "files": [
+        "SKILL.md"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "Xquik-dev",
+      "source": "Xquik-dev/x-twitter-scraper",
+      "sourceUrl": "https://github.com/Xquik-dev/x-twitter-scraper",
+      "sourceLicense": "MIT",
+      "tool": "Both",
+      "product": "Xquik",
+      "originalName": "xquik-x-data"
     }
   ],
   "categories": [
@@ -32492,7 +32523,7 @@
       "id": "agent-skills",
       "name": "Agent Skills",
       "icon": "bot",
-      "count": 23
+      "count": 24
     },
     {
       "id": "ai-tools",
@@ -32522,7 +32553,7 @@
       "id": "devops",
       "name": "Devops",
       "icon": "server",
-      "count": 9
+      "count": 7
     },
     {
       "id": "documentation",
@@ -32534,7 +32565,7 @@
       "id": "documents",
       "name": "Documents",
       "icon": "file-text",
-      "count": 7
+      "count": 8
     },
     {
       "id": "dotnet",
@@ -32571,6 +32602,12 @@
       "name": "Quality",
       "icon": "shield-check",
       "count": 9
+    },
+    {
+      "id": "security",
+      "name": "Security",
+      "icon": "shield",
+      "count": 736
     },
     {
       "id": "workflows",
