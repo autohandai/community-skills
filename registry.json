@@ -32485,6 +32485,34 @@
         "stars": "3,400",
         "contributors": "57"
       }
+    },
+    {
+      "id": "atlas-cloud-media",
+      "name": "atlas-cloud-media",
+      "description": "Generate image and video media through Atlas Cloud with live model-schema validation.",
+      "category": "ai-tools",
+      "tags": [
+        "atlas-cloud",
+        "image-generation",
+        "video-generation",
+        "api"
+      ],
+      "languages": [
+        "python"
+      ],
+      "frameworks": [],
+      "isFeatured": false,
+      "isCurated": false,
+      "rating": 0,
+      "downloadCount": 0,
+      "directory": "atlas-cloud-media",
+      "files": [
+        "SKILL.md",
+        "scripts/generate.py"
+      ],
+      "version": "1.0.0",
+      "license": "MIT",
+      "author": "binyangzhu000-sudo"
     }
   ],
   "categories": [
@@ -32498,7 +32526,7 @@
       "id": "ai-tools",
       "name": "Ai Tools",
       "icon": "sparkles",
-      "count": 12
+      "count": 13
     },
     {
       "id": "cloud",
